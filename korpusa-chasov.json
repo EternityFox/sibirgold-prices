@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "category": "korpusa-chasov",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "korpusa-chasov-so-znakom-au-c-mehanizmom",
+      "name": "Корпуса часов со знаком AU",
+      "desc": "c механизмом",
+      "image": "/img/34740316_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "korpusa-chasov-i-braslety-so-znakom-au-bez-mehanizma",
+      "name": "Корпуса часов и браслеты со знаком AU",
+      "desc": "без механизма",
+      "image": "/img/34740322_1920_q70.jpg",
+      "unit": "кг",
+      "price": 81973.6
+    },
+    {
+      "id": "korpusa-chasov-so-znakom-au-bez-mehanizma",
+      "name": "Корпуса часов со знаком AU",
+      "desc": "без механизма",
+      "image": "/img/44102307_1920_q70.jpg",
+      "unit": "кг",
+      "price": 61668.35
+    }
+  ]
+}

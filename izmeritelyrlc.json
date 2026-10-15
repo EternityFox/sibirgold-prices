@@ -1,0 +1,89 @@
+{
+  "schema": 1,
+  "category": "izmeritelyrlc",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "e4-11",
+      "name": "E4-11",
+      "image": "/img/34816398_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1200.0
+    },
+    {
+      "id": "e7-10",
+      "name": "E7-10",
+      "image": "/img/34816401_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4000.0
+    },
+    {
+      "id": "e7-12-do-90-goda",
+      "name": "Е7-12",
+      "desc": "до 90 года",
+      "image": "/img/34816412_1920_q70.jpg",
+      "unit": "шт",
+      "price": 14400.0
+    },
+    {
+      "id": "e7-12-posle-90-goda",
+      "name": "Е7-12",
+      "desc": "после 90 года",
+      "image": "/img/34816412_1920_q70.jpg",
+      "unit": "шт",
+      "price": 6400.0
+    },
+    {
+      "id": "e7-13",
+      "name": "E7-13",
+      "image": "/img/34816414_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2400.0
+    },
+    {
+      "id": "e7-14",
+      "name": "E7-14",
+      "image": "/img/34816417_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4000.0
+    },
+    {
+      "id": "e7-15-e7-16",
+      "name": "E7-15, Е7-16",
+      "image": "/img/34816418_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2800.0
+    },
+    {
+      "id": "e7-8-do-86-goda",
+      "name": "E7-8",
+      "desc": "до 86 года",
+      "image": "/img/34816421_1920_q70.jpg",
+      "unit": "шт",
+      "price": 12000.0
+    },
+    {
+      "id": "e7-8-posle-87-goda",
+      "name": "E7-8",
+      "desc": "после 87 года",
+      "image": "/img/34816421_1920_q70.jpg",
+      "unit": "шт",
+      "price": 7200.0
+    },
+    {
+      "id": "e8-4",
+      "name": "E8-4",
+      "image": "/img/34816423_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3600.0
+    },
+    {
+      "id": "e8-5",
+      "name": "E8-5",
+      "image": "/img/34816424_1920_q70.jpg",
+      "unit": "шт",
+      "price": 5600.0
+    }
+  ]
+}

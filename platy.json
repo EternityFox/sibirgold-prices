@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "category": "platy",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "bytovaya-elektronika",
+      "name": "Бытовая электроника",
+      "image": "/img/34721399_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "plata-ot-zhestkogo-diska-hdd",
+      "name": "Плата от жесткого диска",
+      "desc": "HDD",
+      "image": "/img/34721400_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "plata-ot-cd-rom",
+      "name": "Плата от CD-ROM",
+      "image": "/img/34721401_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "plata-ot-sotovoj-gsm-stanczii-zheltaya",
+      "name": "Плата от сотовой GSM станции",
+      "desc": "желтая",
+      "image": "/img/34721402_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "materinskie-platy-do-pentium-4",
+      "name": "Материнские платы",
+      "desc": "до Pentium 4",
+      "image": "/img/34721403_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "materinskie-platy-pentium-4-i-novee",
+      "name": "Материнские платы",
+      "desc": "Pentium 4 и новее",
+      "image": "/img/34721404_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "importnaya-elektronika-videokarta-bez-metallicheskih-chastej-radiatorov-kulera",
+      "name": "Импортная электроника видеокарта",
+      "desc": "без металлических частей, радиаторов, кулера",
+      "image": "/img/34721405_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "importnaya-elektronika-operativnaya-pamyat",
+      "name": "Импортная электроника",
+      "desc": "Оперативная память",
+      "image": "/img/34721406_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "platy-importnye-so-smartfonov-dve-sim-karty",
+      "name": "Платы импортные со смартфонов",
+      "desc": "две сим-карты",
+      "image": "/img/34721408_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "platy-ot-mobilnogo-knopochnogo-telefona-s-odnoj-sim-kartoj",
+      "name": "Платы от мобильного (кнопочного) телефона",
+      "desc": "с одной сим-картой",
+      "image": "/img/34721409_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "importnaya-elektronika-monitornaya-plata-bez-metallicheskih-plastmassovyh-chastej-i-radiatorov",
+      "name": "Импортная электроника мониторная плата",
+      "desc": "без металлических, пластмассовых частей и радиаторов",
+      "image": "/img/34721411_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "platy-importnye-bytovye-ot-monitorov-bez-metallicheskih-plastmassovyh-chastej-i-radiatorov",
+      "name": "Платы импортные бытовые от мониторов",
+      "desc": "без металлических, пластмассовых частей и радиаторов",
+      "image": "/img/34721412_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "platy-s-mikroshemoj-serii-155-zapolnenie-80",
+      "name": "Платы с микросхемой серии 155",
+      "desc": "заполнение 80%",
+      "image": "/img/34721414_1920.png",
+      "price": null
+    },
+    {
+      "id": "platy-ot-televizorov-sovetskie-bez-metallicheskih-chastej-radiatorov",
+      "name": "Платы от телевизоров советские",
+      "desc": "без металлических частей, радиаторов",
+      "image": "/img/34721416_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "platy-pribornye-sovetskie",
+      "name": "Платы приборные советские",
+      "image": "/img/34721417_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "srezka-s-plat",
+      "name": "Срезка с плат",
+      "image": "/img/34721418_1920_q70.jpg",
+      "price": null
+    }
+  ]
+}

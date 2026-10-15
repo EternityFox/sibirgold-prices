@@ -1,0 +1,829 @@
+{
+  "schema": 1,
+  "category": "patanciometry",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "ppml-i-ppml-im-ppml-mr-1-kom",
+      "name": "ППМЛ-И- ППМЛ-ИМ- ППМЛ-МR",
+      "desc": "1 кОм",
+      "image": "/img/34564428_1920.png",
+      "price": null
+    },
+    {
+      "id": "ppml-i-ppml-im-ppml-mr-2-kom",
+      "name": "ППМЛ-И- ППМЛ-ИМ- ППМЛ-МR",
+      "desc": "2 кОм",
+      "image": "/img/34564428_1920.png",
+      "unit": "шт",
+      "price": 1527.15
+    },
+    {
+      "id": "ppml-i-ppml-im-ppml-mr-5-kom",
+      "name": "ППМЛ-И- ППМЛ-ИМ- ППМЛ-МR",
+      "desc": "5 кОм",
+      "image": "/img/34564428_1920.png",
+      "unit": "шт",
+      "price": 867.08
+    },
+    {
+      "id": "ppml-i-ppml-im-ppml-mr-10-kom",
+      "name": "ППМЛ-И- ППМЛ-ИМ- ППМЛ-МR",
+      "desc": "10 кОм",
+      "image": "/img/34564428_1920.png",
+      "unit": "шт",
+      "price": 763.58
+    },
+    {
+      "id": "ppml-i-ppml-im-ppml-mr-20-kom",
+      "name": "ППМЛ-И- ППМЛ-ИМ- ППМЛ-МR",
+      "desc": "20 кОм",
+      "image": "/img/34564428_1920.png",
+      "unit": "шт",
+      "price": 772.06
+    },
+    {
+      "id": "ppml-i-ppml-im-ppml-mr-40-kom",
+      "name": "ППМЛ-И- ППМЛ-ИМ- ППМЛ-МR",
+      "desc": "40 кОм",
+      "image": "/img/34564428_1920.png",
+      "unit": "шт",
+      "price": 653.51
+    },
+    {
+      "id": "ppbl-v-ppbn-vr-5-kom",
+      "name": "ППБЛ-В; ППБН-ВR",
+      "desc": "5 ком",
+      "image": "/img/34721383_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-1r-013-kom",
+      "name": "ПТП-1R",
+      "desc": "0,13 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-1r-016-kom",
+      "name": "ПТП-1R",
+      "desc": "0,16 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-1r-02-kom",
+      "name": "ПТП-1R",
+      "desc": "0,2 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2941.15
+    },
+    {
+      "id": "ptp-1r-025-kom",
+      "name": "ПТП-1R",
+      "desc": "0,25 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3299.52
+    },
+    {
+      "id": "ptp-1r-032-kom",
+      "name": "ПТП-1R",
+      "desc": "0,32 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2389.53
+    },
+    {
+      "id": "ptp-1r-036-kom",
+      "name": "ПТП-1R",
+      "desc": "0,36 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2376.22
+    },
+    {
+      "id": "ptp-1r-04-kom",
+      "name": "ПТП-1R",
+      "desc": "0,4 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2205.11
+    },
+    {
+      "id": "ptp-1r-045-kom",
+      "name": "ПТП-1R",
+      "desc": "0,45 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1302.57
+    },
+    {
+      "id": "ptp-1r-05-kom",
+      "name": "ПТП-1R",
+      "desc": "0,5 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2026.39
+    },
+    {
+      "id": "ptp-1r-06-kom",
+      "name": "ПТП-1R",
+      "desc": "0,6 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2046.49
+    },
+    {
+      "id": "ptp-1r-063-kom",
+      "name": "ПТП-1R",
+      "desc": "0,63 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1839.61
+    },
+    {
+      "id": "ptp-1r-066-kom",
+      "name": "ПТП-1R",
+      "desc": "0,66 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1831.61
+    },
+    {
+      "id": "ptp-1r-075-kom",
+      "name": "ПТП-1R",
+      "desc": "0,75 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1581.64
+    },
+    {
+      "id": "ptp-1r-08-kom",
+      "name": "ПТП-1R",
+      "desc": "0,8 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1748.47
+    },
+    {
+      "id": "ptp-1r-1-kom",
+      "name": "ПТП-1R",
+      "desc": "1 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 643.48
+    },
+    {
+      "id": "ptp-1r-125-kom",
+      "name": "ПТП-1R",
+      "desc": "1,25 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1432.45
+    },
+    {
+      "id": "ptp-1r-15-kom",
+      "name": "ПТП-1R",
+      "desc": "1,5 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1335.27
+    },
+    {
+      "id": "ptp-1r-16-kom",
+      "name": "ПТП-1R",
+      "desc": "1,6 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1382.93
+    },
+    {
+      "id": "ptp-1r-18-kom",
+      "name": "ПТП-1R",
+      "desc": "1,8 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1275.51
+    },
+    {
+      "id": "ptp-1r-2-kom",
+      "name": "ПТП-1R",
+      "desc": "2 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1112.62
+    },
+    {
+      "id": "ptp-1r-25-kom",
+      "name": "ПТП-1R",
+      "desc": "2,5 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 806.58
+    },
+    {
+      "id": "ptp-1r-3-kom",
+      "name": "ПТП-1R",
+      "desc": "3 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 711.26
+    },
+    {
+      "id": "ptp-1r-32-kom",
+      "name": "ПТП-1R",
+      "desc": "3,2 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 894.06
+    },
+    {
+      "id": "ptp-1r-375-kom",
+      "name": "ПТП-1R",
+      "desc": "3,75 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 599.1
+    },
+    {
+      "id": "ptp-1r-4-kom",
+      "name": "ПТП-1R",
+      "desc": "4 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 561.24
+    },
+    {
+      "id": "ptp-1r-5-kom",
+      "name": "ПТП-1R",
+      "desc": "5 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 554.35
+    },
+    {
+      "id": "ptp-1r-63-kom",
+      "name": "ПТП-1R",
+      "desc": "6,3 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 536.49
+    },
+    {
+      "id": "ptp-1r-77-kom",
+      "name": "ПТП-1R",
+      "desc": "7,7 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 572.17
+    },
+    {
+      "id": "ptp-1r-8-kom",
+      "name": "ПТП-1R",
+      "desc": "8 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 643.43
+    },
+    {
+      "id": "ptp-1r-84-kom",
+      "name": "ПТП-1R",
+      "desc": "8,4 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 602.91
+    },
+    {
+      "id": "ptp-1r-10-kom",
+      "name": "ПТП-1R",
+      "desc": "10 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 293.27
+    },
+    {
+      "id": "ptp-1r-125-kom-2",
+      "name": "ПТП-1R",
+      "desc": "12,5 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 447.09
+    },
+    {
+      "id": "ptp-1r-16-kom-2",
+      "name": "ПТП-1R",
+      "desc": "16 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 437.43
+    },
+    {
+      "id": "ptp-1r-18-kom-2",
+      "name": "ПТП-1R",
+      "desc": "18 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 440.73
+    },
+    {
+      "id": "ptp-1r-20-kom",
+      "name": "ПТП-1R",
+      "desc": "20 кОм",
+      "image": "/img/34564432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 418.64
+    },
+    {
+      "id": "ptp-2-plp-1r-013-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,13 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-2-plp-1r-016-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,16 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-2-plp-1r-02-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,2 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3689.91
+    },
+    {
+      "id": "ptp-2-plp-1r-025-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,25 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3856.18
+    },
+    {
+      "id": "ptp-2-plp-1r-032-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,32 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4171.06
+    },
+    {
+      "id": "ptp-2-plp-1r-036-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,36 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4014.86
+    },
+    {
+      "id": "ptp-2-plp-1r-04-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,4 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4175.86
+    },
+    {
+      "id": "ptp-2-plp-1r-045-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,45 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2435.69
+    },
+    {
+      "id": "ptp-2-plp-1r-05-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,5 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2563.23
+    },
+    {
+      "id": "ptp-2-plp-1r-06-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,6 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2483.85
+    },
+    {
+      "id": "ptp-2-plp-1r-063-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,63 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3156.73
+    },
+    {
+      "id": "ptp-2-plp-1r-066-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,66 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2952.07
+    },
+    {
+      "id": "ptp-2-plp-1r-075-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,75 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-2-plp-1r-08-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "0,8 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2930.69
+    },
+    {
+      "id": "ptp-2-plp-1r-1-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "1 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2788.86
+    },
+    {
+      "id": "ptp-2-plp-1r-125-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "1,25 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2590.84
+    },
+    {
+      "id": "ptp-2-plp-1r-15-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "1,5 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2224.25
+    },
+    {
+      "id": "ptp-2-plp-1r-16-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "1,6 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2357.91
+    },
+    {
+      "id": "ptp-2-plp-1r-18-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "1,8 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2213.05
+    },
+    {
+      "id": "ptp-2-plp-1r-2-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "2 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2210.98
+    },
+    {
+      "id": "ptp-2-plp-1r-25-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "2,5 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1952.47
+    },
+    {
+      "id": "ptp-2-plp-1r-3-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "3 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1754.27
+    },
+    {
+      "id": "ptp-2-plp-1r-32-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "3,2 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1673.02
+    },
+    {
+      "id": "ptp-2-plp-1r-375-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "3,75 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1549.54
+    },
+    {
+      "id": "ptp-2-plp-1r-4-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "4 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1474.24
+    },
+    {
+      "id": "ptp-2-plp-1r-5-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "5 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1466.22
+    },
+    {
+      "id": "ptp-2-plp-1r-63-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "6,3 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1236.96
+    },
+    {
+      "id": "ptp-2-plp-1r-77-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "7,7 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1199.63
+    },
+    {
+      "id": "ptp-2-plp-1r-8-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "8 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1168.36
+    },
+    {
+      "id": "ptp-2-plp-1r-10-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "10 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1073.0
+    },
+    {
+      "id": "ptp-2-plp-1r-125-kom-2",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "12,5 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 973.76
+    },
+    {
+      "id": "ptp-2-plp-1r-16-kom-2",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "16 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 803.91
+    },
+    {
+      "id": "ptp-2-plp-1r-20-kom",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "20 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 762.12
+    },
+    {
+      "id": "ptp-2-plp-1r-25-kom-2",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "25 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 743.19
+    },
+    {
+      "id": "ptp-2-plp-1r-32-kom-2",
+      "name": "ПТП-2- ПЛП-1R",
+      "desc": "32 кОм",
+      "image": "/img/34564468_1920_q70.jpg",
+      "unit": "шт",
+      "price": 735.41
+    },
+    {
+      "id": "ptp-5-plp-2r-05-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "0,5 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 7748.22
+    },
+    {
+      "id": "ptp-5-plp-2r-063-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "0,63 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 6825.87
+    },
+    {
+      "id": "ptp-5-plp-2r-1-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "1 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 5545.42
+    },
+    {
+      "id": "ptp-5-plp-2r-125-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "1,25 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 5190.45
+    },
+    {
+      "id": "ptp-5-plp-2r-15-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "1,5 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4972.02
+    },
+    {
+      "id": "ptp-5-plp-2r-16-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "1,6 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4953.68
+    },
+    {
+      "id": "ptp-5-plp-2r-18-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "1,8 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4628.51
+    },
+    {
+      "id": "ptp-5-plp-2r-2-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "2 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4516.78
+    },
+    {
+      "id": "ptp-5-plp-2r-25-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "2,5 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3710.97
+    },
+    {
+      "id": "ptp-5-plp-2r-3-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "3 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3699.09
+    },
+    {
+      "id": "ptp-5-plp-2r-32-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "3,2 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3695.24
+    },
+    {
+      "id": "ptp-5-plp-2r-375-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "3,75 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3631.41
+    },
+    {
+      "id": "ptp-5-plp-2r-4-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "4 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3276.65
+    },
+    {
+      "id": "ptp-5-plp-2r-5-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "5 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 3076.98
+    },
+    {
+      "id": "ptp-5-plp-2r-63-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "6,3 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-5-plp-2r-77-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "7,7 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-5-plp-2r-8-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "8 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-5-plp-2r-84-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "8,4 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ptp-5-plp-2r-10-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "10 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1148.24
+    },
+    {
+      "id": "ptp-5-plp-2r-125-kom-2",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "12,5 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2260.87
+    },
+    {
+      "id": "ptp-5-plp-2r-16-kom-2",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "16 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1331.26
+    },
+    {
+      "id": "ptp-5-plp-2r-18-kom-2",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "18 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1429.59
+    },
+    {
+      "id": "ptp-5-plp-2r-20-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "20 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1768.29
+    },
+    {
+      "id": "ptp-5-plp-2r-25-kom-2",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "25 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1648.19
+    },
+    {
+      "id": "ptp-5-plp-2r-32-kom-2",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "32 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1208.03
+    },
+    {
+      "id": "ptp-5-plp-2r-40-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "40 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1144.36
+    },
+    {
+      "id": "ptp-5-plp-2r-50-kom",
+      "name": "ПТП-5- ПЛП-2R",
+      "desc": "50 кОм",
+      "image": "/img/34564470_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1382.55
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "schema": 1,
+  "category": "perecluchateli",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "pg2-5-12-p1n",
+      "name": "ПГ2-5-12-П1Н",
+      "image": "/img/34721126_1920_q70.jpg",
+      "unit": "кольцо",
+      "price": 1014.7
+    },
+    {
+      "id": "pg2-pg7-do-1990-goda",
+      "name": "ПГ2, ПГ7",
+      "desc": "до 1990 года",
+      "image": "/img/34721134_1920_q70.jpg",
+      "unit": "кольцо",
+      "price": 912.94
+    },
+    {
+      "id": "pg2-pg7-s-1990-do-dekabrya1991-g-plastmassovyj-korpus",
+      "name": "ПГ2, ПГ7",
+      "desc": "с 1990 до декабря 1991 г. пластмассовый корпус",
+      "image": "/img/42308207_1920_q70.jpg",
+      "unit": "кольцо",
+      "price": 744.88
+    },
+    {
+      "id": "p2g3",
+      "name": "П2Г3",
+      "image": "/img/34721170_1920_q70.jpg",
+      "unit": "секция",
+      "price": 26.58
+    },
+    {
+      "id": "pr-2-2-do-1990-goda",
+      "name": "ПР 2-2",
+      "desc": "до 1990 года",
+      "image": "/img/34721174_1920_q70.jpg",
+      "unit": "шт",
+      "price": 8865.01
+    },
+    {
+      "id": "pr-2-5-do-1990-goda",
+      "name": "ПР 2-5",
+      "desc": "до 1990 года",
+      "image": "/img/34721175_1920_q70.jpg",
+      "unit": "шт",
+      "price": 9708.51
+    },
+    {
+      "id": "pr-2-10-do-1990-goda",
+      "name": "ПР 2-10",
+      "desc": "до 1990 года",
+      "image": "/img/34721176_1920_q70.jpg",
+      "unit": "шт",
+      "price": 7469.62
+    },
+    {
+      "id": "p1t3-1vt-do-1990-goda",
+      "name": "П1Т3-1ВТ",
+      "desc": "до 1990 года",
+      "image": "/img/34721177_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1088.34
+    },
+    {
+      "id": "p1t4-vt",
+      "name": "П1Т4 ВТ",
+      "image": "/img/34721178_1920_q70.jpg",
+      "unit": "шт",
+      "price": 972.49
+    },
+    {
+      "id": "pk1s-1v",
+      "name": "ПК1С-1В",
+      "image": "/img/34721181_1920_q70.jpg",
+      "unit": "шт",
+      "price": 972.79
+    },
+    {
+      "id": "pk11-9-zhltye-vyvody",
+      "name": "ПК11-9",
+      "desc": "жёлтые выводы",
+      "image": "/img/34721185_1920_q70.jpg",
+      "unit": "шт",
+      "price": 162.69
+    },
+    {
+      "id": "pk23-2v",
+      "name": "ПК23-2В",
+      "image": "/img/34721187_1920.png",
+      "unit": "шт",
+      "price": 349.7
+    },
+    {
+      "id": "pkn-150-1",
+      "name": "ПКН-150-1",
+      "image": "/img/34721188_1920_q70.jpg",
+      "unit": "шт",
+      "price": 6.19
+    },
+    {
+      "id": "pkn-zheltye-kontakty",
+      "name": "ПКН",
+      "desc": "желтые контакты",
+      "image": "/img/13701412_1920_q70.jpg",
+      "unit": "секция",
+      "price": 226.66
+    },
+    {
+      "id": "tv-1-2-tolko-so-shemoj",
+      "name": "ТВ 1-2",
+      "desc": "только со схемой",
+      "image": "/img/34721191_1920_q70.jpg",
+      "unit": "шт",
+      "price": 265.59
+    },
+    {
+      "id": "p2knt-zhltaya-knopka",
+      "name": "П2КнТ",
+      "desc": "жёлтая кнопка",
+      "image": "/img/34721192_1920_q70.jpg",
+      "unit": "шт",
+      "price": 462.37
+    },
+    {
+      "id": "p2knt-zhltaya-knopka-s-1983-po-1989-g",
+      "name": "П2КнТ",
+      "desc": "жёлтая кнопка с 1983 по 1989 г.",
+      "image": "/img/34721192_1920_q70.jpg",
+      "unit": "шт",
+      "price": 375.59
+    },
+    {
+      "id": "pt3-40v",
+      "name": "ПТ3-40В",
+      "image": "/img/34721193_1920_q70.jpg",
+      "unit": "шт",
+      "price": 52.1
+    },
+    {
+      "id": "p3p1ta-2-3v",
+      "name": "П3П1ТА-2 3В",
+      "image": "/img/34721194_1920_q70.jpg",
+      "unit": "шт",
+      "price": 6.94
+    },
+    {
+      "id": "shiv-25s-kontaktami-pli10",
+      "name": "ШИВ 25",
+      "desc": "с контактами Пли10",
+      "image": "/img/34721212_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1360.9
+    },
+    {
+      "id": "shiv-50s-kontaktami-pli10",
+      "name": "ШИВ 50",
+      "desc": "с контактами Пли10",
+      "image": "/img/34721214_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2134.62
+    },
+    {
+      "id": "ksp",
+      "name": "КСП",
+      "image": "/img/34721215_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4316.39
+    },
+    {
+      "id": "kontakty-ot-pereklyuchatelej-500-proba",
+      "name": "Контакты от переключателей",
+      "desc": "500 проба",
+      "image": "/img/34721216_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "pereklyuchatel-b322",
+      "name": "Переключатель B322",
+      "image": "/img/34721228_1920_q70.jpg",
+      "unit": "шт",
+      "price": 363.29
+    },
+    {
+      "id": "pereklyuchatel-p1m10-1v",
+      "name": "Переключатель П1М10-1В",
+      "image": "/img/34721230_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "pereklyuchatel-p1m9-1v",
+      "name": "Переключатель П1М9-1В",
+      "image": "/img/34721233_1920_q70.jpg",
+      "unit": "шт",
+      "price": 599.2
+    },
+    {
+      "id": "pereklyuchatel-pd27-1",
+      "name": "Переключатель ПД27-1",
+      "image": "/img/34721234_1920_q70.jpg",
+      "unit": "шт",
+      "price": 152.16
+    },
+    {
+      "id": "pereklyuchatel-pk1e-1v",
+      "name": "Переключатель ПК1Э-1В",
+      "image": "/img/34721235_1920_q70.jpg",
+      "unit": "шт",
+      "price": 349.08
+    },
+    {
+      "id": "pereklyuchatel-pk2s-1v",
+      "name": "Переключатель ПК2С-1В",
+      "image": "/img/34721241_1920_q70.jpg",
+      "unit": "шт",
+      "price": 413.08
+    },
+    {
+      "id": "pereklyuchatel-pkn103-19",
+      "name": "Переключатель ПКн103-19",
+      "image": "/img/34721260_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "pereklyuchateli-pkn105-pkn107",
+      "name": "Переключатели ПКн105; ПКн107",
+      "image": "/img/34721246_1920_q70.jpg",
+      "unit": "шт",
+      "price": 152.16
+    },
+    {
+      "id": "pereklyuchateli-pkn113-pkn115-i-pkn117",
+      "name": "Переключатели ПКн113; ПКн115 и ПКн117",
+      "image": "/img/34721262_1920_q70.jpg",
+      "unit": "шт",
+      "price": 341.55
+    },
+    {
+      "id": "pereklyuchatel-pkn19-2v-3v",
+      "name": "Переключатель ПКн19-2В, 3В",
+      "image": "/img/34721264_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1710.88
+    },
+    {
+      "id": "pereklyuchatel-ppk3-20p40n",
+      "name": "Переключатель ППК3-20П40Н",
+      "image": "/img/34721267_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1600.12
+    },
+    {
+      "id": "pereklyuchatel-ppk6-24p20n",
+      "name": "Переключатель ППК6-24П20Н",
+      "image": "/img/34721270_1920_q70.jpg",
+      "unit": "шт",
+      "price": 800.06
+    },
+    {
+      "id": "pereklyuchatel-ppk6-12p10n",
+      "name": "Переключатель ППК6-12П10Н",
+      "image": "/img/34721274_1920_q70.jpg",
+      "unit": "одна ножка",
+      "price": 19.2
+    },
+    {
+      "id": "pereklyuchatel-pt33-11",
+      "name": "Переключатель ПТ33-11",
+      "image": "/img/34721275_1920_q70.jpg",
+      "unit": "шт",
+      "price": 69.87
+    },
+    {
+      "id": "pereklyuchatel-pt33-21",
+      "name": "Переключатель ПТ33-21",
+      "image": "/img/34721276_1920_q70.jpg",
+      "unit": "шт",
+      "price": 59.01
+    },
+    {
+      "id": "pereklyuchatel-pt41-1v-2v",
+      "name": "Переключатель ПТ41-1В, 2В",
+      "image": "/img/34721278_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "pereklyuchatel-pt57-12-1v-3-kontakta",
+      "name": "Переключатель ПТ57-1,2-1В",
+      "desc": "3 контакта",
+      "image": "/img/34721280_1920_q70.jpg",
+      "unit": "шт",
+      "price": 242.21
+    },
+    {
+      "id": "pereklyuchatel-pt57-78-1v-6-kontaktov",
+      "name": "Переключатель ПТ57-7,8-1В",
+      "desc": "6 контактов",
+      "image": "/img/34721281_1920_q70.jpg",
+      "unit": "шт",
+      "price": 487.52
+    },
+    {
+      "id": "pereklyuchatel-pt57-9-1v-9-kontaktov",
+      "name": "Переключатель ПТ57-9-1В",
+      "desc": "9 контактов",
+      "image": "/img/34721282_1920_q70.jpg",
+      "unit": "шт",
+      "price": 732.82
+    },
+    {
+      "id": "pt19-1v-treh-kontaktnyj-do-89-goda",
+      "name": "ПТ19-1В",
+      "desc": "трех контактный до 89 года",
+      "image": "/img/39517681_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1036.96
+    },
+    {
+      "id": "pt23-1v-treh-kontaktnyj-do-89-goda",
+      "name": "ПТ23-1В",
+      "desc": "трех контактный до 89 года",
+      "image": "/img/39517689_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2044.18
+    },
+    {
+      "id": "pt9-1v",
+      "name": "ПТ9-1В",
+      "desc": "до 1990 года",
+      "image": "/img/43324965_1920.png",
+      "unit": "шт",
+      "price": 2750.36
+    },
+    {
+      "id": "pereklyuchatel-pt8-12-12-zheltye-kontakty",
+      "name": "Переключатель ПТ8-1,2...12",
+      "desc": "Желтые контакты",
+      "image": "/img/34721284_1920_q70.jpg",
+      "unit": "шт",
+      "price": 152.16
+    },
+    {
+      "id": "pereklyuchatel-pkn105-3v-4v",
+      "name": "Переключатель ПКн105-3В, 4В",
+      "image": "/img/34721246_1920_q70.jpg",
+      "unit": "шт",
+      "price": 152.16
+    }
+  ]
+}

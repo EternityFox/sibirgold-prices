@@ -1,0 +1,429 @@
+{
+  "schema": 1,
+  "category": "condensatory",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "kondensatory-km-zelenye-obshhaya-gruppa-gruppa-n90-f-u-i-t-p",
+      "name": "Конденсаторы КМ зеленые общая группа",
+      "desc": "Группа: Н90- F- U и т.п.",
+      "image": "/img/34669753_1920_q70.jpg",
+      "unit": "кг",
+      "price": 106127.35
+    },
+    {
+      "id": "kondensatory-km-zelenye-gruppy-v-m1500-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы КМ зеленые группы V- M1500",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34669756_1920_q70.jpg",
+      "unit": "кг",
+      "price": 124164.13
+    },
+    {
+      "id": "kondensatory-km-zelenye-gruppy-n30-razmer-melkij-srednij-krupnyjkm-zelenye-n30",
+      "name": "Конденсаторы КМ зеленые группы Н30",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34669761_1920_q70.jpg",
+      "unit": "кг",
+      "price": 145274.84
+    },
+    {
+      "id": "kondensatory-km-zelenye-gruppy-n30-68n-68nm-68n-razmer-krupnyj",
+      "name": "Конденсаторы КМ зеленые группы Н30 68n- 68nM- 68Н",
+      "desc": "Размер: крупный",
+      "image": "/img/34840789_1920_q70.jpg",
+      "unit": "кг",
+      "price": 145274.84
+    },
+    {
+      "id": "kondensatory-km-zelenye-gruppy-d-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы КМ зеленые группы D",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34669792_1920_q70.jpg",
+      "unit": "кг",
+      "price": 135045.52
+    },
+    {
+      "id": "kondensatory-km-zelenye-gruppy-3-3v-4-4v-6-5v-6-6v-22n-razmer-krupnyj-melkij",
+      "name": "Конденсаторы КМ зеленые группы 3, 3В, 4, 4В, 6, 5В, 6, 6В - 22n",
+      "desc": "Размер: крупный, мелкий",
+      "image": "/img/34669838_1920_q70.jpg",
+      "unit": "кг",
+      "price": 135353.35
+    },
+    {
+      "id": "kondensatory-km-ryzhie-obshhaya-gruppa-gruppa-n90-f-u-i-t-p",
+      "name": "Конденсаторы КМ рыжие общая группа",
+      "desc": "Группа: Н90- F- U и т.п.",
+      "image": "/img/34669924_1920_q70.jpg",
+      "unit": "кг",
+      "price": 91086.99
+    },
+    {
+      "id": "kondensatory-km-ryzhie-gruppy-v-m1500-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы КМ рыжие группы V- М1500",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34674371_1920_q70.jpg",
+      "unit": "кг",
+      "price": 99210.81
+    },
+    {
+      "id": "kondensatory-km-ryzhie-gruppy-h30-d-e-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы КМ рыжие группы H30- D- E",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34674419_1920_q70.jpg",
+      "unit": "кг",
+      "price": 113333.72
+    },
+    {
+      "id": "kondensatory-km-oranzhevye-gruppa-3v-4v-5v-6v-22n-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы КМ оранжевые группа 3В, 4В, 5В, 6В - 22n",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34674608_1920_q70.jpg",
+      "unit": "кг",
+      "price": 113333.72
+    },
+    {
+      "id": "kondensatory-km-ryzhie-gruppy-n50-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы КМ рыжие группы Н50",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34674643_1920_q70.jpg",
+      "unit": "кг",
+      "price": 139115.13
+    },
+    {
+      "id": "kondensatory-km-ryzhie-gruppy-n50-m15-razmer-srednij-krupnyj",
+      "name": "Конденсаторы КМ рыжие группы Н50 М15",
+      "desc": "Размер: средний, крупный",
+      "image": "/img/34674651_1920_q70.jpg",
+      "unit": "кг",
+      "price": 139115.13
+    },
+    {
+      "id": "kondensatory-km-ryzhie-gruppy-n90-m68-1m0-razmer-krupnyj",
+      "name": "Конденсаторы КМ рыжие группы Н90 М68- 1М0",
+      "desc": "Размер: крупный",
+      "image": "/img/34674684_1920_q70.jpg",
+      "unit": "кг",
+      "price": 128542.84
+    },
+    {
+      "id": "kondensatory-km-ryzhie-gruppy-n90-2m2-s-markirovkoj-goda-proizvodstva",
+      "name": "Конденсаторы КМ рыжие группы Н90 2М2",
+      "desc": "С маркировкой года производства",
+      "image": "/img/34674697_1920_q70.jpg",
+      "unit": "кг",
+      "price": 156316.42
+    },
+    {
+      "id": "kondensatory-km-beskorpusnye-n30-nemagnitnye-do-90-goda-posle-90-goda-posle-osmotra",
+      "name": "Конденсаторы КМ бескорпусные Н30",
+      "desc": "до 90 года, -после 90 года – после осмотра- Немагнитные",
+      "image": "/img/34674718_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "kondensatory-km-beskorpusnye-n90-nemagnitnye-do-90-goda-posle-90-goda-posle-osmotra",
+      "name": "Конденсаторы КМ бескорпусные Н90",
+      "desc": "до 90 года, -после 90 года – после осмотра- Немагнитные",
+      "image": "/img/40064787_1920_q70.jpg",
+      "unit": "кг",
+      "price": 106127.35
+    },
+    {
+      "id": "liniya-zaderzhki-mlz-lyuboj-nominal",
+      "name": "Линия задержки МЛЗ",
+      "desc": "Любой номинал",
+      "image": "/img/34674767_1920_q70.jpg",
+      "unit": "шт",
+      "price": 10.03
+    },
+    {
+      "id": "kondensatory-km-strana-bolgariya",
+      "name": "Конденсаторы КМ",
+      "desc": "Страна: Болгария",
+      "image": "/img/34674794_1920_q70.jpg",
+      "unit": "кг",
+      "price": 60195.63
+    },
+    {
+      "id": "kondensatory-keramicheskie-k10-7-razmer-melkij-srednij-krupnyj-czvet-krasnyj",
+      "name": "Конденсаторы керамические К10-7",
+      "desc": "Размер: мелкий, средний, крупный Цвет: красный",
+      "image": "/img/34674855_1920_q70.jpg",
+      "unit": "кг",
+      "price": 252.86
+    },
+    {
+      "id": "kondensatory-k10-17-k10-23-k10-43-k10-47-k10-48-plastmassovyj-korpus",
+      "name": "Конденсаторы К10-17- К10-23- К10-43- К10-47- К10-48",
+      "desc": "Пластмассовый корпус",
+      "image": "/img/34674876_1920_q70.jpg",
+      "unit": "кг",
+      "price": 33252.75
+    },
+    {
+      "id": "kondensatory-k10-17-k10-23-k10-43-keramicheskijkorpus",
+      "name": "Конденсаторы К10-17- К10-23- К10-43",
+      "desc": "Керамический корпус",
+      "image": "/img/34674937_1920_q70.jpg",
+      "unit": "кг",
+      "price": 25557.57
+    },
+    {
+      "id": "kondensatory-k10-23-gruppy-n30-d-razmer-srednij",
+      "name": "Конденсаторы К10-23 группы Н30- D",
+      "desc": "Размер: средний",
+      "image": "/img/34674964_1920_q70.jpg",
+      "unit": "кг",
+      "price": 64219.67
+    },
+    {
+      "id": "kondensatory-k10-26-razmer-srednij-krupnyj",
+      "name": "Конденсаторы К10-26",
+      "desc": "Размер: средний, крупный",
+      "image": "/img/34674972_1920_q70.jpg",
+      "unit": "кг",
+      "price": 49348.15
+    },
+    {
+      "id": "kondensatory-k10-28-gruppy-n30-1m0v-1m5-2m2-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы К10-28 группы Н30 1М0В- 1М5- 2М2",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34674983_1920_q70.jpg",
+      "unit": "шт",
+      "price": 165.16
+    },
+    {
+      "id": "kondensatory-k10-28-k10-47-obshhaya-gruppa-gruppa-n30-d-n50-n90-i-t-p-razmer-krupnyj",
+      "name": "Конденсаторы К10-28; К10-47 общая группа группа: Н30; D; Н50; Н90 и т.п.",
+      "desc": "Размер: крупный",
+      "image": "/img/45663531_1920_q70.jpg",
+      "unit": "кг",
+      "price": 43030.76
+    },
+    {
+      "id": "kondensatory-k10-47-gruppy-n30-25v-50v-m33-m47-m68-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы К10-47 группы Н30 25В-50В М33- М47- М68-",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675066_1920_q70.jpg",
+      "unit": "шт",
+      "price": 102.49
+    },
+    {
+      "id": "kondensatory-47-jd-1m0-1m5-2m2-do-93-goda-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы 47 JD 1М0- 1М5- 2М2 до 93 года",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675084_1920_q70.jpg",
+      "unit": "шт",
+      "price": 152.7
+    },
+    {
+      "id": "kondensatory-47-jd-m33-m47-m68-do-93-goda-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы 47 JD М33- М47- М68 до 93 года",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675142_1920.png",
+      "unit": "шт",
+      "price": 75.52
+    },
+    {
+      "id": "kondensatory-k10-47-gruppy-n90-25v-50v-1m0-1m5-2m2-6m8-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы К10-47 группы Н90 25В- 50В 1М0- 1М5- 2М2 ... 6М8",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675224_1920_q70.jpg",
+      "unit": "шт",
+      "price": 155.16
+    },
+    {
+      "id": "kondensatory-k10-47-gruppy-n90-25v-50v-m33-m47-m68-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы К10-47 группы Н90 25В- 50В М33- М47- М68",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675363_1920_q70.jpg",
+      "unit": "шт",
+      "price": 76.75
+    },
+    {
+      "id": "kondensatory-47-jf-1m0-1m5-2m2-6m8-do-93-goda-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы 47 JF 1М0- 1М5- 2М2 ... 6М8 до 93 года",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675450_1920_q70.jpg",
+      "unit": "шт",
+      "price": 113.49
+    },
+    {
+      "id": "kondensatory-47-jf-m33-m47-m68-do-93-goda-razmer-krupnyj-1512-sm",
+      "name": "Конденсаторы 47 JF М33- М47- М68 до 93 года",
+      "desc": "Размер: крупный (1,5*1,2 см)",
+      "image": "/img/34675494_1920_q70.jpg",
+      "unit": "шт",
+      "price": 69.39
+    },
+    {
+      "id": "kondensatory-k10-17-obshhaya-gruppa-gruppa-n30-d-n50-n90-i-t-p-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы К10-17 общая группа Группа: Н30- D- Н50- Н90 и т.п.",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/45663805_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "kondensatory-k10-28-k10-47-obshhaya-gruppa-gruppa-n30-d-n50-n90-i-t-p-razmer-melkij-srednij",
+      "name": "Конденсаторы К10-28- К10-47 общая группа Группа: Н30- D- Н50- Н90 и т.п.",
+      "desc": "Размер: мелкий, средний",
+      "image": "/img/45663821_1920_q70.jpg",
+      "unit": "кг",
+      "price": 32273.51
+    },
+    {
+      "id": "kondensatornye-sborki-b18-lyubye",
+      "name": "Конденсаторные сборки Б18",
+      "desc": "Любые",
+      "image": "/img/34675552_1920_q70.jpg",
+      "unit": "кг",
+      "price": 6342.87
+    },
+    {
+      "id": "kondensatornye-sborki-b18-11-s-lyuboj-bukvoj-b18-2",
+      "name": "Конденсаторные сборки Б18-11 (с любой буквой), Б18-2",
+      "image": "/img/34675552_1920_q70.jpg",
+      "unit": "кг",
+      "price": 26342.87
+    },
+    {
+      "id": "kondensatory-k52-1-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы К52-1",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34675578_1920_q70.jpg",
+      "unit": "кг",
+      "price": 42699.76
+    },
+    {
+      "id": "kondensatory-tesla-analog-k52-1-lyuboj-razmer",
+      "name": "Конденсаторы «Tesla» (аналог К52-1)",
+      "desc": "Любой размер",
+      "image": "/img/39517221_1920_q70.jpg",
+      "unit": "кг",
+      "price": 16006.25
+    },
+    {
+      "id": "kondensatory-k52-1bm-k52-1m-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы К52-1БМ- К52-1М",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34675585_1920_q70.jpg",
+      "unit": "кг",
+      "price": 144104.35
+    },
+    {
+      "id": "kondensatory-k52-2-razmer-melkij",
+      "name": "Конденсаторы К52-2",
+      "desc": "Размер: мелкий",
+      "image": "/img/34675596_1920_q70.jpg",
+      "unit": "шт",
+      "price": 41.73
+    },
+    {
+      "id": "kondensatory-k52-2s-razmer-melkij-chernaya-kryshka",
+      "name": "Конденсаторы К52-2С",
+      "desc": "Размер: мелкий Чёрная крышка",
+      "image": "/img/34675725_1920_q70.jpg",
+      "unit": "шт",
+      "price": 179.63
+    },
+    {
+      "id": "kondensatory-k52-2-k52-5-razmer-krupnyj",
+      "name": "Конденсаторы К52-2- К52-5",
+      "desc": "Размер: крупный",
+      "image": "/img/34675736_1920_q70.jpg",
+      "unit": "шт",
+      "price": 202.32
+    },
+    {
+      "id": "kondensatory-k52-2-razmer-krupnyj-chernaya-kryshka",
+      "name": "Конденсаторы К52-2",
+      "desc": "Размер: крупный Чёрная крышка",
+      "image": "/img/34675888_1920_q70.jpg",
+      "unit": "шт",
+      "price": 94.49
+    },
+    {
+      "id": "kondensatory-k52-2-razmer-krupnyj-czvet-salatovyj",
+      "name": "Конденсаторы К52-2",
+      "desc": "Размер: крупный Цвет: салатовый",
+      "image": "/img/34675904_1920_q70.jpg",
+      "unit": "шт",
+      "price": 37.34
+    },
+    {
+      "id": "kondensatory-k52-2s-k52-5c-razmer-krupnyj-chrnaya-kryshka",
+      "name": "Конденсаторы К52-2С- К52-5C",
+      "desc": "Размер: крупный Чёрная крышка",
+      "image": "/img/34675830_1920_q70.jpg",
+      "unit": "шт",
+      "price": 776.57
+    },
+    {
+      "id": "kondensatory-k52-7-razmer-krupnyj",
+      "name": "Конденсаторы К52-7",
+      "desc": "Размер: крупный",
+      "image": "/img/34675914_1920_q70.jpg",
+      "unit": "шт",
+      "price": 574.1
+    },
+    {
+      "id": "kondensatory-k52-9-k52-11-k52-17-k52-18-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы К52-9- К52-11- К52-17- К52-18",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34675927_1920_q70.jpg",
+      "unit": "кг",
+      "price": 6868.55
+    },
+    {
+      "id": "kondensatory-et-etn-razmer-melkij-srednij-krupnyj",
+      "name": "Конденсаторы ЭТ- ЭТН",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34675936_1920_q70.jpg",
+      "unit": "кг",
+      "price": 2679.34
+    },
+    {
+      "id": "kondensatory-eto-razmer-melkij",
+      "name": "Конденсаторы ЭТО",
+      "desc": "Размер: мелкий",
+      "image": "/img/34675945_1920_q70.jpg",
+      "unit": "шт",
+      "price": 47.13
+    },
+    {
+      "id": "kondensatory-eto-razmer-krupnyj",
+      "name": "Конденсаторы ЭТО",
+      "desc": "Размер: крупный",
+      "image": "/img/34675964_1920_q70.jpg",
+      "unit": "шт",
+      "price": 226.63
+    },
+    {
+      "id": "kondensatory-k53-1-k53-7-k53-18-razmer-krupnyj",
+      "name": "Конденсаторы К53-1- К53-7- К53-18",
+      "desc": "Размер: крупный",
+      "image": "/img/34675986_1920_q70.jpg",
+      "unit": "кг",
+      "price": 1697.7
+    },
+    {
+      "id": "kondensatory-k53-1-k53-7-k53-18-razmer-melkij",
+      "name": "Конденсаторы К53-1- К53-7- К53-18",
+      "desc": "Размер: мелкий",
+      "image": "/img/34676029_1920_q70.jpg",
+      "unit": "кг",
+      "price": 1003.42
+    },
+    {
+      "id": "kondenastory-keramicheskie-k15-5-i-podobnye-razmer-melkij-srednij-krupnyj",
+      "name": "Конденасторы керамические К15-5 и подобные",
+      "desc": "Размер: мелкий, средний, крупный",
+      "image": "/img/34676145_1920_q70.jpg",
+      "unit": "кг",
+      "price": 252.86
+    }
+  ]
+}

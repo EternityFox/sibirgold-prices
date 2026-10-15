@@ -1,0 +1,1125 @@
+{
+  "schema": 1,
+  "category": "razemy",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "snp-14-72-rozetka-zheltye-kontakty",
+      "name": "СНП 14-72 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684080_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2140.48,
+      "used": 1234.89
+    },
+    {
+      "id": "snp-14-112-rozetka-zheltye-kontakty",
+      "name": "СНП 14-112 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684107_1920_q70.jpg",
+      "unit": "шт",
+      "new": 3245.33,
+      "used": 1925.2
+    },
+    {
+      "id": "snp-17-52-rozetka-zheltye-kontakty",
+      "name": "СНП 17-52 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684119_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2145.22,
+      "used": 1650.17
+    },
+    {
+      "id": "snp-34-30-rozetka-zheltye-kontakty",
+      "name": "СНП 34-30 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/21243470_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1072.61,
+      "used": 907.59
+    },
+    {
+      "id": "snp-34-30-vilka-polnaya-zheltye-kontakty",
+      "name": "СНП 34 -30 вилка полная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684215_1920_q70.jpg",
+      "unit": "шт",
+      "new": 568.28,
+      "used": 434.04
+    },
+    {
+      "id": "snp-34-30-vilka-lokalnaya-zheltye-kontakty",
+      "name": "СНП 34-30 вилка локальная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684243_1920_q70.jpg",
+      "unit": "шт",
+      "new": 145.76,
+      "used": 145.76
+    },
+    {
+      "id": "snp-34-69-rozetka-zheltye-kontakty",
+      "name": "СНП 34-69 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684273_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2560.51,
+      "used": 2191.97
+    },
+    {
+      "id": "snp-34-69-vilka-polnaya-zheltye-kontakty",
+      "name": "СНП 34-69 вилка полная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684320_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1275.41,
+      "used": 1020.33
+    },
+    {
+      "id": "snp-34-69-vilka-lokalnaya-zheltye-kontakty",
+      "name": "СНП 34-69 вилка локальная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684322_1920_q70.jpg",
+      "unit": "шт",
+      "new": 349.29,
+      "used": 321.78
+    },
+    {
+      "id": "snp-34-90-rozetka-zheltye-kontakty",
+      "name": "СНП 34-90 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684362_1920_q70.jpg",
+      "unit": "шт",
+      "new": 3363.59,
+      "used": 3061.06
+    },
+    {
+      "id": "snp-34-90-vilka-zheltye-kontakty",
+      "name": "СНП 34-90 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684365_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1487.97,
+      "used": 1190.37
+    },
+    {
+      "id": "snp-34-113-rozetka-zheltye-kontakty",
+      "name": "СНП 34-113 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684390_1920_q70.jpg",
+      "unit": "шт",
+      "new": 4188.68,
+      "used": 3591.87
+    },
+    {
+      "id": "snp-34-113-vilka-polnaya-zheltye-kontakty",
+      "name": "СНП 34-113 вилка полная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684438_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2095.71,
+      "used": 1713.43
+    },
+    {
+      "id": "snp-34-113-vilka-lokalnaya-zheltye-kontakty",
+      "name": "СНП 34-113 вилка локальная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684441_1920_q70.jpg",
+      "unit": "шт",
+      "new": 528.05,
+      "used": 473.05
+    },
+    {
+      "id": "snp-34-135-rozetka-polnaya-zheltye-kontakty",
+      "name": "СНП 34-135 розетка полная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684580_1920_q70.jpg",
+      "unit": "шт",
+      "new": 5005.51,
+      "used": 4290.44
+    },
+    {
+      "id": "snp-34-135-vilka-polnaya-zheltye-kontakty",
+      "name": "СНП 34-135 вилка полная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684582_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2502.76,
+      "used": 2145.22
+    },
+    {
+      "id": "snp-34-135-vilka-lokalnaya-zheltye-kontakty",
+      "name": "СНП 34-135 вилка локальная",
+      "desc": "Желтые контакты",
+      "image": "/img/34684585_1920_q70.jpg",
+      "unit": "шт",
+      "new": 632.56,
+      "used": 588.56
+    },
+    {
+      "id": "snp-41-120-rozetka-zheltye-kontakty",
+      "name": "СНП 41-120 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684590_1920_q70.jpg",
+      "unit": "шт",
+      "new": 5720.58,
+      "used": 5033.01
+    },
+    {
+      "id": "snp-59-32-rozetka-zheltye-kontakty",
+      "name": "СНП 59-32 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684597_1920_q70.jpg",
+      "unit": "шт",
+      "new": 951.6,
+      "used": 720.57
+    },
+    {
+      "id": "snp-59-32-vilka-zheltye-kontakty",
+      "name": "СНП 59-32 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684599_1920_q70.jpg",
+      "unit": "шт",
+      "new": 496.56,
+      "used": 396.78
+    },
+    {
+      "id": "snp-59-48-rozetka-zheltye-kontakty",
+      "name": "СНП 59-48 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684611_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1424.65,
+      "used": 1072.61
+    },
+    {
+      "id": "snp-59-48-vilka-zheltye-kontakty",
+      "name": "СНП 59-48 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684614_1920_q70.jpg",
+      "unit": "шт",
+      "new": 997.25,
+      "used": 750.83
+    },
+    {
+      "id": "snp-59-64-rozetka-zheltye-kontakty",
+      "name": "СНП 59-64 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684641_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1885.23,
+      "used": 1686.64
+    },
+    {
+      "id": "snp-59-64-vilka-zheltye-kontakty",
+      "name": "СНП 59-64 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684646_1920_q70.jpg",
+      "unit": "шт",
+      "new": 941.26,
+      "used": 835.16
+    },
+    {
+      "id": "snp-59-96-vilka-zheltye-kontakty",
+      "name": "СНП 59-96 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684658_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1414.6,
+      "used": 1273.14
+    },
+    {
+      "id": "snp-59-96-rozetka-zheltye-kontakty",
+      "name": "СНП 59-96 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684678_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2829.21,
+      "used": 2121.91
+    },
+    {
+      "id": "snp-59-135-rozetka-zheltye-kontakty",
+      "name": "СНП 59-135 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684710_1920_q70.jpg",
+      "unit": "шт",
+      "new": 4951.11,
+      "used": 4352.63
+    },
+    {
+      "id": "snp-59-135-vilka-zheltye-kontakty",
+      "name": "СНП 59-135 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684713_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2475.56,
+      "used": 1958.68
+    },
+    {
+      "id": "snp-49-56-do-90-goda-zheltye-kontakty",
+      "name": "СНП 49-56",
+      "desc": "до 90 года желтые контакты",
+      "image": "/img/41137360_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 2.72,
+      "used": 0.97
+    },
+    {
+      "id": "snp1-snp3-rozetka-i-podobnye-zheltye-kontakty",
+      "name": "СНП1, СНП3 розетка и подобные",
+      "desc": "Желтые контакты",
+      "image": "/img/36354255_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 15.78,
+      "used": 7.89
+    },
+    {
+      "id": "snp1-snp3-vilka-i-podobnye-zheltye-kontakty",
+      "name": "СНП1, СНП3 вилка и подобные",
+      "desc": "Желтые контакты",
+      "image": "/img/36354281_1920.png",
+      "unit": "контакт",
+      "new": 11.79,
+      "used": 5.9
+    },
+    {
+      "id": "snp-vilka-ligatura-zheltye-kontakty",
+      "name": "СНП вилка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34684732_1920_q70.jpg",
+      "unit": "кг",
+      "new": 148799.36,
+      "used": 119039.49
+    },
+    {
+      "id": "snp-rozetka-ligatura-zheltye-kontakty",
+      "name": "СНП розетка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34684738_1920_q70.jpg",
+      "unit": "кг",
+      "new": 247998.92,
+      "used": 198399.14
+    },
+    {
+      "id": "sno-54-60-rozetka-zheltye-kontakty",
+      "name": "СНО 54 -60 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/9619785_1920_q70.jpg",
+      "unit": "шт",
+      "new": 708.55,
+      "used": 566.84
+    },
+    {
+      "id": "sno-59-135-rozetka-zheltye-kontakty",
+      "name": "СНО 59-135 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684804_1920_q70.jpg",
+      "unit": "шт",
+      "new": 5658.41,
+      "used": 5114.34
+    },
+    {
+      "id": "sno-60-rozetka-zheltye-kontakty",
+      "name": "СНО 60 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684817_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 34.0,
+      "used": 27.2
+    },
+    {
+      "id": "sno-60-rozetka-ligatura-zheltye-kontakty",
+      "name": "СНО 60 розетка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/19862128_1920_q70.jpg",
+      "unit": "кг",
+      "new": 266755.17,
+      "used": 266755.17
+    },
+    {
+      "id": "sno-64-16-rozetka-zheltye-kontakty",
+      "name": "СНО 64-16 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684836_1920_q70.jpg",
+      "unit": "шт",
+      "new": 522.32,
+      "used": 448.86
+    },
+    {
+      "id": "sno-64-32-rozetka-zheltye-kontakty",
+      "name": "СНО 64-32 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684842_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1062.85,
+      "used": 850.28
+    },
+    {
+      "id": "sno-64-48-rozetka-zheltye-kontakty",
+      "name": "СНО 64-48 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684861_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1629.7,
+      "used": 1303.76
+    },
+    {
+      "id": "sno-64-64-rozetka-zheltye-kontakty",
+      "name": "СНО 64-64 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684879_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2121.91,
+      "used": 1795.46
+    },
+    {
+      "id": "sno-64-96-rozetka-zheltye-kontakty",
+      "name": "СНО 64-96 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684881_1920_q70.jpg",
+      "unit": "шт",
+      "new": 3330.24,
+      "used": 2664.19
+    },
+    {
+      "id": "sno-64-96-vilka-zheltye-kontakty",
+      "name": "СНО 64-96 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684901_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1414.6,
+      "used": 1273.14
+    },
+    {
+      "id": "sno-68-18366472-vilka-zheltye-kontakty",
+      "name": "СНО 68-18;36;64;72 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684937_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 18.23,
+      "used": 15.78
+    },
+    {
+      "id": "sno-68-18366472-rozetka-zheltye-kontakty",
+      "name": "СНО 68-18;36;64;72 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684817_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 34.0,
+      "used": 27.2
+    },
+    {
+      "id": "onp-256-rozetka-zheltye-kontakty",
+      "name": "ОНП 256 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684960_1920_q70.jpg",
+      "unit": "шт",
+      "new": 11337.07,
+      "used": 9069.66
+    },
+    {
+      "id": "onp-256-vilka-zheltye-kontakty",
+      "name": "ОНП 256 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34684964_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1487.97,
+      "used": 1190.38
+    },
+    {
+      "id": "onp-ns-1-94-zheltye-kontakty",
+      "name": "ОНП-НС-1-94",
+      "desc": "Желтые контакты",
+      "image": "/img/19862928_1920_q70.jpg",
+      "unit": "шт",
+      "new": 4251.38,
+      "used": 3401.11
+    },
+    {
+      "id": "onp-ns-1-108-zheltye-kontakty",
+      "name": "ОНП-НС-1-108",
+      "desc": "Желтые контакты",
+      "image": "/img/21245988_1920_q70.jpg",
+      "unit": "шт",
+      "new": 4951.11,
+      "used": 4243.81
+    },
+    {
+      "id": "rppm-16-288-rozetka-zheltye-kontakty",
+      "name": "РППМ 16-288 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685044_1920_q70.jpg",
+      "unit": "шт",
+      "new": 9902.23,
+      "used": 8487.62
+    },
+    {
+      "id": "rppm-16-288-rozetka-s-1990-goda-zheltye-kontakty",
+      "name": "РППМ 16-288 розетка",
+      "desc": "с 1990 года Желтые контакты",
+      "image": "/img/19863080_1920_q70.jpg",
+      "unit": "шт",
+      "new": 9371.75,
+      "used": 7399.47
+    },
+    {
+      "id": "rppm-17-48-3-rozetka-zheltye-kontakty",
+      "name": "РППМ 17-48-3 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685056_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1275.41,
+      "used": 1020.33
+    },
+    {
+      "id": "rppm-17-52-3-rozetka-zheltye-kontakty",
+      "name": "РППМ 17-52-3 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/19863216_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1414.6,
+      "used": 1251.38
+    },
+    {
+      "id": "rppm-10-144-zheltye-kontakty",
+      "name": "РППМ 10-144",
+      "desc": "Желтые контакты",
+      "image": "/img/34685122_1920_q70.jpg",
+      "unit": "шт",
+      "new": 8431.96,
+      "used": 6745.57
+    },
+    {
+      "id": "rppg-2-48-rozetka-stalnogo-czveta-dlinnye-nogi",
+      "name": "РППГ 2-48 розетка",
+      "desc": "стального цвета, длинные ноги",
+      "image": "/img/21246137_1920_q70.jpg",
+      "unit": "шт",
+      "new": 212.07,
+      "used": 123.0
+    },
+    {
+      "id": "rppg-2-48-rozetka-stalnogo-czveta-korotkie-nogi",
+      "name": "РППГ 2-48 розетка",
+      "desc": "стального цвета, короткие ноги",
+      "image": "/img/9619983_1920_q70.jpg",
+      "unit": "шт",
+      "new": 92.62,
+      "used": 92.62
+    },
+    {
+      "id": "rppg-2-48-rozetka-zheltogo-czveta",
+      "name": "РППГ 2-48 розетка",
+      "desc": "желтого цвета",
+      "image": "/img/34685151_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2829.21,
+      "used": 2464.67
+    },
+    {
+      "id": "grpm1-61go2-v-i-podobnye-zheltye-voloski",
+      "name": "ГРПМ1-61ГО2-В и подобные",
+      "desc": "желтые волоски",
+      "image": "/img/43362429_1920_q70.jpg",
+      "unit": "контакт",
+      "price": 1.2
+    },
+    {
+      "id": "grppm-7-90sha1-vilka-zheltye-kontakty",
+      "name": "ГРППМ 7-90ША1 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/19863656_1920_q70.jpg",
+      "unit": "шт",
+      "new": 566.86,
+      "used": 453.48
+    },
+    {
+      "id": "grppm-7-90g1-rozetka-zheltye-kontakty",
+      "name": "ГРППМ 7-90Г1 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685193_1920.png",
+      "unit": "шт",
+      "new": 1771.4,
+      "used": 1417.12
+    },
+    {
+      "id": "grppm-7-90-rozetka-ligatura-zheltye-kontakty",
+      "name": "ГРППМ 7-90 розетка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/21246320_1920_q70.jpg",
+      "unit": "кг",
+      "new": 125041.48,
+      "used": 125041.48
+    },
+    {
+      "id": "rppm-16-72-rozetka-zheltye-kontakty",
+      "name": "РППМ 16-72 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685215_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2475.56,
+      "used": 2040.29
+    },
+    {
+      "id": "rps-1-37-polnyj-zheltye-kontakty",
+      "name": "РПС 1-37 полный",
+      "desc": "Желтые контакты",
+      "image": "/img/34685446_1920_q70.jpg",
+      "unit": "шт",
+      "new": 579.44,
+      "used": 503.27
+    },
+    {
+      "id": "rps-1-37-lokalnyj-zheltye-kontakty",
+      "name": "РПС 1-37 локальный",
+      "desc": "Желтые контакты",
+      "image": "/img/34685448_1920_q70.jpg",
+      "unit": "шт",
+      "new": 283.4,
+      "used": 226.72
+    },
+    {
+      "id": "onp-vg-37-140-rozetka-zheltye-kontakty",
+      "name": "ОНп-ВГ-37-140 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/21246638_1920_q70.jpg",
+      "unit": "шт",
+      "new": 3826.26,
+      "used": 3061.01
+    },
+    {
+      "id": "onp-vs-224-rozetka-zheltye-kontakty",
+      "name": "ОНП-ВС-224 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/21246650_1920_q70.jpg",
+      "unit": "шт",
+      "new": 8199.26,
+      "used": 7372.26
+    },
+    {
+      "id": "onp-vs-224-vilka-zheltye-kontakty",
+      "name": "ОНП-ВС-224 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/21246667_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1417.11,
+      "used": 1133.69
+    },
+    {
+      "id": "onp-kg-vilka-zheltye-kontakty",
+      "name": "ОНП-КГ вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685532_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 7.09,
+      "used": 5.67
+    },
+    {
+      "id": "onp-kr-zheltye-kontakty",
+      "name": "ОНП-КР",
+      "desc": "Желтые контакты",
+      "image": "/img/34685549_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 6.66,
+      "used": 6.66
+    },
+    {
+      "id": "rs-kolodka-zheltye-kontakty",
+      "name": "РС колодка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685581_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 7.09,
+      "used": 5.67
+    },
+    {
+      "id": "rs-kolodka-ligatura-zheltye-kontakty",
+      "name": "РС колодка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34685582_1920_q70.jpg",
+      "unit": "кг",
+      "new": 200066.37,
+      "used": 200066.37
+    },
+    {
+      "id": "ukraina-rozetka-zheltye-kontakty",
+      "name": "Украина розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685590_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 28.32,
+      "used": 22.65
+    },
+    {
+      "id": "rpm-32-zheltye-kontakty",
+      "name": "РПМ-32",
+      "desc": "Желтые контакты",
+      "image": "/img/34685598_1920_q70.jpg",
+      "unit": "шт",
+      "new": 921.15,
+      "used": 736.92
+    },
+    {
+      "id": "shr-rs-vilka-kont-zheltogo-czveta",
+      "name": "ШР РС вилка",
+      "desc": "контур желтого цвета",
+      "image": "/img/34685609_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 16.74,
+      "used": 16.74
+    },
+    {
+      "id": "shr-rs-vilka-ligatura-zheltye-kontakty",
+      "name": "ШР РС вилка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34685634_1920_q70.jpg",
+      "unit": "кг",
+      "new": 66688.77,
+      "used": 66688.77
+    },
+    {
+      "id": "shr-rs-rozetka-kont-zheltogo-czveta",
+      "name": "ШР РС розетка",
+      "desc": "контур желтого цвета",
+      "image": "/img/34685637_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 27.2,
+      "used": 27.2
+    },
+    {
+      "id": "shr-rs-rozetka-ligatura-zheltye-kontakty",
+      "name": "ШР РС розетка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34685643_1920_q70.jpg",
+      "unit": "кг",
+      "new": 133377.57,
+      "used": 133377.57
+    },
+    {
+      "id": "shr-mr-vilka-kont-zheltogo-czveta",
+      "name": "ШР МР вилка",
+      "desc": "контур желтого цвета",
+      "image": "/img/34685701_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 13.34,
+      "used": 13.34
+    },
+    {
+      "id": "shr-mr-vilka-kont-zheltogo-czveta-2",
+      "name": "ШР МР вилка",
+      "desc": "контур желтого цвета",
+      "image": "/img/34685709_1920_q70.jpg",
+      "unit": "кг",
+      "new": 53351.02,
+      "used": 53351.02
+    },
+    {
+      "id": "shr-mr-rozetka-kont-zheltogo-czveta",
+      "name": "ШР МР розетка",
+      "desc": "контур желтого цвета",
+      "image": "/img/34685652_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 30.0,
+      "used": 30.0
+    },
+    {
+      "id": "shr-mr-rozetka-ligatura-zheltye-kontakty",
+      "name": "ШР МР розетка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/13843737_1920_q70.jpg",
+      "unit": "кг",
+      "new": 106702.03,
+      "used": 106702.03
+    },
+    {
+      "id": "lamel-zheltaya-importnaya",
+      "name": "Ламель желтая импортная",
+      "image": "/img/34685739_1920_q70.jpg",
+      "unit": "кг",
+      "new": 9737.68,
+      "used": 9737.68
+    },
+    {
+      "id": "lamel-zheltaya-importnaya-s-videokart-modulej-pamyati",
+      "name": "Ламель желтая импортная",
+      "desc": "с видеокарт, модулей памяти",
+      "unit": "кг",
+      "new": 740.05,
+      "used": 740.05
+    },
+    {
+      "id": "lamel-zheltaya-otechestvennaya",
+      "name": "Ламель желтая отечественная",
+      "image": "/img/34685741_1920_q70.jpg",
+      "unit": "кг",
+      "new": 34081.86,
+      "used": 34081.86
+    },
+    {
+      "id": "lamel-belaya",
+      "name": "Ламель белая",
+      "image": "/img/34685739_1920_q70.jpg",
+      "unit": "кг",
+      "new": 2483.8,
+      "used": 2483.8
+    },
+    {
+      "id": "importnye-razemy-zheltogo-czveta-ligatura",
+      "name": "Импортные разъемы желтого цвета лигатура",
+      "image": "/img/34685748_1920_q70.jpg",
+      "unit": "кг",
+      "new": 20006.63,
+      "used": 20006.63
+    },
+    {
+      "id": "rppm-ligatura-zheltye-kontakty",
+      "name": "РППМ лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/9620288_1920_q70.jpg",
+      "unit": "кг",
+      "new": 184227.78,
+      "used": 147382.22
+    },
+    {
+      "id": "eltra-zheltye-kontakty",
+      "name": "Eltra",
+      "desc": "Желтые контакты",
+      "image": "/img/34685765_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 4.17,
+      "used": 4.17
+    },
+    {
+      "id": "razem-rr-rozetka-lokalnyj-zheltye-kontakty",
+      "name": "Разъем РР розетка локальный",
+      "desc": "Желтые контакты",
+      "image": "/img/19874714_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 2.72,
+      "used": 0.97
+    },
+    {
+      "id": "razem-rr-vilka-lokalnyj-zheltye-kontakty",
+      "name": "Разъем РР вилка локальный",
+      "desc": "Желтые контакты",
+      "image": "/img/34685788_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 2.72,
+      "used": 0.97
+    },
+    {
+      "id": "razem-rr-rozet-ligatura-zheltye-kontakty",
+      "name": "Разъем РР розет лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34684738_1920_q70.jpg",
+      "unit": "кг",
+      "new": 26675.51,
+      "used": 26675.51
+    },
+    {
+      "id": "razem-rr-vilka-ligatura-zheltye-kontakty",
+      "name": "Разъем РР вилка лигатура",
+      "desc": "Желтые контакты",
+      "image": "/img/34685794_1920_q70.jpg",
+      "unit": "кг",
+      "new": 13336.15,
+      "used": 13336.15
+    },
+    {
+      "id": "rpm-23-rozetka-zheltye-kontakty",
+      "name": "РПМ 23 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685835_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 24.77,
+      "used": 19.82
+    },
+    {
+      "id": "rpn-23-vilka-zheltye-kontakty",
+      "name": "РПН 23 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685837_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 14.89,
+      "used": 11.91
+    },
+    {
+      "id": "rpn-23-rozetka-zheltye-kontakty",
+      "name": "РПН 23 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/19875883_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 24.77,
+      "used": 19.82
+    },
+    {
+      "id": "6r-100-vilka-lokalnyj-kontakty-zheltogo-czveta",
+      "name": "6Р-100 вилка локальный",
+      "desc": "контакты желтого цвета",
+      "image": "/img/34685853_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1417.11,
+      "used": 1133.69
+    },
+    {
+      "id": "6r-100a-rozetka-kontakty-zheltogo-czveta",
+      "name": "6Р-100А розетка",
+      "desc": "контакты желтого цвета",
+      "image": "/img/34685856_1920_q70.jpg",
+      "unit": "шт",
+      "new": 5668.52,
+      "used": 4534.82
+    },
+    {
+      "id": "sk-64-140-9-kontakty-zheltogo-czveta-lokalnyj",
+      "name": "ск 64/140/9 локальный",
+      "desc": "контакты желтого цвета",
+      "image": "/img/34685879_1920_q70.jpg",
+      "unit": "шт",
+      "new": 304.64,
+      "used": 304.64
+    },
+    {
+      "id": "rg-1n-rozetka-zheltye-kontakty",
+      "name": "РГ 1Н розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685880_1920_q70.jpg",
+      "unit": "шт",
+      "new": 788.91,
+      "used": 598.49
+    },
+    {
+      "id": "tan-2-rozetka-zheltye-kontakty",
+      "name": "ТАН-2 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/19876083_1920_q70.jpg",
+      "unit": "шт",
+      "new": 637.69,
+      "used": 637.69
+    },
+    {
+      "id": "tan-2-vilka-zheltye-kontakty",
+      "name": "ТАН-2 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685911_1920_q70.jpg",
+      "unit": "шт",
+      "new": 354.26,
+      "used": 354.26
+    },
+    {
+      "id": "rpm-7-vilka-zheltye-kontakty",
+      "name": "РПМ 7 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685943_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 15.14,
+      "used": 15.14
+    },
+    {
+      "id": "rpm-7-rozetka-zheltye-kontakty",
+      "name": "РПМ 7 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685947_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 24.77,
+      "used": 19.82
+    },
+    {
+      "id": "rpm-12-32-vilka-zheltye-kontakty",
+      "name": "РПМ 12-32 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685955_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 23.37,
+      "used": 18.7
+    },
+    {
+      "id": "rpm-12-32-rozetka-zheltye-kontakty",
+      "name": "РПМ 12-32 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34685957_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 24.77,
+      "used": 19.82
+    },
+    {
+      "id": "onp-ng-79-34-r-zheltye-kontakty",
+      "name": "ОНП-НГ-79-34-Р",
+      "desc": "Желтые контакты",
+      "image": "/img/34685986_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 7.26,
+      "used": 7.26
+    },
+    {
+      "id": "rs-16-1-zheltye-kontakty",
+      "name": "РС-16-1",
+      "desc": "Желтые контакты",
+      "image": "/img/34685992_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 7.09,
+      "used": 5.67
+    },
+    {
+      "id": "snp37-24-v-zheltye-kontakty",
+      "name": "СНП37-24-В",
+      "desc": "Желтые контакты",
+      "image": "/img/34686007_1920_q70.jpg",
+      "unit": "шт",
+      "new": 743.99,
+      "used": 595.19
+    },
+    {
+      "id": "snp337-6767rp117-zheltye-kontakty",
+      "name": "СНП337-67,67РП117",
+      "desc": "Желтые контакты",
+      "image": "/img/34686011_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 16.66,
+      "used": 16.66
+    },
+    {
+      "id": "uk1-1-zheltye-kontakty",
+      "name": "УК1-1",
+      "desc": "Желтые контакты",
+      "image": "/img/34686024_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 8.34,
+      "used": 8.34
+    },
+    {
+      "id": "onp-ks-66-90-vilka-zheltye-kontakty",
+      "name": "ОНП-КС-66-90 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686025_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 7.17,
+      "used": 7.17
+    },
+    {
+      "id": "sno-54-60-vilka-zheltye-kontakty",
+      "name": "СНО 54-60 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686079_1920_q70.jpg",
+      "unit": "шт",
+      "new": 941.26,
+      "used": 854.2
+    },
+    {
+      "id": "sno-58-46-vilka-zheltye-kontakty",
+      "name": "СНО 58-46 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686088_1920_q70.jpg",
+      "unit": "шт",
+      "new": 677.38,
+      "used": 598.49
+    },
+    {
+      "id": "sno-58-46-rozetka-zheltye-kontakty",
+      "name": "СНО 58-46 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686083_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1692.08,
+      "used": 1354.76
+    },
+    {
+      "id": "sno-58-69-vilka-zheltye-kontakty",
+      "name": "СНО 58-69 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686116_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1036.47,
+      "used": 914.05
+    },
+    {
+      "id": "sno-58-90-vilka-zheltye-kontakty",
+      "name": "СНО 58-90 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686121_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2665.98,
+      "used": 1849.87
+    },
+    {
+      "id": "tesla-byvaet-temno-zelenogo-czveta",
+      "name": "Tesla",
+      "desc": "бывает темно — зеленого цвета",
+      "image": "/img/34686140_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 1.94,
+      "used": 0.97
+    },
+    {
+      "id": "onp-vg-zheltye-kontakty-rozetka",
+      "name": "ОнП ВГ Желтые контакты. Вилка",
+      "image": "/img/19891945_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 15.23,
+      "used": 12.62
+    },
+    {
+      "id": "onp-vg-zheltye-kontakty",
+      "name": "ОнП ВГ Желтые контакты. Розетка",
+      "image": "/img/19891945_1920_q70.jpg",
+      "unit": "контакт",
+      "new": 19.04,
+      "used": 15.78
+    },
+    {
+      "id": "sno-58-90-rozetka-zheltye-kontakty",
+      "name": "Сно 58-90 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686165_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2665.98,
+      "used": 2121.91
+    },
+    {
+      "id": "sno-59-69-rozetka-zheltye-kontakty",
+      "name": "Сно 59-69 розетка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686168_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2285.13,
+      "used": 2108.3
+    },
+    {
+      "id": "sno-58-90-vilka-zheltye-kontakty-2",
+      "name": "Сно 58-90 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686121_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1648.56,
+      "used": 1414.6
+    },
+    {
+      "id": "sno-59-135-vilka-zheltye-kontakty",
+      "name": "Сно 59-135 вилка",
+      "desc": "Желтые контакты",
+      "image": "/img/34686179_1920_q70.jpg",
+      "unit": "шт",
+      "new": 2475.56,
+      "used": 2121.91
+    },
+    {
+      "id": "snp-58-32-lokalnaya-zheltye-kontakty",
+      "name": "Снп 58-32 локальная",
+      "desc": "Желтые контакты",
+      "image": "/img/34686198_1920_q70.jpg",
+      "unit": "шт",
+      "new": 83.35,
+      "used": 83.35
+    },
+    {
+      "id": "snp-58-64-lokalnaya-zheltye-kontakty",
+      "name": "Снп 58-64 локальная",
+      "desc": "Желтые контакты",
+      "image": "/img/34686211_1920_q70.jpg",
+      "unit": "шт",
+      "new": 141.7,
+      "used": 113.36
+    }
+  ]
+}

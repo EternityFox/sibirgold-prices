@@ -1,0 +1,166 @@
+{
+  "schema": 1,
+  "category": "rezistory",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "sp-5-14",
+      "name": "СП 5-14",
+      "image": "/img/34721432_1920_q70.jpg",
+      "unit": "шт",
+      "price": 19.04
+    },
+    {
+      "id": "sp-5-1va-i-podobnye",
+      "name": "СП 5-1ВА и подобные",
+      "image": "/img/34721434_1920_q70.jpg",
+      "unit": "шт",
+      "price": 36.17
+    },
+    {
+      "id": "sp-5-2-i-podobnye",
+      "name": "СП 5-2 и подобные",
+      "image": "/img/34721435_1920_q70.jpg",
+      "unit": "шт",
+      "price": 16.75
+    },
+    {
+      "id": "sp-5-3-i-podobnye-metall-korpus",
+      "name": "СП 5-3 и подобные",
+      "desc": "металл корпус",
+      "image": "/img/34721436_1920_q70.jpg",
+      "unit": "шт",
+      "price": 16.75
+    },
+    {
+      "id": "sp-5-4va",
+      "name": "СП 5-4ВА",
+      "image": "/img/34721437_1920_q70.jpg",
+      "unit": "шт",
+      "price": 69.3
+    },
+    {
+      "id": "sp-5-22-68-om",
+      "name": "СП 5-22",
+      "desc": "68 Ом",
+      "image": "/img/34721441_1920_q70.jpg",
+      "unit": "шт",
+      "price": 76.15
+    },
+    {
+      "id": "sp5-16va-i-podobnye-metall-korpus",
+      "name": "СП5-16ВА и подобные",
+      "desc": "металл корпус",
+      "image": "/img/34721442_1920_q70.jpg",
+      "unit": "шт",
+      "price": 16.75
+    },
+    {
+      "id": "sp5-16vb-i-podobnye-metal-korpus-do-1991goda",
+      "name": "СП5-16ВБ и подобные",
+      "desc": "метал корпус до 1991года",
+      "image": "/img/34721451_1920_q70.jpg",
+      "unit": "шт",
+      "price": 16.76
+    },
+    {
+      "id": "sp-5-12-krome-28-30-50",
+      "name": "СП 5-1,2",
+      "desc": "кроме 28, 30, 50",
+      "image": "/img/43680991_1920_q70.jpg",
+      "unit": "шт",
+      "price": 36.17
+    },
+    {
+      "id": "sp5-20v-47-kom-i-podobnye",
+      "name": "СП5-20В 4,7 КОМ и подобные",
+      "image": "/img/41137381_1920_q70.jpg",
+      "unit": "шт",
+      "price": 46.65
+    },
+    {
+      "id": "sp-5-20vavb-do-1990-goda",
+      "name": "СП 5-20ВА(ВБ)",
+      "desc": "до 1990 года",
+      "image": "/img/41137385_1920_q70.jpg",
+      "unit": "шт",
+      "price": 17.4
+    },
+    {
+      "id": "sp-5-35",
+      "name": "СП 5-35",
+      "image": "/img/34721453_1920_q70.jpg",
+      "unit": "шт",
+      "price": 28.56
+    },
+    {
+      "id": "sp5-39a-05-vt-do-01-1992-g",
+      "name": "СП5-39А 0,5 Вт",
+      "desc": "до 01.1992 г.",
+      "image": "/img/41137390_1920_q70.jpg",
+      "unit": "шт",
+      "price": 28.86
+    },
+    {
+      "id": "sp3-37-44",
+      "name": "СП3 -37; 44",
+      "image": "/img/34721458_1920_q70.jpg",
+      "unit": "шт",
+      "price": 36.17
+    },
+    {
+      "id": "pp3-40-43-15-20-kom-s-odnim-rombom-libo-do-82-g-v",
+      "name": "ПП3-40; -43 (1,5-20 КОМ)",
+      "desc": "с одним ромбом до 82 г.в.",
+      "image": "/img/34721459_1920_q70.jpg",
+      "unit": "шт",
+      "price": 147.36
+    },
+    {
+      "id": "pp3-40-do-92-g-v-bez-romba",
+      "name": "ПП3-40",
+      "desc": "до 92 г.в. без ромба",
+      "image": "/img/9614923_1920_q70.jpg",
+      "unit": "шт",
+      "price": 38.08
+    },
+    {
+      "id": "ppz-44-i-podobnye-dvojnye-s-rombom-do-82-g",
+      "name": "ППЗ-44 и подобные двойные",
+      "desc": "с ромбом до 82 г.",
+      "image": "/img/34721471_1920_q70.jpg",
+      "unit": "шт",
+      "price": 255.54
+    },
+    {
+      "id": "sp5-39b-1vt-do-01-92g",
+      "name": "СП5-39Б 1Вт",
+      "desc": "до 01.92г.",
+      "image": "/img/34721472_1920_q70.jpg",
+      "unit": "шт",
+      "price": 28.89
+    },
+    {
+      "id": "mlt",
+      "name": "МЛТ",
+      "image": "/img/34721473_1920.png",
+      "unit": "кг",
+      "price": 120.0
+    },
+    {
+      "id": "s2",
+      "name": "С2",
+      "image": "/img/34721479_1920_q70.jpg",
+      "unit": "кг",
+      "price": 120.0
+    },
+    {
+      "id": "mmt",
+      "name": "ММТ",
+      "image": "/img/34721483_1920_q70.jpg",
+      "unit": "кг",
+      "price": 120.0
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "schema": 1,
+  "category": "rele",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "rele-res6-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС6 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721496_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.5
+    },
+    {
+      "id": "rele-res7-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС7",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721497_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1585.76
+    },
+    {
+      "id": "rele-res8-god-do-12-66-pasport-050-051-052",
+      "name": "Реле РЭС8",
+      "desc": "год: до 12.66. Паспорт: 050, 051, 052",
+      "image": "/img/34721498_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1368.7
+    },
+    {
+      "id": "rele-res8-god-do-12-71-pasport-050-051-052",
+      "name": "Реле РЭС8",
+      "desc": "год: до 12.71. Паспорт: 050, 051, 052",
+      "image": "/img/34721498_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1040.32
+    },
+    {
+      "id": "rele-res8-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС8 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721498_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res9-god-do-82-pasport-201-202-207-208",
+      "name": "Реле РЭС9",
+      "desc": "год: до 82. Паспорт: 201, 202, 207, 208",
+      "image": "/img/34721501_1920_q70.jpg",
+      "unit": "шт",
+      "price": 306.34
+    },
+    {
+      "id": "rele-res9-god-do-82-pasport-213-215-218",
+      "name": "Реле РЭС9",
+      "desc": "год: до 82. Паспорт: 213, 215-218",
+      "image": "/img/34721501_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1054.86
+    },
+    {
+      "id": "rele-res9-god-s-82-po-07-85-pasport-01-02-06",
+      "name": "Реле РЭС9",
+      "desc": "год: с 82 по 07.85. Паспорт: 01, 02, 06",
+      "image": "/img/34721501_1920_q70.jpg",
+      "unit": "шт",
+      "price": 306.33
+    },
+    {
+      "id": "rele-res9-god-s-82-do-90-pasport-09-11-14",
+      "name": "Реле РЭС9",
+      "desc": "год: с 82 до 90. Паспорт: 09, 11-14",
+      "image": "/img/34721501_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1054.78
+    },
+    {
+      "id": "res-9-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "РЭС 9 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721501_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res10-polovinka-god-do-82-pasport-300-305-308",
+      "name": "Реле РЭС10 половинка",
+      "desc": "год: до 82. Паспорт: 300, 305, 308",
+      "image": "/img/34721531_1920_q70.jpg",
+      "unit": "шт",
+      "price": 73.76
+    },
+    {
+      "id": "rele-res10-polovinka-god-do-82-pasport-311-316",
+      "name": "Реле РЭС10 половинка",
+      "desc": "год: до 82. Паспорт: 311, 316",
+      "image": "/img/34721531_1920_q70.jpg",
+      "unit": "шт",
+      "price": 266.13
+    },
+    {
+      "id": "rele-res10-polovinka-god-s-82-do-11-83-pasport-01-06-07-031-01-031-06-031-07",
+      "name": "Реле РЭС10 половинка",
+      "desc": "год: с 82 до 11.83. Паспорт: 01, 06, 07, 031-01, 031-06, 031-07",
+      "image": "/img/34721531_1920_q70.jpg",
+      "unit": "шт",
+      "price": 75.94
+    },
+    {
+      "id": "rele-res10-polovinka-god-s-82-do-90-pasport-031-08-031-13",
+      "name": "Реле РЭС10 половинка",
+      "desc": "год: с 82 до 90. Паспорт: 031-08, 031-13",
+      "image": "/img/34721531_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-res10-god-do-82-pasport-301-304",
+      "name": "Реле РЭС10",
+      "desc": "год: до 82. Паспорт: 301-304",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 124.2
+    },
+    {
+      "id": "rele-res10-god-s-82-do-12-83-pasport-031-02-031-03-031-04-031-05",
+      "name": "Реле РЭС10",
+      "desc": "год: с 82 до 12.83. Паспорт: 031-02, 031-03, 031-04, 031-05",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 74.81
+    },
+    {
+      "id": "rele-res10-god-do-82-pasport-312-315",
+      "name": "Реле РЭС10",
+      "desc": "год: до 82. Паспорт: 312-315",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 532.08
+    },
+    {
+      "id": "rele-res10-god-s-82-do-90-pasport-031-09-031-10-031-11-031-12",
+      "name": "Реле РЭС10",
+      "desc": "год: с 82 до 90. Паспорт: 031-09, 031-10, 031-11, 031-12",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 531.47
+    },
+    {
+      "id": "rele-res10-god-do-82-pasport-320",
+      "name": "Реле РЭС10",
+      "desc": "год: до 82. Паспорт: 320",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 531.47
+    },
+    {
+      "id": "rele-res10-god-s-82-do-90-pasport-050-02",
+      "name": "Реле РЭС10",
+      "desc": "год: с 82 до 90. Паспорт: 050-02",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 531.47
+    },
+    {
+      "id": "rele-res10-god-do-82-pasport-319",
+      "name": "Реле РЭС10",
+      "desc": "год: до 82. Паспорт: 319",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 123.03
+    },
+    {
+      "id": "rele-res10-god-s-82-do-12-82-pasport-050-01",
+      "name": "Реле РЭС10",
+      "desc": "год: с 82 до 12.82. Паспорт: 050-01",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "шт",
+      "price": 123.03
+    },
+    {
+      "id": "rele-res10-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС10 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721532_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res15-god-do-73-pasport-001-007",
+      "name": "Реле РЭС15",
+      "desc": "год: до 73. Паспорт: 001-007",
+      "image": "/img/34721533_1920_q70.jpg",
+      "unit": "шт",
+      "price": 51.12
+    },
+    {
+      "id": "rele-res15-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС15 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721533_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res22-god-do-74-pasport-200-299",
+      "name": "Реле РЭС22",
+      "desc": "год: до 74. Паспорт: 200-299",
+      "image": "/img/34721535_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2778.47
+    },
+    {
+      "id": "rele-res22-god-do-82-pasport-200-299",
+      "name": "Реле РЭС22",
+      "desc": "год: до 82. Паспорт: 200-299",
+      "image": "/img/34721535_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2778.47
+    },
+    {
+      "id": "rele-res22-god-do-90-pasport-09-13",
+      "name": "Реле РЭС22",
+      "desc": "год: до 90. Паспорт: 09-13",
+      "image": "/img/34721535_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1385.1
+    },
+    {
+      "id": "rele-res22-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС22 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721535_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res32-god-do-82-pasport-354-355",
+      "name": "Реле РЭС32",
+      "desc": "год: до 82. Паспорт: 354, 355",
+      "image": "/img/34721536_1920_q70.jpg",
+      "unit": "шт",
+      "price": 2378.56
+    },
+    {
+      "id": "rele-res32-god-do-90-pasport-06-07",
+      "name": "Реле РЭС32",
+      "desc": "год: до 90. Паспорт: 06, 07",
+      "image": "/img/34721536_1920_q70.jpg",
+      "unit": "шт",
+      "price": 844.53
+    },
+    {
+      "id": "rele-res32-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС32 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721536_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res34-god-po-81-pasport-371-374-380",
+      "name": "Реле РЭС34",
+      "desc": "год: по 81. Паспорт: 371-374, 380",
+      "image": "/img/34721538_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-res34-god-s-82-po-89-pasport-00-03-09-23-25-34",
+      "name": "Реле РЭС34",
+      "desc": "год: с 82 по 89. Паспорт: 00-03, 09, 23-25, 34",
+      "image": "/img/34721538_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-res34-god-s-82-po-89-pasport-21-22-26-27-28",
+      "name": "Реле РЭС34",
+      "desc": "год: с 82 по 89. Паспорт: 21, 22, 26, 27, 28",
+      "image": "/img/34721538_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-res34-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС34 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721538_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res47-obshhaya-gruppa-pasport-lyuboj-god-lyuboj",
+      "name": "Реле РЭС47 общая группа",
+      "desc": "Паспорт: любой. Год: любой",
+      "image": "/img/34721636_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res48-god-do-92-pasport-201-207",
+      "name": "Реле РЭС48",
+      "desc": "год: до 92. Паспорт: 201-207",
+      "image": "/img/34721540_1920_q70.jpg",
+      "unit": "шт",
+      "price": 86.53
+    },
+    {
+      "id": "rele-res48-god-do-12-90-pasport-213-218",
+      "name": "Реле РЭС48",
+      "desc": "год: до 12.90. Паспорт: 213-218",
+      "image": "/img/34721540_1920_q70.jpg",
+      "unit": "шт",
+      "price": 279.42
+    },
+    {
+      "id": "rele-res48-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС48 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721540_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res49-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС49 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721541_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res54-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС54 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721544_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res60-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РЭС60 общая группа",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721546_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-res78-god-do-90-pasport-00-07",
+      "name": "Реле РЭС78",
+      "desc": "год: до 90. Паспорт: 00-07",
+      "image": "/img/34721551_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-res78-god-do-90-pasport-08-13",
+      "name": "Реле РЭС78",
+      "desc": "год: до 90. Паспорт: 08-13",
+      "image": "/img/34721551_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-rp4-rp5-rp7-god-do-66-pasport-lyuboj",
+      "name": "Реле РП4; РП5; РП7",
+      "desc": "год: до 66. Паспорт: любой",
+      "image": "/img/34721553_1920_q70.jpg",
+      "unit": "шт",
+      "price": 294.79
+    },
+    {
+      "id": "rele-rp4-rp5-rp7-god-do-02-68-pasport-lyuboj",
+      "name": "Реле РП4; РП5; РП7",
+      "desc": "год: до 02.68. Паспорт: любой",
+      "image": "/img/34721553_1920_q70.jpg",
+      "unit": "шт",
+      "price": 294.79
+    },
+    {
+      "id": "rps-345715-do-72-goda",
+      "name": "РПС 3,4,5,7,15",
+      "desc": "до 72 года",
+      "image": "/img/34721555_1920_q70.jpg",
+      "unit": "шт",
+      "price": 249.35
+    },
+    {
+      "id": "rps-345715-do-90-goda",
+      "name": "РПС 3,4,5,7,15",
+      "desc": "до 90 года",
+      "image": "/img/34721555_1920_q70.jpg",
+      "unit": "шт",
+      "price": 343.55
+    },
+    {
+      "id": "rps-345715-posle-90-goda-08-14-zoloto-nikelevye-kontakty",
+      "name": "РПС 3,4,5,7,15",
+      "desc": "после 90 года 08-14 (золото-никелевые контакты)",
+      "image": "/img/34721555_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-rps11-god-do-68-pasport-lyuboj",
+      "name": "Реле РПС11",
+      "desc": "год: до 68. Паспорт: любой",
+      "image": "/img/34721557_1920_q70.jpg",
+      "unit": "шт",
+      "price": 375.18
+    },
+    {
+      "id": "rele-rps18-god-do-79-pasport-lyuboj",
+      "name": "Реле РПС18",
+      "desc": "год: до 79. Паспорт: любой",
+      "image": "/img/34721560_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-rps18-god-do-90-pasport-lyuboj",
+      "name": "Реле РПС18",
+      "desc": "год: до 90. Паспорт: любой",
+      "image": "/img/34721560_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rele-rps20-god-do-12-66-pasport-lyuboj",
+      "name": "Реле РПС20",
+      "desc": "год: до 12.66. Паспорт: любой",
+      "image": "/img/43633113_1920_q70.jpg",
+      "unit": "шт",
+      "price": 296.87
+    },
+    {
+      "id": "rele-rps20-god-lyuboj-pasport-756-760-763",
+      "name": "Реле РПС20",
+      "desc": "год: любой. Паспорт: 756, 760-763",
+      "image": "/img/43633113_1920_q70.jpg",
+      "unit": "шт",
+      "price": 747.05
+    },
+    {
+      "id": "rele-rps32-god-do-91-pasport-209-216",
+      "name": "Реле РПС32",
+      "desc": "год: до 91. Паспорт: 209-216",
+      "image": "/img/34721564_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1110.77
+    },
+    {
+      "id": "rele-rps32-god-do-92-pasport-201-208",
+      "name": "Реле РПС32",
+      "desc": "год: до 92. Паспорт: 201-208",
+      "image": "/img/34721564_1920_q70.jpg",
+      "unit": "шт",
+      "price": 295.91
+    },
+    {
+      "id": "rele-rps34-god-do-91-pasport-231-232-233",
+      "name": "Реле РПС34",
+      "desc": "год: до 91. Паспорт: 231, 232, 233",
+      "image": "/img/34721566_1920_q70.jpg",
+      "unit": "шт",
+      "price": 678.52
+    },
+    {
+      "id": "rele-rps34-god-do-12-79-pasport-234-235-236",
+      "name": "Реле РПС34",
+      "desc": "год: до 12.79. Паспорт: 234, 235, 236",
+      "image": "/img/34721566_1920_q70.jpg",
+      "unit": "шт",
+      "price": 424.83
+    },
+    {
+      "id": "rele-rps36-god-do-91-pasport-251-252-253",
+      "name": "Реле РПС36",
+      "desc": "год: до 91. Паспорт: 251, 252, 253",
+      "image": "/img/34721567_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1119.06
+    },
+    {
+      "id": "rele-rps36-god-do-12-79-pasport-254-255-256-264",
+      "name": "Реле РПС36",
+      "desc": "год: до 12.79. Паспорт: 254, 255, 256, 264",
+      "image": "/img/34721567_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1676.2
+    },
+    {
+      "id": "rele-rpv-2-7-god-lyuboj-pasport-lyuboj",
+      "name": "Реле РПВ 2/7",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721569_1920_q70.jpg",
+      "unit": "шт",
+      "price": 94.84
+    },
+    {
+      "id": "rele-dp12-god-do-90-pasport-902-903-906",
+      "name": "Реле ДП12",
+      "desc": "год: до 90. Паспорт: 902, 903, 906",
+      "image": "/img/34721570_1920_q70.jpg",
+      "unit": "шт",
+      "price": 5163.1
+    },
+    {
+      "id": "rele-dp12-god-lyuboj-pasport-lyuboj",
+      "name": "Реле ДП12",
+      "desc": "год: любой. Паспорт: любой",
+      "image": "/img/34721570_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "trm-rdo-god-lyuboj-028-525-003-p-579",
+      "name": "ТРМ РДО",
+      "desc": "год любой 028, 525, 003, П-579",
+      "image": "/img/34721571_1920_q70.jpg",
+      "unit": "шт",
+      "price": 290.37
+    },
+    {
+      "id": "rkm-1s-pli-10",
+      "name": "РКМ-1с ПЛи 10",
+      "image": "/img/34721572_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rkm-1-god-lyuboj-pasport-lyuboj-god-lyuboj",
+      "name": "РКМ-1",
+      "desc": "год любой. Паспорт: любой",
+      "image": "/img/34721572_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rkpm-s-nadpisyu-platiny",
+      "name": "РКПМ с надписью «Платины…»",
+      "image": "/img/36262260_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1391.49
+    },
+    {
+      "id": "rele-rpa11-rpa12",
+      "name": "Реле РПА11 РПА12",
+      "image": "/img/43680741_1920_q70.jpg",
+      "unit": "шт",
+      "price": 54.67
+    },
+    {
+      "id": "vpm-2-02-preobrazovatel-toka",
+      "name": "ВПМ 2-02 преобразователь тока",
+      "image": "/img/34721575_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "ren-33-tolko-so-shemoj",
+      "name": "РЭН 33",
+      "desc": "только со схемой",
+      "image": "/img/34721577_1920_q70.jpg",
+      "unit": "шт",
+      "price": 188.76
+    },
+    {
+      "id": "rme-2",
+      "name": "РМЭ-2",
+      "image": "/img/34721578_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rv-5a",
+      "name": "РВ-5А",
+      "image": "/img/34721579_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rps-24-po-90-god-916-919-926",
+      "name": "РПС 24",
+      "desc": "по 90 год. 916, 919, 926",
+      "image": "/img/34721580_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rp-3-po-67-god",
+      "name": "РП 3",
+      "desc": "по 67 год",
+      "image": "/img/34721581_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "rp-3-po-71-god",
+      "name": "РП 3",
+      "desc": "по 71 год",
+      "image": "/img/34721581_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "r-154-pot-god-lyuboj",
+      "name": "R 154 POT",
+      "desc": "год любой",
+      "image": "/img/34721609_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rgk-15-dlinnye-zheltye-vyvody",
+      "name": "РГК 15",
+      "desc": "Длинные желтые выводы",
+      "image": "/img/34721612_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "lyubye-rele-otechestvennogo-proizvodstva-s-soderzhaniem-serebra",
+      "name": "Любые реле отечественного производства с содeржанием серебра",
+      "image": "/img/34721616_1920_q70.jpg",
+      "unit": "кг",
+      "price": 212.0
+    },
+    {
+      "id": "rele-vpm",
+      "name": "РЕЛЕ ВПМ",
+      "image": "/img/34721618_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "uvpm-1-ustrojstvo-programmno-vremennoe-mikroelektronnoe",
+      "name": "УВПМ-1 устройство программно-временное микроэлектронное",
+      "image": "/img/34721623_1920_q70.jpg",
+      "unit": "шт",
+      "price": 240.2
+    },
+    {
+      "id": "emrv-27b-elektromashinnoe-motornoe-rele-vremeni",
+      "name": "ЭМРВ-27Б Электромашинное (моторное) реле времени",
+      "image": "/img/34721625_1920_q70.jpg",
+      "unit": "шт",
+      "price": 348.29
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "category": "izmeritelyachh",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "x1-42",
+      "name": "X1-42",
+      "image": "/img/34816518_1920_q70.jpg",
+      "unit": "шт",
+      "price": 5600.0
+    },
+    {
+      "id": "x1-43-2-bloka",
+      "name": "X1-43",
+      "desc": "2 блока",
+      "image": "/img/34816518_1920_q70.jpg",
+      "unit": "шт",
+      "price": 8000.0
+    },
+    {
+      "id": "x1-46-2-bloka",
+      "name": "X1-46",
+      "desc": "2 блока",
+      "image": "/img/34816518_1920_q70.jpg",
+      "unit": "шт",
+      "price": 8000.0
+    },
+    {
+      "id": "x1-47",
+      "name": "X1-47",
+      "image": "/img/34816519_1920_q70.jpg",
+      "unit": "шт",
+      "price": 6000.0
+    },
+    {
+      "id": "x1-48",
+      "name": "X1-48",
+      "image": "/img/34816519_1920_q70.jpg",
+      "unit": "шт",
+      "price": 8000.0
+    },
+    {
+      "id": "x1-49-bez-preobrazovatelya",
+      "name": "X1-49",
+      "desc": "без преобразователя",
+      "image": "/img/34816521_1920_q70.jpg",
+      "unit": "шт",
+      "price": 8000.0
+    },
+    {
+      "id": "x1-49-s-preobrazovatelem",
+      "name": "X1-49",
+      "desc": "с преобразователем",
+      "image": "/img/34816521_1920_q70.jpg",
+      "unit": "шт",
+      "price": 4800.0
+    },
+    {
+      "id": "x1-53-2-bloka",
+      "name": "X1-53",
+      "desc": "2 блока",
+      "image": "/img/19347843_1920_q70.jpg",
+      "unit": "шт",
+      "price": 24000.0
+    },
+    {
+      "id": "x1-54-2-bloka",
+      "name": "X1-54",
+      "desc": "2 блока",
+      "image": "/img/34816522_1920.png",
+      "unit": "шт",
+      "price": 18400.0
+    },
+    {
+      "id": "x1-55-2-bloka",
+      "name": "X1-55",
+      "desc": "2 блока",
+      "image": "/img/34816525_1920_q70.jpg",
+      "unit": "шт",
+      "price": 14400.0
+    },
+    {
+      "id": "x1-56",
+      "name": "X1-56",
+      "image": "/img/34816527_1920_q70.jpg",
+      "unit": "шт",
+      "price": 9600.0
+    }
+  ]
+}

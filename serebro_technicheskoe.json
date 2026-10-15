@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "category": "serebro_technicheskoe",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "serebro-99-chashka-iz-kondensatora-k52-2",
+      "name": "Серебро 99%",
+      "desc": "Чашка из конденсатора К52-2",
+      "image": "/img/34721652_1920_q70.jpg",
+      "unit": "г",
+      "price": 112.5
+    },
+    {
+      "id": "serebro-97-kontakty-rele",
+      "name": "Серебро 97%",
+      "desc": "Контакты реле",
+      "image": "/img/34721654_1920_q70.webp",
+      "unit": "г",
+      "price": 109.37
+    },
+    {
+      "id": "serebro-85-kontakty-posle-proverki",
+      "name": "Серебро 85%",
+      "desc": "Контакты (после проверки)",
+      "image": "/img/41279013_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "serebro-80-nemagnitnoe",
+      "name": "Серебро 80%",
+      "desc": "Немагнитное",
+      "image": "/img/34721671_1920_q70.jpg",
+      "unit": "г",
+      "price": 90.0
+    },
+    {
+      "id": "serebro-60-magnitnoe",
+      "name": "Серебро 60%.",
+      "desc": "Магнитное",
+      "image": "/img/34721672_1920_q70.jpg",
+      "unit": "г",
+      "price": 67.19
+    },
+    {
+      "id": "serebro-25-na-medi",
+      "name": "Серебро 25%.",
+      "desc": "На меди",
+      "image": "/img/34721674_1920_q70.jpg",
+      "unit": "г",
+      "price": 30.95
+    },
+    {
+      "id": "serebros-mks",
+      "name": "Серебро с МКС",
+      "image": "/img/34721680_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "serebro-kontakty-na-podlozhke",
+      "name": "Серебро",
+      "desc": "Контакты на подложке",
+      "image": "/img/34721691_1920_q70.jpg",
+      "unit": "кг",
+      "price": 5391.59
+    },
+    {
+      "id": "serebro-ligatura-s-razemov",
+      "name": "Серебро",
+      "desc": "Лигатура с разъемов",
+      "image": "/img/34721701_1920_q70.jpg",
+      "unit": "кг",
+      "price": 741.7
+    }
+  ]
+}

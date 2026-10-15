@@ -1,0 +1,308 @@
+{
+  "schema": 1,
+  "category": "akkumulyatornye-batarei",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "scz-12",
+      "name": "СЦ 12",
+      "image": "/img/34740480_1920_q70.jpg",
+      "unit": "шт",
+      "new": 3367.94,
+      "used": 2527.25
+    },
+    {
+      "id": "scz-25",
+      "name": "СЦ 25",
+      "image": "/img/34740483_1920_q70.jpg",
+      "unit": "шт",
+      "new": 6234.56,
+      "used": 4675.49
+    },
+    {
+      "id": "sczb-50",
+      "name": "СЦБ 50",
+      "image": "/img/34740510_1920_q70.jpg",
+      "unit": "шт",
+      "new": 20774.41,
+      "used": 15592.43
+    },
+    {
+      "id": "sczd-12m",
+      "name": "СЦД 12М",
+      "image": "/img/34740521_1920_q70.jpg",
+      "unit": "шт",
+      "new": 4511.83,
+      "used": 3385.17
+    },
+    {
+      "id": "sczd-40",
+      "name": "СЦД 40",
+      "image": "/img/34740548_1920_q70.jpg",
+      "unit": "шт",
+      "new": 17549.46,
+      "used": 13172.0
+    },
+    {
+      "id": "sczd-50",
+      "name": "СЦД 50",
+      "image": "/img/34740551_1920_q70.jpg",
+      "unit": "шт",
+      "new": 18982.77,
+      "used": 14250.43
+    },
+    {
+      "id": "sczds-70",
+      "name": "СЦДС 70",
+      "image": "/img/34740554_1920_q70.jpg",
+      "unit": "шт",
+      "new": 32237.45,
+      "used": 24197.47
+    },
+    {
+      "id": "sczk-45b",
+      "name": "СЦК 45Б",
+      "image": "/img/34740568_1920_q70.jpg",
+      "unit": "шт",
+      "new": 16116.14,
+      "used": 12097.01
+    },
+    {
+      "id": "sczs-15",
+      "name": "СЦС 1,5",
+      "image": "/img/34740593_1920_q70.jpg",
+      "unit": "шт",
+      "new": 642.58,
+      "used": 482.36
+    },
+    {
+      "id": "sczs-3",
+      "name": "СЦС 3",
+      "image": "/img/34740510_1920_q70.jpg",
+      "unit": "шт",
+      "new": 1433.31,
+      "used": 1105.99
+    },
+    {
+      "id": "sczs-5",
+      "name": "СЦС 5",
+      "image": "/img/34740596_1920_q70.jpg",
+      "unit": "кг",
+      "new": 2649.56,
+      "used": 1989.75
+    },
+    {
+      "id": "sczs-15-2",
+      "name": "СЦС 15",
+      "image": "/img/34740600_1920_q70.jpg",
+      "unit": "шт",
+      "new": 5011.42,
+      "used": 3762.44
+    },
+    {
+      "id": "sczs-18",
+      "name": "СЦС 18",
+      "image": "/img/34740601_1920_q70.jpg",
+      "unit": "шт",
+      "new": 5659.17,
+      "used": 4249.98
+    },
+    {
+      "id": "sczs-25",
+      "name": "СЦС 25",
+      "image": "/img/34740602_1920_q70.jpg",
+      "unit": "шт",
+      "new": 8953.03,
+      "used": 6720.37
+    },
+    {
+      "id": "sczs-70b",
+      "name": "СЦС 70Б",
+      "image": "/img/34740605_1920_q70.jpg",
+      "unit": "шт",
+      "new": 24285.33,
+      "used": 18229.93
+    },
+    {
+      "id": "scz-15",
+      "name": "СЦ 1,5",
+      "image": "/img/34740592_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "scz-110k",
+      "name": "СЦ 110К",
+      "image": "/img/34740484_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "scz-250",
+      "name": "СЦ 250",
+      "image": "/img/34740495_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "scz-300",
+      "name": "СЦ 300",
+      "image": "/img/34740505_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczb-70",
+      "name": "СЦБ 70",
+      "image": "/img/34740511_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-3",
+      "name": "СЦД 3",
+      "image": "/img/34740513_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-5",
+      "name": "СЦД 5",
+      "image": "/img/34740513_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-12",
+      "name": "СЦД 12",
+      "image": "/img/34740517_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-12a-0003",
+      "name": "СЦД 12А/0003",
+      "image": "/img/34740519_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-15",
+      "name": "СЦД 15",
+      "image": "/img/34740525_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-18",
+      "name": "СЦД 18",
+      "image": "/img/34740544_1920.png",
+      "price": null
+    },
+    {
+      "id": "sczd-25",
+      "name": "СЦД 25",
+      "image": "/img/34740546_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-70",
+      "name": "СЦД 70",
+      "image": "/img/34740554_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczd-70b",
+      "name": "СЦД 70Б",
+      "image": "/img/34740557_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczds-5",
+      "name": "СЦДС 5",
+      "image": "/img/34740560_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczds-15",
+      "name": "СЦДС 15",
+      "image": "/img/34740562_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczds-25",
+      "name": "СЦДС 25",
+      "image": "/img/34740564_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczds-40",
+      "name": "СЦДС 40",
+      "image": "/img/34740568_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczds-50",
+      "name": "СЦДС 50",
+      "image": "/img/34740573_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczk-25",
+      "name": "СЦК 25",
+      "image": "/img/34740586_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczk-50",
+      "name": "СЦК 50",
+      "image": "/img/34740587_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczk-70",
+      "name": "СЦК 70",
+      "image": "/img/34740592_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczs-12",
+      "name": "СЦС 12",
+      "image": "/img/34740599_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczs-15-0013",
+      "name": "СЦС 15/0013",
+      "image": "/img/34740525_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczs-70",
+      "name": "СЦС 70",
+      "image": "/img/34740605_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczss-3",
+      "name": "СЦСС 3",
+      "image": "/img/34740606_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczss-5",
+      "name": "СЦСС 5",
+      "image": "/img/34740607_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczss-12",
+      "name": "СЦСС 12",
+      "image": "/img/34740609_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczss-18",
+      "name": "СЦСС 18",
+      "image": "/img/34740610_1920_q70.jpg",
+      "price": null
+    },
+    {
+      "id": "sczsds-3",
+      "name": "СЦСДС 3",
+      "image": "/img/34740557_1920_q70.jpg",
+      "price": null
+    }
+  ]
+}

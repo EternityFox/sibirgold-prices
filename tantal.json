@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "category": "tantal",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "kondensatory-k52-2-k52-5-eto-vnutrennyaya-shajba-s-diskom",
+      "name": "Конденсаторы К52-2, К52-5",
+      "desc": "ЭТО Внутренняя шайба с диском",
+      "image": "/img/34740809_1920_q70.jpg",
+      "unit": "кг",
+      "price": 10300.9
+    },
+    {
+      "id": "kondensator-k52-9-korpus",
+      "name": "Конденсатор К52-9",
+      "desc": "Корпус",
+      "image": "/img/34740812_1920_q70.jpg",
+      "unit": "кг",
+      "price": 3100.0
+    },
+    {
+      "id": "kondensator-k52-9-vnutrennij-czilindr",
+      "name": "Конденсатор К52-9",
+      "desc": "Внутренний цилиндр",
+      "image": "/img/34740813_1920_q70.jpg",
+      "unit": "кг",
+      "price": 7850.0
+    },
+    {
+      "id": "kondensator-k52-1-vnutrennij-czilindr",
+      "name": "Конденсатор К52-1",
+      "desc": "Внутренний цилиндр",
+      "image": "/img/34740814_1920_q70.jpg",
+      "unit": "кг",
+      "price": 7880.0
+    },
+    {
+      "id": "kondensator-k53-1-vnutrennij-czilindr",
+      "name": "Конденсатор К53-1",
+      "desc": "Внутренний цилиндр",
+      "image": "/img/44116337_1920_q70.jpg",
+      "unit": "кг",
+      "price": 6390.0
+    }
+  ]
+}

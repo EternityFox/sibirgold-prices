@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "category": "blokipitaniya",
+  "updated": "2026-10-15T12:47:21+10:00",
+  "currency": "RUB",
+  "items": [
+    {
+      "id": "b5-43-50",
+      "name": "Б5-4350",
+      "image": "/img/44114571_1920_q70.jpg",
+      "unit": "шт",
+      "price": 160.0
+    },
+    {
+      "id": "b5-67",
+      "name": "Б5-67",
+      "image": "/img/34813757_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1200.0
+    },
+    {
+      "id": "b5-70",
+      "name": "Б5-70",
+      "image": "/img/34813761_1920_q70.jpg",
+      "unit": "шт",
+      "price": 800.0
+    },
+    {
+      "id": "kbns-4",
+      "name": "кбнс-4",
+      "image": "/img/34813764_1920_q70.jpg",
+      "unit": "шт",
+      "price": 800.0
+    },
+    {
+      "id": "rpptn",
+      "name": "рпптн",
+      "image": "/img/34813767_1920_q70.jpg",
+      "unit": "шт",
+      "price": 1200.0
+    }
+  ]
+}
