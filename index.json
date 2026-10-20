@@ -1,185 +1,185 @@
 {
   "schema": 1,
-  "updated": "2026-10-20T09:58:09+10:00",
+  "updated": "2026-10-21T09:29:50+10:00",
   "categories": [
     {
       "category": "akkumulyatornye-batarei",
       "file": "akkumulyatornye-batarei.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 45
     },
     {
       "category": "analizatoryspectra",
       "file": "analizatoryspectra.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 20
     },
     {
       "category": "blokipitaniya",
       "file": "blokipitaniya.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 5
     },
     {
       "category": "chastotometry",
       "file": "chastotometry.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 38
     },
     {
       "category": "condensatory",
       "file": "condensatory.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 53
     },
     {
       "category": "diody",
       "file": "diody.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 27
     },
     {
       "category": "filtry-ot-protivogazov",
       "file": "filtry-ot-protivogazov.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 3
     },
     {
       "category": "generatory",
       "file": "generatory.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 103
     },
     {
       "category": "izmeritelyachh",
       "file": "izmeritelyachh.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 11
     },
     {
       "category": "izmeritelyi",
       "file": "izmeritelyi.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 7
     },
     {
       "category": "izmeritelyrlc",
       "file": "izmeritelyrlc.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 11
     },
     {
       "category": "izmeritelytranzistorov",
       "file": "izmeritelytranzistorov.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 19
     },
     {
       "category": "korpusa-chasov",
       "file": "korpusa-chasov.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 3
     },
     {
       "category": "lampi",
       "file": "lampi.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 42
     },
     {
       "category": "metalli_platynovoi_gruppi",
       "file": "metalli_platynovoi_gruppi.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 19
     },
     {
       "category": "microshemi",
       "file": "microshemi.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 51
     },
     {
       "category": "oscilografy",
       "file": "oscilografy.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 75
     },
     {
       "category": "patanciometry",
       "file": "patanciometry.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 104
     },
     {
       "category": "perecluchateli",
       "file": "perecluchateli.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 47
     },
     {
       "category": "platy",
       "file": "platy.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 16
     },
     {
       "category": "priborybloki",
       "file": "priborybloki.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 51
     },
     {
       "category": "proczessory",
       "file": "proczessory.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 7
     },
     {
       "category": "razemy",
       "file": "razemy.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 125
     },
     {
       "category": "rele",
       "file": "rele.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 82
     },
     {
       "category": "rezistory",
       "file": "rezistory.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 21
     },
     {
       "category": "serebro_technicheskoe",
       "file": "serebro_technicheskoe.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 9
     },
     {
       "category": "syntezarorychastot",
       "file": "syntezarorychastot.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 12
     },
     {
       "category": "tantal",
       "file": "tantal.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 5
     },
     {
       "category": "tranzistory",
       "file": "tranzistory.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 34
     },
     {
       "category": "voltmerty",
       "file": "voltmerty.json",
-      "updated": "2026-10-20T09:58:09+10:00",
+      "updated": "2026-10-21T09:29:50+10:00",
       "count": 50
     }
   ]
