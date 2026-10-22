@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "razemy",
-  "updated": "2026-10-22T09:44:25+10:00",
+  "updated": "2026-10-23T09:40:57+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,8 +10,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684080_1920_q70.jpg",
       "unit": "шт",
-      "new": 2140.48,
-      "used": 1234.89
+      "new": 2076.05,
+      "used": 1197.72
     },
     {
       "id": "snp-14-112-rozetka-zheltye-kontakty",
@@ -19,8 +19,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684107_1920_q70.jpg",
       "unit": "шт",
-      "new": 3245.33,
-      "used": 1925.2
+      "new": 3147.64,
+      "used": 1867.24
     },
     {
       "id": "snp-17-52-rozetka-zheltye-kontakty",
@@ -28,8 +28,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684119_1920_q70.jpg",
       "unit": "шт",
-      "new": 2145.22,
-      "used": 1650.17
+      "new": 2080.64,
+      "used": 1600.49
     },
     {
       "id": "snp-34-30-rozetka-zheltye-kontakty",
@@ -37,8 +37,8 @@
       "desc": "Желтые контакты",
       "image": "/img/21243470_1920_q70.jpg",
       "unit": "шт",
-      "new": 1072.61,
-      "used": 907.59
+      "new": 1040.32,
+      "used": 880.27
     },
     {
       "id": "snp-34-30-vilka-polnaya-zheltye-kontakty",
@@ -46,8 +46,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684215_1920_q70.jpg",
       "unit": "шт",
-      "new": 568.28,
-      "used": 434.04
+      "new": 551.18,
+      "used": 420.98
     },
     {
       "id": "snp-34-30-vilka-lokalnaya-zheltye-kontakty",
@@ -55,8 +55,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684243_1920_q70.jpg",
       "unit": "шт",
-      "new": 145.76,
-      "used": 145.76
+      "new": 141.38,
+      "used": 141.38
     },
     {
       "id": "snp-34-69-rozetka-zheltye-kontakty",
@@ -64,8 +64,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684273_1920_q70.jpg",
       "unit": "шт",
-      "new": 2560.51,
-      "used": 2191.97
+      "new": 2483.43,
+      "used": 2125.99
     },
     {
       "id": "snp-34-69-vilka-polnaya-zheltye-kontakty",
@@ -73,8 +73,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684320_1920_q70.jpg",
       "unit": "шт",
-      "new": 1275.41,
-      "used": 1020.33
+      "new": 1237.02,
+      "used": 989.61
     },
     {
       "id": "snp-34-69-vilka-lokalnaya-zheltye-kontakty",
@@ -82,8 +82,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684322_1920_q70.jpg",
       "unit": "шт",
-      "new": 349.29,
-      "used": 321.78
+      "new": 338.77,
+      "used": 312.1
     },
     {
       "id": "snp-34-90-rozetka-zheltye-kontakty",
@@ -91,8 +91,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684362_1920_q70.jpg",
       "unit": "шт",
-      "new": 3363.59,
-      "used": 3061.06
+      "new": 3262.34,
+      "used": 2968.92
     },
     {
       "id": "snp-34-90-vilka-zheltye-kontakty",
@@ -100,8 +100,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684365_1920_q70.jpg",
       "unit": "шт",
-      "new": 1487.97,
-      "used": 1190.37
+      "new": 1443.18,
+      "used": 1154.54
     },
     {
       "id": "snp-34-113-rozetka-zheltye-kontakty",
@@ -109,8 +109,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684390_1920_q70.jpg",
       "unit": "шт",
-      "new": 4188.68,
-      "used": 3591.87
+      "new": 4062.59,
+      "used": 3483.74
     },
     {
       "id": "snp-34-113-vilka-polnaya-zheltye-kontakty",
@@ -118,8 +118,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684438_1920_q70.jpg",
       "unit": "шт",
-      "new": 2095.71,
-      "used": 1713.43
+      "new": 2032.63,
+      "used": 1661.85
     },
     {
       "id": "snp-34-113-vilka-lokalnaya-zheltye-kontakty",
@@ -127,8 +127,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684441_1920_q70.jpg",
       "unit": "шт",
-      "new": 528.05,
-      "used": 473.05
+      "new": 512.16,
+      "used": 458.81
     },
     {
       "id": "snp-34-135-rozetka-polnaya-zheltye-kontakty",
@@ -136,8 +136,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684580_1920_q70.jpg",
       "unit": "шт",
-      "new": 5005.51,
-      "used": 4290.44
+      "new": 4854.83,
+      "used": 4161.28
     },
     {
       "id": "snp-34-135-vilka-polnaya-zheltye-kontakty",
@@ -145,8 +145,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684582_1920_q70.jpg",
       "unit": "шт",
-      "new": 2502.76,
-      "used": 2145.22
+      "new": 2427.42,
+      "used": 2080.64
     },
     {
       "id": "snp-34-135-vilka-lokalnaya-zheltye-kontakty",
@@ -154,8 +154,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684585_1920_q70.jpg",
       "unit": "шт",
-      "new": 632.56,
-      "used": 588.56
+      "new": 613.52,
+      "used": 570.84
     },
     {
       "id": "snp-41-120-rozetka-zheltye-kontakty",
@@ -163,8 +163,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684590_1920_q70.jpg",
       "unit": "шт",
-      "new": 5720.58,
-      "used": 5033.01
+      "new": 5548.38,
+      "used": 4881.51
     },
     {
       "id": "snp-59-32-rozetka-zheltye-kontakty",
@@ -172,8 +172,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684597_1920_q70.jpg",
       "unit": "шт",
-      "new": 951.6,
-      "used": 720.57
+      "new": 922.95,
+      "used": 698.88
     },
     {
       "id": "snp-59-32-vilka-zheltye-kontakty",
@@ -181,8 +181,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684599_1920_q70.jpg",
       "unit": "шт",
-      "new": 496.56,
-      "used": 396.78
+      "new": 481.61,
+      "used": 384.84
     },
     {
       "id": "snp-59-48-rozetka-zheltye-kontakty",
@@ -190,8 +190,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684611_1920_q70.jpg",
       "unit": "шт",
-      "new": 1424.65,
-      "used": 1072.61
+      "new": 1381.76,
+      "used": 1040.32
     },
     {
       "id": "snp-59-48-vilka-zheltye-kontakty",
@@ -199,8 +199,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684614_1920_q70.jpg",
       "unit": "шт",
-      "new": 997.25,
-      "used": 750.83
+      "new": 967.23,
+      "used": 728.22
     },
     {
       "id": "snp-59-64-rozetka-zheltye-kontakty",
@@ -208,8 +208,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684641_1920_q70.jpg",
       "unit": "шт",
-      "new": 1885.23,
-      "used": 1686.64
+      "new": 1828.48,
+      "used": 1635.87
     },
     {
       "id": "snp-59-64-vilka-zheltye-kontakty",
@@ -217,8 +217,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684646_1920_q70.jpg",
       "unit": "шт",
-      "new": 941.26,
-      "used": 835.16
+      "new": 912.92,
+      "used": 810.02
     },
     {
       "id": "snp-59-96-vilka-zheltye-kontakty",
@@ -226,8 +226,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684658_1920_q70.jpg",
       "unit": "шт",
-      "new": 1414.6,
-      "used": 1273.14
+      "new": 1372.02,
+      "used": 1234.82
     },
     {
       "id": "snp-59-96-rozetka-zheltye-kontakty",
@@ -235,8 +235,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684678_1920_q70.jpg",
       "unit": "шт",
-      "new": 2829.21,
-      "used": 2121.91
+      "new": 2744.04,
+      "used": 2058.03
     },
     {
       "id": "snp-59-135-rozetka-zheltye-kontakty",
@@ -244,8 +244,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684710_1920_q70.jpg",
       "unit": "шт",
-      "new": 4951.11,
-      "used": 4352.63
+      "new": 4802.07,
+      "used": 4221.6
     },
     {
       "id": "snp-59-135-vilka-zheltye-kontakty",
@@ -253,8 +253,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684713_1920_q70.jpg",
       "unit": "шт",
-      "new": 2475.56,
-      "used": 1958.68
+      "new": 2401.04,
+      "used": 1899.72
     },
     {
       "id": "snp-49-56-do-90-goda-zheltye-kontakty",
@@ -262,8 +262,8 @@
       "desc": "до 90 года желтые контакты",
       "image": "/img/41137360_1920_q70.jpg",
       "unit": "контакт",
-      "new": 2.72,
-      "used": 0.97
+      "new": 2.64,
+      "used": 0.94
     },
     {
       "id": "snp1-snp3-rozetka-i-podobnye-zheltye-kontakty",
@@ -271,8 +271,8 @@
       "desc": "Желтые контакты",
       "image": "/img/36354255_1920_q70.jpg",
       "unit": "контакт",
-      "new": 15.78,
-      "used": 7.89
+      "new": 15.3,
+      "used": 7.65
     },
     {
       "id": "snp1-snp3-vilka-i-podobnye-zheltye-kontakty",
@@ -280,8 +280,8 @@
       "desc": "Желтые контакты",
       "image": "/img/36354281_1920.png",
       "unit": "контакт",
-      "new": 11.79,
-      "used": 5.9
+      "new": 11.44,
+      "used": 5.72
     },
     {
       "id": "snp-vilka-ligatura-zheltye-kontakty",
@@ -289,8 +289,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684732_1920_q70.jpg",
       "unit": "кг",
-      "new": 148799.36,
-      "used": 119039.49
+      "new": 144320.08,
+      "used": 115456.07
     },
     {
       "id": "snp-rozetka-ligatura-zheltye-kontakty",
@@ -298,8 +298,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684738_1920_q70.jpg",
       "unit": "кг",
-      "new": 247998.92,
-      "used": 198399.14
+      "new": 240533.46,
+      "used": 192426.77
     },
     {
       "id": "sno-54-60-rozetka-zheltye-kontakty",
@@ -307,8 +307,8 @@
       "desc": "Желтые контакты",
       "image": "/img/9619785_1920_q70.jpg",
       "unit": "шт",
-      "new": 708.55,
-      "used": 566.84
+      "new": 687.23,
+      "used": 549.78
     },
     {
       "id": "sno-59-135-rozetka-zheltye-kontakty",
@@ -316,8 +316,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684804_1920_q70.jpg",
       "unit": "шт",
-      "new": 5658.41,
-      "used": 5114.34
+      "new": 5488.08,
+      "used": 4960.38
     },
     {
       "id": "sno-60-rozetka-zheltye-kontakty",
@@ -325,8 +325,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684817_1920_q70.jpg",
       "unit": "контакт",
-      "new": 34.0,
-      "used": 27.2
+      "new": 32.98,
+      "used": 26.39
     },
     {
       "id": "sno-60-rozetka-ligatura-zheltye-kontakty",
@@ -334,8 +334,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19862128_1920_q70.jpg",
       "unit": "кг",
-      "new": 266755.17,
-      "used": 266755.17
+      "new": 258725.1,
+      "used": 258725.1
     },
     {
       "id": "sno-64-16-rozetka-zheltye-kontakty",
@@ -343,8 +343,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684836_1920_q70.jpg",
       "unit": "шт",
-      "new": 522.32,
-      "used": 448.86
+      "new": 506.59,
+      "used": 435.35
     },
     {
       "id": "sno-64-32-rozetka-zheltye-kontakty",
@@ -352,8 +352,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684842_1920_q70.jpg",
       "unit": "шт",
-      "new": 1062.85,
-      "used": 850.28
+      "new": 1030.85,
+      "used": 824.68
     },
     {
       "id": "sno-64-48-rozetka-zheltye-kontakty",
@@ -361,8 +361,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684861_1920_q70.jpg",
       "unit": "шт",
-      "new": 1629.7,
-      "used": 1303.76
+      "new": 1580.64,
+      "used": 1264.51
     },
     {
       "id": "sno-64-64-rozetka-zheltye-kontakty",
@@ -370,8 +370,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684879_1920_q70.jpg",
       "unit": "шт",
-      "new": 2121.91,
-      "used": 1795.46
+      "new": 2058.03,
+      "used": 1741.41
     },
     {
       "id": "sno-64-96-rozetka-zheltye-kontakty",
@@ -379,8 +379,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684881_1920_q70.jpg",
       "unit": "шт",
-      "new": 3330.24,
-      "used": 2664.19
+      "new": 3229.99,
+      "used": 2583.99
     },
     {
       "id": "sno-64-96-vilka-zheltye-kontakty",
@@ -388,8 +388,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684901_1920_q70.jpg",
       "unit": "шт",
-      "new": 1414.6,
-      "used": 1273.14
+      "new": 1372.02,
+      "used": 1234.82
     },
     {
       "id": "sno-68-18366472-vilka-zheltye-kontakty",
@@ -397,8 +397,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684937_1920_q70.jpg",
       "unit": "контакт",
-      "new": 18.23,
-      "used": 15.78
+      "new": 17.68,
+      "used": 15.3
     },
     {
       "id": "sno-68-18366472-rozetka-zheltye-kontakty",
@@ -406,8 +406,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684817_1920_q70.jpg",
       "unit": "контакт",
-      "new": 34.0,
-      "used": 27.2
+      "new": 32.98,
+      "used": 26.38
     },
     {
       "id": "onp-256-rozetka-zheltye-kontakty",
@@ -415,8 +415,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684960_1920_q70.jpg",
       "unit": "шт",
-      "new": 11337.07,
-      "used": 9069.66
+      "new": 10995.8,
+      "used": 8796.64
     },
     {
       "id": "onp-256-vilka-zheltye-kontakty",
@@ -424,8 +424,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684964_1920_q70.jpg",
       "unit": "шт",
-      "new": 1487.97,
-      "used": 1190.38
+      "new": 1443.18,
+      "used": 1154.54
     },
     {
       "id": "onp-ns-1-94-zheltye-kontakty",
@@ -433,8 +433,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19862928_1920_q70.jpg",
       "unit": "шт",
-      "new": 4251.38,
-      "used": 3401.11
+      "new": 4123.41,
+      "used": 3298.73
     },
     {
       "id": "onp-ns-1-108-zheltye-kontakty",
@@ -442,8 +442,8 @@
       "desc": "Желтые контакты",
       "image": "/img/21245988_1920_q70.jpg",
       "unit": "шт",
-      "new": 4951.11,
-      "used": 4243.81
+      "new": 4802.07,
+      "used": 4116.06
     },
     {
       "id": "rppm-16-288-rozetka-zheltye-kontakty",
@@ -451,8 +451,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685044_1920_q70.jpg",
       "unit": "шт",
-      "new": 9902.23,
-      "used": 8487.62
+      "new": 9604.14,
+      "used": 8232.12
     },
     {
       "id": "rppm-16-288-rozetka-s-1990-goda-zheltye-kontakty",
@@ -460,8 +460,8 @@
       "desc": "с 1990 года Желтые контакты",
       "image": "/img/19863080_1920_q70.jpg",
       "unit": "шт",
-      "new": 9371.75,
-      "used": 7399.47
+      "new": 9089.63,
+      "used": 7176.72
     },
     {
       "id": "rppm-17-48-3-rozetka-zheltye-kontakty",
@@ -469,8 +469,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685056_1920_q70.jpg",
       "unit": "шт",
-      "new": 1275.41,
-      "used": 1020.33
+      "new": 1237.02,
+      "used": 989.61
     },
     {
       "id": "rppm-17-52-3-rozetka-zheltye-kontakty",
@@ -478,8 +478,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19863216_1920_q70.jpg",
       "unit": "шт",
-      "new": 1414.6,
-      "used": 1251.38
+      "new": 1372.02,
+      "used": 1213.71
     },
     {
       "id": "rppm-10-144-zheltye-kontakty",
@@ -487,8 +487,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685122_1920_q70.jpg",
       "unit": "шт",
-      "new": 8431.96,
-      "used": 6745.57
+      "new": 8178.14,
+      "used": 6542.51
     },
     {
       "id": "rppg-2-48-rozetka-stalnogo-czveta-dlinnye-nogi",
@@ -514,8 +514,8 @@
       "desc": "желтого цвета",
       "image": "/img/34685151_1920_q70.jpg",
       "unit": "шт",
-      "new": 2829.21,
-      "used": 2464.67
+      "new": 2744.04,
+      "used": 2390.48
     },
     {
       "id": "grpm1-61go2-v-i-podobnye-zheltye-voloski",
@@ -531,8 +531,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19863656_1920_q70.jpg",
       "unit": "шт",
-      "new": 566.86,
-      "used": 453.48
+      "new": 549.79,
+      "used": 439.83
     },
     {
       "id": "grppm-7-90g1-rozetka-zheltye-kontakty",
@@ -540,8 +540,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685193_1920.png",
       "unit": "шт",
-      "new": 1771.4,
-      "used": 1417.12
+      "new": 1718.08,
+      "used": 1374.46
     },
     {
       "id": "grppm-7-90-rozetka-ligatura-zheltye-kontakty",
@@ -549,8 +549,8 @@
       "desc": "Желтые контакты",
       "image": "/img/21246320_1920_q70.jpg",
       "unit": "кг",
-      "new": 125041.48,
-      "used": 125041.48
+      "new": 121277.38,
+      "used": 121277.38
     },
     {
       "id": "rppm-16-72-rozetka-zheltye-kontakty",
@@ -558,8 +558,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685215_1920_q70.jpg",
       "unit": "шт",
-      "new": 2475.56,
-      "used": 2040.29
+      "new": 2401.04,
+      "used": 1978.88
     },
     {
       "id": "rps-1-37-polnyj-zheltye-kontakty",
@@ -567,8 +567,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685446_1920_q70.jpg",
       "unit": "шт",
-      "new": 579.44,
-      "used": 503.27
+      "new": 562.0,
+      "used": 488.12
     },
     {
       "id": "rps-1-37-lokalnyj-zheltye-kontakty",
@@ -576,8 +576,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685448_1920_q70.jpg",
       "unit": "шт",
-      "new": 283.4,
-      "used": 226.72
+      "new": 274.87,
+      "used": 219.89
     },
     {
       "id": "onp-vg-37-140-rozetka-zheltye-kontakty",
@@ -585,8 +585,8 @@
       "desc": "Желтые контакты",
       "image": "/img/21246638_1920_q70.jpg",
       "unit": "шт",
-      "new": 3826.26,
-      "used": 3061.01
+      "new": 3711.08,
+      "used": 2968.86
     },
     {
       "id": "onp-vs-224-rozetka-zheltye-kontakty",
@@ -594,8 +594,8 @@
       "desc": "Желтые контакты",
       "image": "/img/21246650_1920_q70.jpg",
       "unit": "шт",
-      "new": 8199.26,
-      "used": 7372.26
+      "new": 7952.44,
+      "used": 7150.34
     },
     {
       "id": "onp-vs-224-vilka-zheltye-kontakty",
@@ -603,8 +603,8 @@
       "desc": "Желтые контакты",
       "image": "/img/21246667_1920_q70.jpg",
       "unit": "шт",
-      "new": 1417.11,
-      "used": 1133.69
+      "new": 1374.45,
+      "used": 1099.56
     },
     {
       "id": "onp-kg-vilka-zheltye-kontakty",
@@ -612,8 +612,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685532_1920_q70.jpg",
       "unit": "контакт",
-      "new": 7.09,
-      "used": 5.67
+      "new": 6.87,
+      "used": 5.5
     },
     {
       "id": "onp-kr-zheltye-kontakty",
@@ -621,8 +621,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685549_1920_q70.jpg",
       "unit": "контакт",
-      "new": 6.66,
-      "used": 6.66
+      "new": 6.46,
+      "used": 6.46
     },
     {
       "id": "rs-kolodka-zheltye-kontakty",
@@ -630,8 +630,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685581_1920_q70.jpg",
       "unit": "контакт",
-      "new": 7.09,
-      "used": 5.67
+      "new": 6.87,
+      "used": 5.5
     },
     {
       "id": "rs-kolodka-ligatura-zheltye-kontakty",
@@ -639,8 +639,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685582_1920_q70.jpg",
       "unit": "кг",
-      "new": 200066.37,
-      "used": 200066.37
+      "new": 194043.82,
+      "used": 194043.82
     },
     {
       "id": "ukraina-rozetka-zheltye-kontakty",
@@ -648,8 +648,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685590_1920_q70.jpg",
       "unit": "контакт",
-      "new": 28.32,
-      "used": 22.65
+      "new": 27.46,
+      "used": 21.97
     },
     {
       "id": "rpm-32-zheltye-kontakty",
@@ -657,8 +657,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685598_1920_q70.jpg",
       "unit": "шт",
-      "new": 921.15,
-      "used": 736.92
+      "new": 893.42,
+      "used": 714.73
     },
     {
       "id": "shr-rs-vilka-kont-zheltogo-czveta",
@@ -666,8 +666,8 @@
       "desc": "контур желтого цвета",
       "image": "/img/34685609_1920_q70.jpg",
       "unit": "контакт",
-      "new": 16.74,
-      "used": 16.74
+      "new": 16.24,
+      "used": 16.24
     },
     {
       "id": "shr-rs-vilka-ligatura-zheltye-kontakty",
@@ -675,8 +675,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685634_1920_q70.jpg",
       "unit": "кг",
-      "new": 66688.77,
-      "used": 66688.77
+      "new": 64681.25,
+      "used": 64681.25
     },
     {
       "id": "shr-rs-rozetka-kont-zheltogo-czveta",
@@ -684,8 +684,8 @@
       "desc": "контур желтого цвета",
       "image": "/img/34685637_1920_q70.jpg",
       "unit": "контакт",
-      "new": 27.2,
-      "used": 27.2
+      "new": 26.39,
+      "used": 26.39
     },
     {
       "id": "shr-rs-rozetka-ligatura-zheltye-kontakty",
@@ -693,8 +693,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685643_1920_q70.jpg",
       "unit": "кг",
-      "new": 133377.57,
-      "used": 133377.57
+      "new": 129362.54,
+      "used": 129362.54
     },
     {
       "id": "shr-mr-vilka-kont-zheltogo-czveta",
@@ -702,8 +702,8 @@
       "desc": "контур желтого цвета",
       "image": "/img/34685701_1920_q70.jpg",
       "unit": "контакт",
-      "new": 13.34,
-      "used": 13.34
+      "new": 12.94,
+      "used": 12.94
     },
     {
       "id": "shr-mr-vilka-kont-zheltogo-czveta-2",
@@ -711,8 +711,8 @@
       "desc": "контур желтого цвета",
       "image": "/img/34685709_1920_q70.jpg",
       "unit": "кг",
-      "new": 53351.02,
-      "used": 53351.02
+      "new": 51745.0,
+      "used": 51745.0
     },
     {
       "id": "shr-mr-rozetka-kont-zheltogo-czveta",
@@ -720,8 +720,8 @@
       "desc": "контур желтого цвета",
       "image": "/img/34685652_1920_q70.jpg",
       "unit": "контакт",
-      "new": 30.0,
-      "used": 30.0
+      "new": 29.1,
+      "used": 29.1
     },
     {
       "id": "shr-mr-rozetka-ligatura-zheltye-kontakty",
@@ -729,32 +729,32 @@
       "desc": "Желтые контакты",
       "image": "/img/13843737_1920_q70.jpg",
       "unit": "кг",
-      "new": 106702.03,
-      "used": 106702.03
+      "new": 103490.01,
+      "used": 103490.01
     },
     {
       "id": "lamel-zheltaya-importnaya",
       "name": "Ламель желтая импортная",
       "image": "/img/34685739_1920_q70.jpg",
       "unit": "кг",
-      "new": 9737.68,
-      "used": 9737.68
+      "new": 9444.55,
+      "used": 9444.55
     },
     {
       "id": "lamel-zheltaya-importnaya-s-videokart-modulej-pamyati",
       "name": "Ламель желтая импортная",
       "desc": "с видеокарт, модулей памяти",
       "unit": "кг",
-      "new": 740.05,
-      "used": 740.05
+      "new": 717.77,
+      "used": 717.77
     },
     {
       "id": "lamel-zheltaya-otechestvennaya",
       "name": "Ламель желтая отечественная",
       "image": "/img/34685741_1920_q70.jpg",
       "unit": "кг",
-      "new": 34081.86,
-      "used": 34081.86
+      "new": 33055.9,
+      "used": 33055.9
     },
     {
       "id": "lamel-belaya",
@@ -769,8 +769,8 @@
       "name": "Импортные разъемы желтого цвета лигатура",
       "image": "/img/34685748_1920_q70.jpg",
       "unit": "кг",
-      "new": 20006.63,
-      "used": 20006.63
+      "new": 19404.38,
+      "used": 19404.38
     },
     {
       "id": "rppm-ligatura-zheltye-kontakty",
@@ -778,8 +778,8 @@
       "desc": "Желтые контакты",
       "image": "/img/9620288_1920_q70.jpg",
       "unit": "кг",
-      "new": 184227.78,
-      "used": 147382.22
+      "new": 178682.01,
+      "used": 142945.6
     },
     {
       "id": "eltra-zheltye-kontakty",
@@ -787,8 +787,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685765_1920_q70.jpg",
       "unit": "контакт",
-      "new": 4.17,
-      "used": 4.17
+      "new": 4.05,
+      "used": 4.05
     },
     {
       "id": "razem-rr-rozetka-lokalnyj-zheltye-kontakty",
@@ -796,8 +796,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19874714_1920_q70.jpg",
       "unit": "контакт",
-      "new": 2.72,
-      "used": 0.97
+      "new": 2.64,
+      "used": 0.94
     },
     {
       "id": "razem-rr-vilka-lokalnyj-zheltye-kontakty",
@@ -805,8 +805,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685788_1920_q70.jpg",
       "unit": "контакт",
-      "new": 2.72,
-      "used": 0.97
+      "new": 2.64,
+      "used": 0.94
     },
     {
       "id": "razem-rr-rozet-ligatura-zheltye-kontakty",
@@ -814,8 +814,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34684738_1920_q70.jpg",
       "unit": "кг",
-      "new": 26675.51,
-      "used": 26675.51
+      "new": 25872.5,
+      "used": 25872.5
     },
     {
       "id": "razem-rr-vilka-ligatura-zheltye-kontakty",
@@ -823,8 +823,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685794_1920_q70.jpg",
       "unit": "кг",
-      "new": 13336.15,
-      "used": 13336.15
+      "new": 12934.7,
+      "used": 12934.7
     },
     {
       "id": "rpm-23-rozetka-zheltye-kontakty",
@@ -832,8 +832,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685835_1920_q70.jpg",
       "unit": "контакт",
-      "new": 24.77,
-      "used": 19.82
+      "new": 24.03,
+      "used": 19.22
     },
     {
       "id": "rpn-23-vilka-zheltye-kontakty",
@@ -841,8 +841,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685837_1920_q70.jpg",
       "unit": "контакт",
-      "new": 14.89,
-      "used": 11.91
+      "new": 14.44,
+      "used": 11.55
     },
     {
       "id": "rpn-23-rozetka-zheltye-kontakty",
@@ -850,8 +850,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19875883_1920_q70.jpg",
       "unit": "контакт",
-      "new": 24.77,
-      "used": 19.82
+      "new": 24.03,
+      "used": 19.22
     },
     {
       "id": "6r-100-vilka-lokalnyj-kontakty-zheltogo-czveta",
@@ -859,8 +859,8 @@
       "desc": "контакты желтого цвета",
       "image": "/img/34685853_1920_q70.jpg",
       "unit": "шт",
-      "new": 1417.11,
-      "used": 1133.69
+      "new": 1374.45,
+      "used": 1099.56
     },
     {
       "id": "6r-100a-rozetka-kontakty-zheltogo-czveta",
@@ -868,8 +868,8 @@
       "desc": "контакты желтого цвета",
       "image": "/img/34685856_1920_q70.jpg",
       "unit": "шт",
-      "new": 5668.52,
-      "used": 4534.82
+      "new": 5497.88,
+      "used": 4398.31
     },
     {
       "id": "sk-64-140-9-kontakty-zheltogo-czveta-lokalnyj",
@@ -877,8 +877,8 @@
       "desc": "контакты желтого цвета",
       "image": "/img/34685879_1920_q70.jpg",
       "unit": "шт",
-      "new": 304.64,
-      "used": 304.64
+      "new": 295.47,
+      "used": 295.47
     },
     {
       "id": "rg-1n-rozetka-zheltye-kontakty",
@@ -886,8 +886,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685880_1920_q70.jpg",
       "unit": "шт",
-      "new": 788.91,
-      "used": 598.49
+      "new": 765.17,
+      "used": 580.47
     },
     {
       "id": "tan-2-rozetka-zheltye-kontakty",
@@ -895,8 +895,8 @@
       "desc": "Желтые контакты",
       "image": "/img/19876083_1920_q70.jpg",
       "unit": "шт",
-      "new": 637.69,
-      "used": 637.69
+      "new": 618.49,
+      "used": 618.49
     },
     {
       "id": "tan-2-vilka-zheltye-kontakty",
@@ -904,8 +904,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685911_1920_q70.jpg",
       "unit": "шт",
-      "new": 354.26,
-      "used": 354.26
+      "new": 343.6,
+      "used": 343.6
     },
     {
       "id": "rpm-7-vilka-zheltye-kontakty",
@@ -913,8 +913,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685943_1920_q70.jpg",
       "unit": "контакт",
-      "new": 15.14,
-      "used": 15.14
+      "new": 14.69,
+      "used": 14.69
     },
     {
       "id": "rpm-7-rozetka-zheltye-kontakty",
@@ -922,8 +922,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685947_1920_q70.jpg",
       "unit": "контакт",
-      "new": 24.77,
-      "used": 19.82
+      "new": 24.03,
+      "used": 19.22
     },
     {
       "id": "rpm-12-32-vilka-zheltye-kontakty",
@@ -931,8 +931,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685955_1920_q70.jpg",
       "unit": "контакт",
-      "new": 23.37,
-      "used": 18.7
+      "new": 22.67,
+      "used": 18.14
     },
     {
       "id": "rpm-12-32-rozetka-zheltye-kontakty",
@@ -940,8 +940,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685957_1920_q70.jpg",
       "unit": "контакт",
-      "new": 24.77,
-      "used": 19.82
+      "new": 24.03,
+      "used": 19.22
     },
     {
       "id": "onp-ng-79-34-r-zheltye-kontakty",
@@ -949,8 +949,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685986_1920_q70.jpg",
       "unit": "контакт",
-      "new": 7.26,
-      "used": 7.26
+      "new": 7.04,
+      "used": 7.04
     },
     {
       "id": "rs-16-1-zheltye-kontakty",
@@ -958,8 +958,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685992_1920_q70.jpg",
       "unit": "контакт",
-      "new": 7.09,
-      "used": 5.67
+      "new": 6.87,
+      "used": 5.5
     },
     {
       "id": "snp37-24-v-zheltye-kontakty",
@@ -967,8 +967,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686007_1920_q70.jpg",
       "unit": "шт",
-      "new": 743.99,
-      "used": 595.19
+      "new": 721.59,
+      "used": 577.27
     },
     {
       "id": "snp337-6767rp117-zheltye-kontakty",
@@ -976,8 +976,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686011_1920_q70.jpg",
       "unit": "контакт",
-      "new": 16.66,
-      "used": 16.66
+      "new": 16.16,
+      "used": 16.16
     },
     {
       "id": "uk1-1-zheltye-kontakty",
@@ -985,8 +985,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686024_1920_q70.jpg",
       "unit": "контакт",
-      "new": 8.34,
-      "used": 8.34
+      "new": 8.09,
+      "used": 8.09
     },
     {
       "id": "onp-ks-66-90-vilka-zheltye-kontakty",
@@ -994,8 +994,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686025_1920_q70.jpg",
       "unit": "контакт",
-      "new": 7.17,
-      "used": 7.17
+      "new": 6.96,
+      "used": 6.96
     },
     {
       "id": "sno-54-60-vilka-zheltye-kontakty",
@@ -1003,8 +1003,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686079_1920_q70.jpg",
       "unit": "шт",
-      "new": 941.26,
-      "used": 854.2
+      "new": 912.92,
+      "used": 828.49
     },
     {
       "id": "sno-58-46-vilka-zheltye-kontakty",
@@ -1012,8 +1012,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686088_1920_q70.jpg",
       "unit": "шт",
-      "new": 677.38,
-      "used": 598.49
+      "new": 656.99,
+      "used": 580.47
     },
     {
       "id": "sno-58-46-rozetka-zheltye-kontakty",
@@ -1021,8 +1021,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686083_1920_q70.jpg",
       "unit": "шт",
-      "new": 1692.08,
-      "used": 1354.76
+      "new": 1641.15,
+      "used": 1313.97
     },
     {
       "id": "sno-58-69-vilka-zheltye-kontakty",
@@ -1030,8 +1030,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686116_1920_q70.jpg",
       "unit": "шт",
-      "new": 1036.47,
-      "used": 914.05
+      "new": 1005.27,
+      "used": 886.54
     },
     {
       "id": "sno-58-90-vilka-zheltye-kontakty",
@@ -1039,8 +1039,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686121_1920_q70.jpg",
       "unit": "шт",
-      "new": 2665.98,
-      "used": 1849.87
+      "new": 2585.73,
+      "used": 1794.18
     },
     {
       "id": "tesla-byvaet-temno-zelenogo-czveta",
@@ -1048,24 +1048,24 @@
       "desc": "бывает темно — зеленого цвета",
       "image": "/img/34686140_1920_q70.jpg",
       "unit": "контакт",
-      "new": 1.94,
-      "used": 0.97
+      "new": 1.88,
+      "used": 0.94
     },
     {
       "id": "onp-vg-zheltye-kontakty-rozetka",
       "name": "ОнП ВГ Желтые контакты. Вилка",
       "image": "/img/19891945_1920_q70.jpg",
       "unit": "контакт",
-      "new": 15.23,
-      "used": 12.62
+      "new": 14.78,
+      "used": 12.24
     },
     {
       "id": "onp-vg-zheltye-kontakty",
       "name": "ОнП ВГ Желтые контакты. Розетка",
       "image": "/img/19891945_1920_q70.jpg",
       "unit": "контакт",
-      "new": 19.04,
-      "used": 15.78
+      "new": 18.47,
+      "used": 15.3
     },
     {
       "id": "sno-58-90-rozetka-zheltye-kontakty",
@@ -1073,8 +1073,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686165_1920_q70.jpg",
       "unit": "шт",
-      "new": 2665.98,
-      "used": 2121.91
+      "new": 2585.73,
+      "used": 2058.03
     },
     {
       "id": "sno-59-69-rozetka-zheltye-kontakty",
@@ -1082,8 +1082,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686168_1920_q70.jpg",
       "unit": "шт",
-      "new": 2285.13,
-      "used": 2108.3
+      "new": 2216.34,
+      "used": 2044.84
     },
     {
       "id": "sno-58-90-vilka-zheltye-kontakty-2",
@@ -1091,8 +1091,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686121_1920_q70.jpg",
       "unit": "шт",
-      "new": 1648.56,
-      "used": 1414.6
+      "new": 1598.93,
+      "used": 1372.02
     },
     {
       "id": "sno-59-135-vilka-zheltye-kontakty",
@@ -1100,8 +1100,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686179_1920_q70.jpg",
       "unit": "шт",
-      "new": 2475.56,
-      "used": 2121.91
+      "new": 2401.04,
+      "used": 2058.03
     },
     {
       "id": "snp-58-32-lokalnaya-zheltye-kontakty",
@@ -1109,8 +1109,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686198_1920_q70.jpg",
       "unit": "шт",
-      "new": 83.35,
-      "used": 83.35
+      "new": 80.84,
+      "used": 80.84
     },
     {
       "id": "snp-58-64-lokalnaya-zheltye-kontakty",
@@ -1118,8 +1118,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34686211_1920_q70.jpg",
       "unit": "шт",
-      "new": 141.7,
-      "used": 113.36
+      "new": 137.43,
+      "used": 109.95
     }
   ]
 }

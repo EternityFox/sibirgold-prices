@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "condensatory",
-  "updated": "2026-10-22T09:44:25+10:00",
+  "updated": "2026-10-23T09:40:57+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,7 +10,7 @@
       "desc": "Группа: Н90- F- U и т.п.",
       "image": "/img/34669753_1920_q70.jpg",
       "unit": "кг",
-      "price": 104120.39
+      "price": 101102.22
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-v-m1500-razmer-melkij-srednij-krupnyj",
@@ -18,7 +18,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669756_1920_q70.jpg",
       "unit": "кг",
-      "price": 122157.32
+      "price": 119283.39
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-n30-razmer-melkij-srednij-krupnyjkm-zelenye-n30",
@@ -26,7 +26,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669761_1920_q70.jpg",
       "unit": "кг",
-      "price": 143241.91
+      "price": 140214.02
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-n30-68n-68nm-68n-razmer-krupnyj",
@@ -34,7 +34,7 @@
       "desc": "Размер: крупный",
       "image": "/img/34840789_1920_q70.jpg",
       "unit": "кг",
-      "price": 143241.91
+      "price": 140214.02
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-d-razmer-melkij-srednij-krupnyj",
@@ -42,7 +42,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669792_1920_q70.jpg",
       "unit": "кг",
-      "price": 133040.21
+      "price": 130404.11
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-3-3v-4-4v-6-5v-6-6v-22n-razmer-krupnyj-melkij",
@@ -50,7 +50,7 @@
       "desc": "Размер: крупный, мелкий",
       "image": "/img/34669838_1920_q70.jpg",
       "unit": "кг",
-      "price": 133300.32
+      "price": 130404.11
     },
     {
       "id": "kondensatory-km-ryzhie-obshhaya-gruppa-gruppa-n90-f-u-i-t-p",
@@ -58,7 +58,7 @@
       "desc": "Группа: Н90- F- U и т.п.",
       "image": "/img/34669924_1920_q70.jpg",
       "unit": "кг",
-      "price": 89021.12
+      "price": 86012.21
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-v-m1500-razmer-melkij-srednij-krupnyj",
@@ -66,7 +66,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674371_1920_q70.jpg",
       "unit": "кг",
-      "price": 97202.29
+      "price": 94220.92
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-h30-d-e-razmer-melkij-srednij-krupnyj",
@@ -74,7 +74,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674419_1920_q70.jpg",
       "unit": "кг",
-      "price": 111329.31
+      "price": 108393.33
     },
     {
       "id": "kondensatory-km-oranzhevye-gruppa-3v-4v-5v-6v-22n-razmer-melkij-srednij-krupnyj",
@@ -82,7 +82,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674608_1920_q70.jpg",
       "unit": "кг",
-      "price": 111329.31
+      "price": 108393.33
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n50-razmer-melkij-srednij-krupnyj",
@@ -90,7 +90,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674643_1920_q70.jpg",
       "unit": "кг",
-      "price": 137105.36
+      "price": 134114.42
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n50-m15-razmer-srednij-krupnyj",
@@ -98,7 +98,7 @@
       "desc": "Размер: средний, крупный",
       "image": "/img/34674651_1920_q70.jpg",
       "unit": "кг",
-      "price": 137105.36
+      "price": 134114.42
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n90-m68-1m0-razmer-krupnyj",
@@ -106,7 +106,7 @@
       "desc": "Размер: крупный",
       "image": "/img/34674684_1920_q70.jpg",
       "unit": "кг",
-      "price": 126540.48
+      "price": 123054.84
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n90-2m2-s-markirovkoj-goda-proizvodstva",
@@ -114,7 +114,7 @@
       "desc": "С маркировкой года производства",
       "image": "/img/34674697_1920_q70.jpg",
       "unit": "кг",
-      "price": 154302.24
+      "price": 151024.42
     },
     {
       "id": "kondensatory-km-beskorpusnye-n30-nemagnitnye-do-90-goda-posle-90-goda-posle-osmotra",
@@ -129,7 +129,7 @@
       "desc": "до 90 года, -после 90 года – после осмотра- Немагнитные",
       "image": "/img/40064787_1920_q70.jpg",
       "unit": "кг",
-      "price": 104120.39
+      "price": 101102.22
     },
     {
       "id": "liniya-zaderzhki-mlz-lyuboj-nominal",
