@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "proczessory",
-  "updated": "2026-10-23T09:40:57+10:00",
+  "updated": "2026-10-24T09:34:44+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,7 +10,7 @@
       "desc": "Размер: мелкий, крупный - желтый с ДВУХ сторон",
       "image": "/img/42151248_1920_q70.jpg",
       "unit": "кг",
-      "price": 27474.59
+      "price": 26933.83
     },
     {
       "id": "proczessor-keramicheskij-zheltyj-s-odnoj-storony-razmer-melkij-krupnyj",
@@ -18,7 +18,7 @@
       "desc": "Размер: мелкий, крупный - желтый с ОДНОЙ стороны",
       "image": "/img/42151287_1920_q70.webp",
       "unit": "кг",
-      "price": 18294.27
+      "price": 17934.2
     },
     {
       "id": "proczessor-keramicheskij-razmer-melkij-krupnyj",
@@ -26,7 +26,7 @@
       "desc": "Размер: мелкий, крупный",
       "image": "/img/34806295_1920_q70.jpg",
       "unit": "кг",
-      "price": 5753.87
+      "price": 5640.63
     },
     {
       "id": "proczessor-plastmassovyj-s-alyuminievoj-kryshkoj",
@@ -34,7 +34,7 @@
       "desc": "с алюминиевой крышкой",
       "image": "/img/19824767_1920_q70.jpg",
       "unit": "кг",
-      "price": 833.47
+      "price": 817.07
     },
     {
       "id": "proczessor-plastmassovyj-razmer-krupnyj",
@@ -42,7 +42,7 @@
       "desc": "Размер: крупный",
       "image": "/img/34806296_1920_q70.jpg",
       "unit": "кг",
-      "price": 3628.05
+      "price": 3556.64
     },
     {
       "id": "proczessor-plastmassovyj-s-metallicheskoj-plastinoj",
@@ -50,7 +50,7 @@
       "desc": "с металлической пластиной",
       "image": "/img/35647818_1920_q70.jpg",
       "unit": "кг",
-      "price": 833.47
+      "price": 817.07
     },
     {
       "id": "proczessor-plastmassovyj-s-metallicheskoj-plastinoj-bez-nog",
@@ -58,7 +58,7 @@
       "desc": "с металлической пластиной без ног",
       "image": "/img/35647824_1920_q70.webp",
       "unit": "кг",
-      "price": 480.25
+      "price": 470.8
     }
   ]
 }

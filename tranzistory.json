@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "tranzistory",
-  "updated": "2026-10-23T09:40:57+10:00",
+  "updated": "2026-10-24T09:34:44+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,8 +10,8 @@
       "desc": "желтые длинные ноги",
       "image": "/img/44106895_1920_q70.jpg",
       "unit": "шт",
-      "new": 57.38,
-      "used": 40.16
+      "new": 56.25,
+      "used": 39.37
     },
     {
       "id": "kt-201-203-i-podobnye-zheltye-korotkie-nogi",
@@ -19,8 +19,8 @@
       "desc": "желтые короткие ноги",
       "image": "/img/44106899_1920_q70.jpg",
       "unit": "шт",
-      "new": 45.18,
-      "used": 28.92
+      "new": 44.29,
+      "used": 28.35
     },
     {
       "id": "kt-301-306-312-316-i-podobnye-zheltye",
@@ -28,8 +28,8 @@
       "desc": "желтые",
       "image": "/img/44106905_1920_q70.jpg",
       "unit": "шт",
-      "new": 67.08,
-      "used": 42.26
+      "new": 65.76,
+      "used": 41.43
     },
     {
       "id": "kt-601-603-605-608-i-podobnye-zheltye",
@@ -37,8 +37,8 @@
       "desc": "желтые",
       "image": "/img/44106921_1920_q70.jpg",
       "unit": "шт",
-      "new": 150.51,
-      "used": 90.31
+      "new": 147.55,
+      "used": 88.53
     },
     {
       "id": "kt-602-604-i-podobnye-zheltye",
@@ -46,16 +46,16 @@
       "desc": "желтые",
       "image": "/img/44106917_1920_q70.jpg",
       "unit": "шт",
-      "new": 186.55,
-      "used": 123.12
+      "new": 182.88,
+      "used": 120.7
     },
     {
       "id": "kt-630-830-831-505-i-podobnye",
       "name": "КТ 630- 830- 831- 505 и подобные",
       "image": "/img/44106907_1920_q70.jpg",
       "unit": "шт",
-      "new": 120.69,
-      "used": 100.18
+      "new": 118.32,
+      "used": 98.2
     },
     {
       "id": "kt-610-613-i-podobnye-malyj-vertolet",
@@ -63,32 +63,32 @@
       "desc": "малый вертолет",
       "image": "/img/44106903_1920_q70.jpg",
       "unit": "шт",
-      "new": 194.43,
-      "used": 165.26
+      "new": 190.6,
+      "used": 162.01
     },
     {
       "id": "2t866a-i-podobnye",
       "name": "2Т866А и подобные",
       "image": "/img/44106929_1920_q70.jpg",
       "unit": "шт",
-      "new": 347.53,
-      "used": 289.5
+      "new": 340.69,
+      "used": 283.8
     },
     {
       "id": "kt-909-i-podobnye",
       "name": "КТ 909 и подобные",
       "image": "/img/44106945_1920_q70.jpg",
       "unit": "шт",
-      "new": 233.05,
-      "used": 198.09
+      "new": 228.46,
+      "used": 194.19
     },
     {
       "id": "kt-911-i-podobnye",
       "name": "КТ 911 и подобные",
       "image": "/img/44106913_1920_q70.jpg",
       "unit": "шт",
-      "new": 332.93,
-      "used": 249.7
+      "new": 326.38,
+      "used": 244.78
     },
     {
       "id": "kt-920-922-i-podobnye-bolshoj-vertolet",
@@ -96,16 +96,16 @@
       "desc": "большой вертолет",
       "image": "/img/44106923_1920_q70.jpg",
       "unit": "шт",
-      "new": 348.86,
-      "used": 244.21
+      "new": 342.0,
+      "used": 239.4
     },
     {
       "id": "kt-930-931-958-i-podobnye",
       "name": "КТ 930- 931- 958 и подобные",
       "image": "/img/44106943_1920_q70.jpg",
       "unit": "шт",
-      "new": 289.45,
-      "used": 246.03
+      "new": 283.75,
+      "used": 241.19
     },
     {
       "id": "kt-904-907-914-i-podobnye-zheltyj-bolt",
@@ -113,8 +113,8 @@
       "desc": "желтый болт",
       "image": "/img/44106915_1920_q70.jpg",
       "unit": "шт",
-      "new": 227.29,
-      "used": 190.92
+      "new": 222.82,
+      "used": 187.17
     },
     {
       "id": "kt957-2t957-i-podobnye-krupnyj-vertolet-belyj",
@@ -122,8 +122,8 @@
       "desc": "Крупный вертолет белый",
       "image": "/img/44106931_1920_q70.jpg",
       "unit": "шт",
-      "new": 145.41,
-      "used": 145.41
+      "new": 142.55,
+      "used": 142.55
     },
     {
       "id": "2t-980-a-krupnyj-vertolet-posle-1983-g-zheltyj",
@@ -131,40 +131,40 @@
       "desc": "Крупный вертолет после 1983 г. желтый",
       "image": "/img/44106947_1920_q70.jpg",
       "unit": "шт",
-      "new": 292.84,
-      "used": 292.84
+      "new": 287.07,
+      "used": 287.07
     },
     {
       "id": "kps-104-i-podobnye",
       "name": "КПС 104 и подобные",
       "image": "/img/44106927_1920_q70.jpg",
       "unit": "шт",
-      "new": 101.29,
-      "used": 86.1
+      "new": 99.3,
+      "used": 84.41
     },
     {
       "id": "2t-325-i-podobnye",
       "name": "2Т 325 и подобные",
       "image": "/img/44106919_1920_q70.jpg",
       "unit": "шт",
-      "new": 101.29,
-      "used": 86.1
+      "new": 99.3,
+      "used": 84.41
     },
     {
       "id": "kt-970a",
       "name": "КТ 970А",
       "image": "/img/44106933_1920_q70.jpg",
       "unit": "шт",
-      "new": 269.93,
-      "used": 256.44
+      "new": 264.62,
+      "used": 251.39
     },
     {
       "id": "2p602a",
       "name": "2П602А",
       "image": "/img/44106893_1920_q70.jpg",
       "unit": "шт",
-      "new": 120.61,
-      "used": 108.55
+      "new": 118.24,
+      "used": 106.41
     },
     {
       "id": "kt-201-203-i-podobnye-belye",
@@ -172,8 +172,8 @@
       "desc": "белые",
       "image": "/img/44106897_1920_q70.jpg",
       "unit": "шт",
-      "new": 25.8,
-      "used": 25.8
+      "new": 25.29,
+      "used": 25.29
     },
     {
       "id": "kt-301-306-312-316-i-podobnye-belye",
@@ -181,8 +181,8 @@
       "desc": "белые",
       "image": "/img/44106901_1920_q70.jpg",
       "unit": "шт",
-      "new": 36.17,
-      "used": 36.17
+      "new": 35.45,
+      "used": 35.45
     },
     {
       "id": "kt-601-603-605-608-i-podobnye-belye",
@@ -190,8 +190,8 @@
       "desc": "белые",
       "image": "/img/44106909_1920_q70.jpg",
       "unit": "шт",
-      "new": 68.79,
-      "used": 68.79
+      "new": 67.43,
+      "used": 67.43
     },
     {
       "id": "kt-602-604-i-podobnye-belye",
@@ -199,8 +199,8 @@
       "desc": "белые",
       "image": "/img/44106939_1920_q70.jpg",
       "unit": "шт",
-      "new": 96.31,
-      "used": 96.31
+      "new": 94.41,
+      "used": 94.41
     },
     {
       "id": "kt-908-803-808-809-po-1986-god",
@@ -208,8 +208,8 @@
       "desc": "по 1986 год",
       "image": "/img/44106953_1920_q70.jpg",
       "unit": "шт",
-      "new": 110.05,
-      "used": 110.05
+      "new": 107.89,
+      "used": 107.89
     },
     {
       "id": "kt-814-817-plastmassovyj-korpus",
@@ -224,16 +224,16 @@
       "desc": "пластмассовый корпус разобранный",
       "image": "/img/44106911_1920_q70.jpg",
       "unit": "шт",
-      "new": 22.37,
-      "used": 22.37
+      "new": 21.93,
+      "used": 21.93
     },
     {
       "id": "kt-315-i-podobnye-do-1990-goda-vnutri-zheltye-kontakty",
       "name": "КТ 315 и подобные до 1971 года (внутри желтые контакты)",
       "image": "/img/44106951_1920_q70.jpg",
       "unit": "кг",
-      "new": 2493.46,
-      "used": 2493.46
+      "new": 2444.38,
+      "used": 2444.38
     },
     {
       "id": "kt-209-i-podobnye-vnutri-zheltaya-podlozhka",
@@ -241,56 +241,56 @@
       "desc": "внутри желтая подложка",
       "image": "/img/44106957_1920_q70.jpg",
       "unit": "кг",
-      "new": 2493.46,
-      "used": 2493.46
+      "new": 2444.38,
+      "used": 2444.38
     },
     {
       "id": "kt912-kt944-kt947-i-podobnye",
       "name": "КТ912; КТ944, КТ947 и подобные",
       "image": "/img/44106937_1920_q70.jpg",
       "unit": "шт",
-      "new": 291.41,
-      "used": 291.41
+      "new": 285.68,
+      "used": 285.68
     },
     {
       "id": "kt-926-a-2t-935-a",
       "name": "КТ 926 А; 2Т 935 А",
       "image": "/img/44106941_1920_q70.jpg",
       "unit": "шт",
-      "new": 120.61,
-      "used": 120.61
+      "new": 118.24,
+      "used": 118.24
     },
     {
       "id": "tranzistor-1t311g",
       "name": "Транзистор 1Т311Г",
       "image": "/img/44106935_1920_q70.jpg",
       "unit": "шт",
-      "new": 34.39,
-      "used": 34.39
+      "new": 33.72,
+      "used": 33.72
     },
     {
       "id": "tranzistor-1t311d",
       "name": "Транзистор 1Т311Д",
       "image": "/img/44107321_1920_q70.jpg",
       "unit": "шт",
-      "new": 34.39,
-      "used": 34.39
+      "new": 33.72,
+      "used": 33.72
     },
     {
       "id": "tranzistory-importnye",
       "name": "Транзисторы импортные",
       "image": "/img/44106959_1920_q70.jpg",
       "unit": "кг",
-      "new": 24119.73,
-      "used": 24119.73
+      "new": 23645.0,
+      "used": 23645.0
     },
     {
       "id": "m45304-s-zheltymi-usikami",
       "name": "М45304 с желтыми усиками",
       "image": "/img/44106925_1920_q70.jpg",
       "unit": "шт",
-      "new": 329.06,
-      "used": 263.25
+      "new": 322.59,
+      "used": 258.07
     }
   ]
 }
