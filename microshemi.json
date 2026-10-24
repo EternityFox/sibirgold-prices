@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "microshemi",
-  "updated": "2026-10-24T09:34:44+10:00",
+  "updated": "2026-10-25T08:45:37+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -386,6 +386,13 @@
       "unit": "шт",
       "new": 478.09,
       "used": 382.47
+    },
+    {
+      "id": "otechestvennye-mikroshemy-zheltye-raznye-miks",
+      "name": "Отечественные микросхемы — желтые разные (МИКС)",
+      "unit": "кг",
+      "new": 84548.85,
+      "used": 71359.23
     },
     {
       "id": "otechestvennye-chipovye-mikroshemy-v-plast-korpuse-lyubyh-nominalov-na-izlome-belaya-podlozhka",
