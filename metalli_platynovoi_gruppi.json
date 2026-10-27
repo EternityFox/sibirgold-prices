@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "metalli_platynovoi_gruppi",
-  "updated": "2026-10-27T10:07:07+10:00",
+  "updated": "2026-10-28T09:38:41+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -114,7 +114,7 @@
       "desc": "Проволока",
       "image": "/img/34740410_1920_q70.jpg",
       "unit": "г",
-      "price": 2950.0
+      "price": 2790.0
     },
     {
       "id": "platina-99-provoloka-s-termopary-him-posuda-i-t-p",
@@ -122,7 +122,7 @@
       "desc": "Проволока с термопары; хим.посуда и т.п.",
       "image": "/img/34740407_1920_q70.jpg",
       "unit": "г",
-      "price": 2950.0
+      "price": 2790.0
     },
     {
       "id": "platina-90-provoloka",
@@ -130,7 +130,7 @@
       "desc": "Проволока",
       "image": "/img/34740410_1920_q70.jpg",
       "unit": "г",
-      "price": 2680.0
+      "price": 2480.0
     },
     {
       "id": "platina-90-kontakty-s-rele",
@@ -138,7 +138,7 @@
       "desc": "Контакты с реле",
       "image": "/img/20166772_1920_q70.jpg",
       "unit": "г",
-      "price": 2680.0
+      "price": 2480.0
     },
     {
       "id": "ligatura-pereklyuchatelya-shiv-25-50-czvet-stalnoj",
@@ -146,7 +146,7 @@
       "desc": "Цвет: стальной",
       "image": "/img/34740414_1920_q70.jpg",
       "unit": "г",
-      "price": 23.0
+      "price": 21.0
     },
     {
       "id": "ligatura-razema-rppg2-48-czvet-stalnoj-dlinnye-nogi",
@@ -154,7 +154,7 @@
       "desc": "Цвет: стальной Длинные ноги",
       "image": "/img/34740416_1920_q70.jpg",
       "unit": "г",
-      "price": 22.69
+      "price": 21.29
     }
   ]
 }
