@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "serebro_technicheskoe",
-  "updated": "2026-10-29T10:28:00+10:00",
+  "updated": "2026-10-30T10:28:04+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,7 +10,7 @@
       "desc": "Чашка из конденсатора К52-2",
       "image": "/img/34721652_1920_q70.jpg",
       "unit": "г",
-      "price": 103.8
+      "price": 102.8
     },
     {
       "id": "serebro-97-kontakty-rele",
@@ -18,7 +18,7 @@
       "desc": "Контакты реле",
       "image": "/img/34721654_1920_q70.webp",
       "unit": "г",
-      "price": 100.68
+      "price": 99.71
     },
     {
       "id": "serebro-85-kontakty-posle-proverki",
@@ -33,7 +33,7 @@
       "desc": "Немагнитное",
       "image": "/img/34721671_1920_q70.jpg",
       "unit": "г",
-      "price": 83.04
+      "price": 82.42
     },
     {
       "id": "serebro-60-magnitnoe",
@@ -41,7 +41,7 @@
       "desc": "Магнитное",
       "image": "/img/34721672_1920_q70.jpg",
       "unit": "г",
-      "price": 62.28
+      "price": 61.68
     },
     {
       "id": "serebro-25-na-medi",
