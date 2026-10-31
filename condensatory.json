@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "condensatory",
-  "updated": "2026-10-30T10:28:04+10:00",
+  "updated": "2026-10-31T10:11:00+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,7 +10,7 @@
       "desc": "Группа: Н90- F- U и т.п.",
       "image": "/img/34669753_1920_q70.jpg",
       "unit": "кг",
-      "price": 93515.35
+      "price": 91254.93
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-v-m1500-razmer-melkij-srednij-krupnyj",
@@ -18,7 +18,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669756_1920_q70.jpg",
       "unit": "кг",
-      "price": 111104.24
+      "price": 110274.42
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-n30-razmer-melkij-srednij-krupnyjkm-zelenye-n30",
@@ -26,7 +26,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669761_1920_q70.jpg",
       "unit": "кг",
-      "price": 132441.2
+      "price": 128788.8
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-n30-68n-68nm-68n-razmer-krupnyj",
@@ -34,7 +34,7 @@
       "desc": "Размер: крупный",
       "image": "/img/34840789_1920_q70.jpg",
       "unit": "кг",
-      "price": 132441.2
+      "price": 128767.63
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-d-razmer-melkij-srednij-krupnyj",
@@ -42,7 +42,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669792_1920_q70.jpg",
       "unit": "кг",
-      "price": 122900.31
+      "price": 118539.69
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-3-3v-4-4v-6-5v-6-6v-22n-razmer-krupnyj-melkij",
@@ -50,7 +50,7 @@
       "desc": "Размер: крупный, мелкий",
       "image": "/img/34669838_1920_q70.jpg",
       "unit": "кг",
-      "price": 122900.31
+      "price": 118539.69
     },
     {
       "id": "kondensatory-km-ryzhie-obshhaya-gruppa-gruppa-n90-f-u-i-t-p",
@@ -58,7 +58,7 @@
       "desc": "Группа: Н90- F- U и т.п.",
       "image": "/img/34669924_1920_q70.jpg",
       "unit": "кг",
-      "price": 78215.21
+      "price": 77923.12
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-v-m1500-razmer-melkij-srednij-krupnyj",
@@ -66,7 +66,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674371_1920_q70.jpg",
       "unit": "кг",
-      "price": 86270.29
+      "price": 85013.31
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-h30-d-e-razmer-melkij-srednij-krupnyj",
@@ -74,7 +74,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674419_1920_q70.jpg",
       "unit": "кг",
-      "price": 100079.29
+      "price": 96792.63
     },
     {
       "id": "kondensatory-km-oranzhevye-gruppa-3v-4v-5v-6v-22n-razmer-melkij-srednij-krupnyj",
@@ -82,7 +82,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674608_1920_q70.jpg",
       "unit": "кг",
-      "price": 100079.29
+      "price": 96792.63
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n50-razmer-melkij-srednij-krupnyj",
@@ -90,7 +90,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34674643_1920_q70.jpg",
       "unit": "кг",
-      "price": 126419.91
+      "price": 121976.78
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n50-m15-razmer-srednij-krupnyj",
@@ -98,7 +98,7 @@
       "desc": "Размер: средний, крупный",
       "image": "/img/34674651_1920_q70.jpg",
       "unit": "кг",
-      "price": 126419.91
+      "price": 121976.78
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n90-m68-1m0-razmer-krupnyj",
@@ -106,7 +106,7 @@
       "desc": "Размер: крупный",
       "image": "/img/34674684_1920_q70.jpg",
       "unit": "кг",
-      "price": 115059.0
+      "price": 113993.31
     },
     {
       "id": "kondensatory-km-ryzhie-gruppy-n90-2m2-s-markirovkoj-goda-proizvodstva",
@@ -114,7 +114,7 @@
       "desc": "С маркировкой года производства",
       "image": "/img/34674697_1920_q70.jpg",
       "unit": "кг",
-      "price": 143532.0
+      "price": 141001.12
     },
     {
       "id": "kondensatory-km-beskorpusnye-n30-nemagnitnye-do-90-goda-posle-90-goda-posle-osmotra",
@@ -129,7 +129,7 @@
       "desc": "до 90 года, -после 90 года – после осмотра- Немагнитные",
       "image": "/img/40064787_1920_q70.jpg",
       "unit": "кг",
-      "price": 93515.35
+      "price": 91254.93
     },
     {
       "id": "liniya-zaderzhki-mlz-lyuboj-nominal",
@@ -185,7 +185,7 @@
       "desc": "Размер: средний, крупный",
       "image": "/img/34674972_1920_q70.jpg",
       "unit": "кг",
-      "price": 49348.15
+      "price": 47706.13
     },
     {
       "id": "kondensatory-k10-28-gruppy-n30-1m0v-1m5-2m2-razmer-krupnyj-1512-sm",
@@ -193,7 +193,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34674983_1920_q70.jpg",
       "unit": "шт",
-      "price": 165.16
+      "price": 161.12
     },
     {
       "id": "kondensatory-k10-28-k10-47-obshhaya-gruppa-gruppa-n30-d-n50-n90-i-t-p-razmer-krupnyj",
@@ -201,7 +201,7 @@
       "desc": "Размер: крупный",
       "image": "/img/45663531_1920_q70.jpg",
       "unit": "кг",
-      "price": 43030.76
+      "price": 41788.59
     },
     {
       "id": "kondensatory-k10-47-gruppy-n30-25v-50v-m33-m47-m68-razmer-krupnyj-1512-sm",
@@ -209,7 +209,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675066_1920_q70.jpg",
       "unit": "шт",
-      "price": 102.49
+      "price": 100.48
     },
     {
       "id": "kondensatory-47-jd-1m0-1m5-2m2-do-93-goda-razmer-krupnyj-1512-sm",
@@ -217,7 +217,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675084_1920_q70.jpg",
       "unit": "шт",
-      "price": 152.7
+      "price": 149.69
     },
     {
       "id": "kondensatory-47-jd-m33-m47-m68-do-93-goda-razmer-krupnyj-1512-sm",
@@ -225,7 +225,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675142_1920.png",
       "unit": "шт",
-      "price": 75.52
+      "price": 74.05
     },
     {
       "id": "kondensatory-k10-47-gruppy-n90-25v-50v-1m0-1m5-2m2-6m8-razmer-krupnyj-1512-sm",
@@ -233,7 +233,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675224_1920_q70.jpg",
       "unit": "шт",
-      "price": 155.16
+      "price": 152.09
     },
     {
       "id": "kondensatory-k10-47-gruppy-n90-25v-50v-m33-m47-m68-razmer-krupnyj-1512-sm",
@@ -241,7 +241,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675363_1920_q70.jpg",
       "unit": "шт",
-      "price": 76.75
+      "price": 75.25
     },
     {
       "id": "kondensatory-47-jf-1m0-1m5-2m2-6m8-do-93-goda-razmer-krupnyj-1512-sm",
@@ -249,7 +249,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675450_1920_q70.jpg",
       "unit": "шт",
-      "price": 113.49
+      "price": 111.26
     },
     {
       "id": "kondensatory-47-jf-m33-m47-m68-do-93-goda-razmer-krupnyj-1512-sm",
@@ -257,7 +257,7 @@
       "desc": "Размер: крупный (1,5*1,2 см)",
       "image": "/img/34675494_1920_q70.jpg",
       "unit": "шт",
-      "price": 69.39
+      "price": 68.05
     },
     {
       "id": "kondensatory-k10-17-obshhaya-gruppa-gruppa-n30-d-n50-n90-i-t-p-razmer-melkij-srednij-krupnyj",

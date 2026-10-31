@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "metalli_platynovoi_gruppi",
-  "updated": "2026-10-30T10:28:04+10:00",
+  "updated": "2026-10-31T10:11:00+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,7 +10,7 @@
       "desc": "Проволока с потенциометров типа ПТП; ППМЛ",
       "image": "/img/34740368_1920_q70.jpg",
       "unit": "г",
-      "price": 1504.41
+      "price": 1440.14
     },
     {
       "id": "palladij-80-provoloka-s-reohordy",
@@ -18,7 +18,7 @@
       "desc": "Проволока с реохорды",
       "image": "/img/34740369_1920_q70.jpg",
       "unit": "г",
-      "price": 1504.41
+      "price": 1440.14
     },
     {
       "id": "palladij-78-kontakty-s-pereklyuchatelej-ksp",
@@ -26,7 +26,7 @@
       "desc": "Контакты с переключателей КСП",
       "image": "/img/34740376_1920_q70.jpg",
       "unit": "г",
-      "price": 1466.4
+      "price": 1404.04
     },
     {
       "id": "palladij-60-provoloka-s-sp5-v-allyuminevom-korpuse-soprotivlenie",
@@ -34,7 +34,7 @@
       "desc": "Проволока с СП5 в аллюминевом корпусе Сопротивление:",
       "image": "/img/34740378_1920_q70.jpg",
       "unit": "г",
-      "price": 1128.97
+      "price": 1080.79
     },
     {
       "id": "palladij-58-begunok-s-sp3-sp5",
@@ -42,7 +42,7 @@
       "desc": "Бегунок с СП3; СП5",
       "image": "/img/34740384_1920_q70.jpg",
       "unit": "г",
-      "price": 1090.4
+      "price": 1044.43
     },
     {
       "id": "palladij-28-igla-s-sp3-sp5",
@@ -50,7 +50,7 @@
       "desc": "Игла с СП3; СП5",
       "image": "/img/34740385_1920_q70.jpg",
       "unit": "г",
-      "price": 526.4
+      "price": 504.23
     },
     {
       "id": "palladij-28-struna-s-mks",
@@ -58,7 +58,7 @@
       "desc": "Струна с МКС",
       "image": "/img/34740387_1920_q70.jpg",
       "unit": "г",
-      "price": 526.4
+      "price": 504.23
     },
     {
       "id": "palladij-20-kontakty-s-pp3-40",
@@ -66,7 +66,7 @@
       "desc": "Контакты с ПП3-40....",
       "image": "/img/34740389_1920_q70.jpg",
       "unit": "г",
-      "price": 376.58
+      "price": 360.85
     },
     {
       "id": "palladij-20-korpus-s-k52-1m-k52-1bm",
@@ -74,7 +74,7 @@
       "desc": "Корпус с К52-1М; К52-1БМ",
       "image": "/img/34740391_1920_q70.jpg",
       "unit": "г",
-      "price": 376.58
+      "price": 360.85
     },
     {
       "id": "palladij-20-chashka-s-k52-2s-k52-5s",
@@ -82,7 +82,7 @@
       "desc": "Чашка с К52-2С; К52-5С",
       "image": "/img/19977257_1920_q70.jpg",
       "unit": "г",
-      "price": 376.58
+      "price": 360.85
     },
     {
       "id": "palladij-18-struny-s-mks",
@@ -90,7 +90,7 @@
       "desc": "Струны с МКС",
       "image": "/img/34740396_1920_q70.jpg",
       "unit": "г",
-      "price": 338.4
+      "price": 324.77
     },
     {
       "id": "palladij-16-begunok-na-podlozhke-s-sp5",
@@ -98,7 +98,7 @@
       "desc": "Бегунок на подложке с СП5",
       "image": "/img/34740398_1920_q70.jpg",
       "unit": "г",
-      "price": 300.08
+      "price": 288.8
     },
     {
       "id": "palladij-7-kontakty-na-podlozhke-s-telefonnyh-blokov-mks",
@@ -106,7 +106,7 @@
       "desc": "Контакты на подложке с телефонных блоков МКС",
       "image": "/img/34740399_1920_q70.jpg",
       "unit": "г",
-      "price": 131.01
+      "price": 126.1
     },
     {
       "id": "platina-99-provoloka-kopirovat",
@@ -114,7 +114,7 @@
       "desc": "Проволока",
       "image": "/img/34740410_1920_q70.jpg",
       "unit": "г",
-      "price": 2790.0
+      "price": 2498.99
     },
     {
       "id": "platina-99-provoloka-s-termopary-him-posuda-i-t-p",
@@ -122,7 +122,7 @@
       "desc": "Проволока с термопары; хим.посуда и т.п.",
       "image": "/img/34740407_1920_q70.jpg",
       "unit": "г",
-      "price": 2790.0
+      "price": 2498.99
     },
     {
       "id": "platina-90-provoloka",
@@ -130,7 +130,7 @@
       "desc": "Проволока",
       "image": "/img/34740410_1920_q70.jpg",
       "unit": "г",
-      "price": 2480.0
+      "price": 2317.7
     },
     {
       "id": "platina-90-kontakty-s-rele",
@@ -138,7 +138,7 @@
       "desc": "Контакты с реле",
       "image": "/img/20166772_1920_q70.jpg",
       "unit": "г",
-      "price": 2480.0
+      "price": 2317.7
     },
     {
       "id": "ligatura-pereklyuchatelya-shiv-25-50-czvet-stalnoj",
