@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "lampi",
-  "updated": "2026-11-02T09:58:00+10:00",
+  "updated": "2026-11-03T10:13:09+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -153,6 +153,7 @@
     {
       "id": "gmi-83",
       "name": "ГМИ-83",
+      "image": "/img/54776739_1920_q70.jpg",
       "unit": "шт",
       "price": 555.08
     },

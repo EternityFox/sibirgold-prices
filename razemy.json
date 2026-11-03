@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "razemy",
-  "updated": "2026-11-02T09:58:00+10:00",
+  "updated": "2026-11-03T10:13:09+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -744,6 +744,7 @@
       "id": "lamel-zheltaya-importnaya-s-videokart-modulej-pamyati",
       "name": "Ламель желтая импортная",
       "desc": "с видеокарт, модулей памяти",
+      "image": "/img/54776753_1920_q70.jpg",
       "unit": "кг",
       "new": 689.57,
       "used": 689.57
@@ -1053,7 +1054,8 @@
     },
     {
       "id": "onp-vg-zheltye-kontakty-rozetka",
-      "name": "ОнП ВГ Желтые контакты. Вилка",
+      "name": "ОнП ВГ Желтые контакты.",
+      "desc": "Вилка",
       "image": "/img/19891945_1920_q70.jpg",
       "unit": "контакт",
       "new": 14.2,
@@ -1061,7 +1063,8 @@
     },
     {
       "id": "onp-vg-zheltye-kontakty",
-      "name": "ОнП ВГ Желтые контакты. Розетка",
+      "name": "ОнП ВГ Желтые контакты.",
+      "desc": "Розетка",
       "image": "/img/19891945_1920_q70.jpg",
       "unit": "контакт",
       "new": 17.74,

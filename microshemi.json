@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "microshemi",
-  "updated": "2026-11-02T09:58:00+10:00",
+  "updated": "2026-11-03T10:13:09+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -389,7 +389,9 @@
     },
     {
       "id": "otechestvennye-mikroshemy-zheltye-raznye-miks",
-      "name": "Отечественные микросхемы — желтые разные (МИКС)",
+      "name": "Отечественные микросхемы",
+      "desc": "желтые разные (МИКС)",
+      "image": "/img/54776745_1920_q70.jpg",
       "unit": "кг",
       "new": 82857.88,
       "used": 69932.05
