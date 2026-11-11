@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "rezistory",
-  "updated": "2026-11-10T12:59:09+10:00",
+  "updated": "2026-11-11T10:56:16+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -9,21 +9,21 @@
       "name": "СП 5-14",
       "image": "/img/34721432_1920_q70.jpg",
       "unit": "шт",
-      "price": 19.04
+      "price": 21.74
     },
     {
       "id": "sp-5-1va-i-podobnye",
       "name": "СП 5-1ВА и подобные",
       "image": "/img/34721434_1920_q70.jpg",
       "unit": "шт",
-      "price": 36.17
+      "price": 38.88
     },
     {
       "id": "sp-5-2-i-podobnye",
       "name": "СП 5-2 и подобные",
       "image": "/img/34721435_1920_q70.jpg",
       "unit": "шт",
-      "price": 16.75
+      "price": 19.46
     },
     {
       "id": "sp-5-3-i-podobnye-metall-korpus",
@@ -31,14 +31,14 @@
       "desc": "металл корпус",
       "image": "/img/34721436_1920_q70.jpg",
       "unit": "шт",
-      "price": 16.75
+      "price": 19.46
     },
     {
       "id": "sp-5-4va",
       "name": "СП 5-4ВА",
       "image": "/img/34721437_1920_q70.jpg",
       "unit": "шт",
-      "price": 69.3
+      "price": 72.0
     },
     {
       "id": "sp-5-22-68-om",
@@ -46,7 +46,7 @@
       "desc": "68 Ом",
       "image": "/img/34721441_1920_q70.jpg",
       "unit": "шт",
-      "price": 76.15
+      "price": 78.86
     },
     {
       "id": "sp5-16va-i-podobnye-metall-korpus",
@@ -54,7 +54,7 @@
       "desc": "металл корпус",
       "image": "/img/34721442_1920_q70.jpg",
       "unit": "шт",
-      "price": 16.75
+      "price": 19.46
     },
     {
       "id": "sp5-16vb-i-podobnye-metal-korpus-do-1991goda",
@@ -62,7 +62,7 @@
       "desc": "метал корпус до 1991года",
       "image": "/img/34721451_1920_q70.jpg",
       "unit": "шт",
-      "price": 16.76
+      "price": 19.46
     },
     {
       "id": "sp-5-12-krome-28-30-50",
@@ -70,14 +70,14 @@
       "desc": "кроме 28, 30, 50",
       "image": "/img/43680991_1920_q70.jpg",
       "unit": "шт",
-      "price": 36.17
+      "price": 38.88
     },
     {
       "id": "sp5-20v-47-kom-i-podobnye",
       "name": "СП5-20В 4,7 КОМ и подобные",
       "image": "/img/41137381_1920_q70.jpg",
       "unit": "шт",
-      "price": 46.65
+      "price": 49.36
     },
     {
       "id": "sp-5-20vavb-do-1990-goda",
@@ -85,14 +85,14 @@
       "desc": "до 1990 года",
       "image": "/img/41137385_1920_q70.jpg",
       "unit": "шт",
-      "price": 17.4
+      "price": 20.1
     },
     {
       "id": "sp-5-35",
       "name": "СП 5-35",
       "image": "/img/34721453_1920_q70.jpg",
       "unit": "шт",
-      "price": 28.56
+      "price": 31.26
     },
     {
       "id": "sp5-39a-05-vt-do-01-1992-g",
@@ -100,14 +100,14 @@
       "desc": "до 01.1992 г.",
       "image": "/img/41137390_1920_q70.jpg",
       "unit": "шт",
-      "price": 28.86
+      "price": 31.57
     },
     {
       "id": "sp3-37-44",
       "name": "СП3 -37; 44",
       "image": "/img/34721458_1920_q70.jpg",
       "unit": "шт",
-      "price": 36.17
+      "price": 38.88
     },
     {
       "id": "pp3-40-43-15-20-kom-s-odnim-rombom-libo-do-82-g-v",
@@ -115,7 +115,7 @@
       "desc": "с одним ромбом до 82 г.в.",
       "image": "/img/34721459_1920_q70.jpg",
       "unit": "шт",
-      "price": 147.36
+      "price": 150.06
     },
     {
       "id": "pp3-40-do-92-g-v-bez-romba",
@@ -123,7 +123,7 @@
       "desc": "до 92 г.в. без ромба",
       "image": "/img/9614923_1920_q70.jpg",
       "unit": "шт",
-      "price": 38.08
+      "price": 40.78
     },
     {
       "id": "ppz-44-i-podobnye-dvojnye-s-rombom-do-82-g",
@@ -131,7 +131,7 @@
       "desc": "с ромбом до 82 г.",
       "image": "/img/34721471_1920_q70.jpg",
       "unit": "шт",
-      "price": 255.54
+      "price": 258.24
     },
     {
       "id": "sp5-39b-1vt-do-01-92g",
@@ -139,7 +139,7 @@
       "desc": "до 01.92г.",
       "image": "/img/34721472_1920_q70.jpg",
       "unit": "шт",
-      "price": 28.89
+      "price": 31.6
     },
     {
       "id": "mlt",

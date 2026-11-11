@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "rele",
-  "updated": "2026-11-10T12:59:09+10:00",
+  "updated": "2026-11-11T10:56:16+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -18,7 +18,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721497_1920_q70.jpg",
       "unit": "шт",
-      "price": 1554.04
+      "price": 1895.78
     },
     {
       "id": "rele-res8-god-do-12-66-pasport-050-051-052",
@@ -26,7 +26,7 @@
       "desc": "год: до 12.66. Паспорт: 050, 051, 052",
       "image": "/img/34721498_1920_q70.jpg",
       "unit": "шт",
-      "price": 1341.33
+      "price": 1625.67
     },
     {
       "id": "rele-res8-god-do-12-71-pasport-050-051-052",
@@ -34,7 +34,7 @@
       "desc": "год: до 12.71. Паспорт: 050, 051, 052",
       "image": "/img/34721498_1920_q70.jpg",
       "unit": "шт",
-      "price": 1019.51
+      "price": 1310.12
     },
     {
       "id": "rele-res8-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -42,7 +42,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721498_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res9-god-do-82-pasport-201-202-207-208",
@@ -50,7 +50,7 @@
       "desc": "год: до 82. Паспорт: 201, 202, 207, 208",
       "image": "/img/34721501_1920_q70.jpg",
       "unit": "шт",
-      "price": 300.21
+      "price": 364.67
     },
     {
       "id": "rele-res9-god-do-82-pasport-213-215-218",
@@ -58,7 +58,7 @@
       "desc": "год: до 82. Паспорт: 213, 215-218",
       "image": "/img/34721501_1920_q70.jpg",
       "unit": "шт",
-      "price": 982.91
+      "price": 990.43
     },
     {
       "id": "rele-res9-god-s-82-po-07-85-pasport-01-02-06",
@@ -66,7 +66,7 @@
       "desc": "год: с 82 по 07.85. Паспорт: 01, 02, 06",
       "image": "/img/34721501_1920_q70.jpg",
       "unit": "шт",
-      "price": 300.2
+      "price": 365.81
     },
     {
       "id": "rele-res9-god-s-82-do-90-pasport-09-11-14",
@@ -74,7 +74,7 @@
       "desc": "год: с 82 до 90. Паспорт: 09, 11-14",
       "image": "/img/34721501_1920_q70.jpg",
       "unit": "шт",
-      "price": 982.84
+      "price": 990.43
     },
     {
       "id": "res-9-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -82,7 +82,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721501_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res10-polovinka-god-do-82-pasport-300-305-308",
@@ -90,7 +90,7 @@
       "desc": "год: до 82. Паспорт: 300, 305, 308",
       "image": "/img/34721531_1920_q70.jpg",
       "unit": "шт",
-      "price": 72.29
+      "price": 86.87
     },
     {
       "id": "rele-res10-polovinka-god-do-82-pasport-311-316",
@@ -98,7 +98,7 @@
       "desc": "год: до 82. Паспорт: 311, 316",
       "image": "/img/34721531_1920_q70.jpg",
       "unit": "шт",
-      "price": 247.97
+      "price": 499.88
     },
     {
       "id": "rele-res10-polovinka-god-s-82-do-11-83-pasport-01-06-07-031-01-031-06-031-07",
@@ -106,7 +106,7 @@
       "desc": "год: с 82 до 11.83. Паспорт: 01, 06, 07, 031-01, 031-06, 031-07",
       "image": "/img/34721531_1920_q70.jpg",
       "unit": "шт",
-      "price": 74.42
+      "price": 86.87
     },
     {
       "id": "rele-res10-polovinka-god-s-82-do-90-pasport-031-08-031-13",
@@ -121,7 +121,7 @@
       "desc": "год: до 82. Паспорт: 301-304",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 121.72
+      "price": 145.27
     },
     {
       "id": "rele-res10-god-s-82-do-12-83-pasport-031-02-031-03-031-04-031-05",
@@ -129,7 +129,7 @@
       "desc": "год: с 82 до 12.83. Паспорт: 031-02, 031-03, 031-04, 031-05",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 73.31
+      "price": 86.87
     },
     {
       "id": "rele-res10-god-do-82-pasport-312-315",
@@ -137,7 +137,7 @@
       "desc": "год: до 82. Паспорт: 312-315",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 495.79
+      "price": 499.88
     },
     {
       "id": "rele-res10-god-s-82-do-90-pasport-031-09-031-10-031-11-031-12",
@@ -145,7 +145,7 @@
       "desc": "год: с 82 до 90. Паспорт: 031-09, 031-10, 031-11, 031-12",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 495.22
+      "price": 499.88
     },
     {
       "id": "rele-res10-god-do-82-pasport-320",
@@ -153,7 +153,7 @@
       "desc": "год: до 82. Паспорт: 320",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 495.22
+      "price": 499.88
     },
     {
       "id": "rele-res10-god-s-82-do-90-pasport-050-02",
@@ -161,7 +161,7 @@
       "desc": "год: с 82 до 90. Паспорт: 050-02",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 495.22
+      "price": 499.88
     },
     {
       "id": "rele-res10-god-do-82-pasport-319",
@@ -169,7 +169,7 @@
       "desc": "год: до 82. Паспорт: 319",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 120.57
+      "price": 145.89
     },
     {
       "id": "rele-res10-god-s-82-do-12-82-pasport-050-01",
@@ -177,7 +177,7 @@
       "desc": "год: с 82 до 12.82. Паспорт: 050-01",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "шт",
-      "price": 120.57
+      "price": 145.89
     },
     {
       "id": "rele-res10-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -185,7 +185,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721532_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res15-god-do-73-pasport-001-007",
@@ -193,7 +193,7 @@
       "desc": "год: до 73. Паспорт: 001-007",
       "image": "/img/34721533_1920_q70.jpg",
       "unit": "шт",
-      "price": 50.1
+      "price": 57.21
     },
     {
       "id": "rele-res15-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -201,7 +201,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721533_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res22-god-do-74-pasport-200-299",
@@ -209,7 +209,7 @@
       "desc": "год: до 74. Паспорт: 200-299",
       "image": "/img/34721535_1920_q70.jpg",
       "unit": "шт",
-      "price": 2588.95
+      "price": 2610.4
     },
     {
       "id": "rele-res22-god-do-82-pasport-200-299",
@@ -217,7 +217,7 @@
       "desc": "год: до 82. Паспорт: 200-299",
       "image": "/img/34721535_1920_q70.jpg",
       "unit": "шт",
-      "price": 2588.95
+      "price": 2610.4
     },
     {
       "id": "rele-res22-god-do-90-pasport-09-13",
@@ -225,7 +225,7 @@
       "desc": "год: до 90. Паспорт: 09-13",
       "image": "/img/34721535_1920_q70.jpg",
       "unit": "шт",
-      "price": 1290.62
+      "price": 1305.24
     },
     {
       "id": "rele-res22-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -233,7 +233,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721535_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res32-god-do-82-pasport-354-355",
@@ -241,7 +241,7 @@
       "desc": "год: до 82. Паспорт: 354, 355",
       "image": "/img/34721536_1920_q70.jpg",
       "unit": "шт",
-      "price": 2216.32
+      "price": 2230.81
     },
     {
       "id": "rele-res32-god-do-90-pasport-06-07",
@@ -249,7 +249,7 @@
       "desc": "год: до 90. Паспорт: 06, 07",
       "image": "/img/34721536_1920_q70.jpg",
       "unit": "шт",
-      "price": 827.64
+      "price": 1115.46
     },
     {
       "id": "rele-res32-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -257,7 +257,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721536_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res34-god-po-81-pasport-371-374-380",
@@ -286,7 +286,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721538_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res47-obshhaya-gruppa-pasport-lyuboj-god-lyuboj",
@@ -294,7 +294,7 @@
       "desc": "Паспорт: любой. Год: любой",
       "image": "/img/34721636_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res48-god-do-92-pasport-201-207",
@@ -302,7 +302,7 @@
       "desc": "год: до 92. Паспорт: 201-207",
       "image": "/img/34721540_1920_q70.jpg",
       "unit": "шт",
-      "price": 84.8
+      "price": 101.8
     },
     {
       "id": "rele-res48-god-do-12-90-pasport-213-218",
@@ -310,7 +310,7 @@
       "desc": "год: до 12.90. Паспорт: 213-218",
       "image": "/img/34721540_1920_q70.jpg",
       "unit": "шт",
-      "price": 260.36
+      "price": 260.61
     },
     {
       "id": "rele-res48-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -318,7 +318,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721540_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res49-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -326,7 +326,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721541_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res54-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -334,7 +334,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721544_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res60-obshhaya-gruppa-god-lyuboj-pasport-lyuboj",
@@ -342,7 +342,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721546_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-res78-god-do-90-pasport-00-07",
@@ -364,7 +364,7 @@
       "desc": "год: до 66. Паспорт: любой",
       "image": "/img/34721553_1920_q70.jpg",
       "unit": "шт",
-      "price": 288.89
+      "price": 348.25
     },
     {
       "id": "rele-rp4-rp5-rp7-god-do-02-68-pasport-lyuboj",
@@ -372,7 +372,7 @@
       "desc": "год: до 02.68. Паспорт: любой",
       "image": "/img/34721553_1920_q70.jpg",
       "unit": "шт",
-      "price": 288.89
+      "price": 348.25
     },
     {
       "id": "rps-345715-do-72-goda",
@@ -380,7 +380,7 @@
       "desc": "до 72 года",
       "image": "/img/34721555_1920_q70.jpg",
       "unit": "шт",
-      "price": 244.36
+      "price": 307.9
     },
     {
       "id": "rps-345715-do-90-goda",
@@ -388,7 +388,7 @@
       "desc": "до 90 года",
       "image": "/img/34721555_1920_q70.jpg",
       "unit": "шт",
-      "price": 336.68
+      "price": 407.9
     },
     {
       "id": "rps-345715-posle-90-goda-08-14-zoloto-nikelevye-kontakty",
@@ -403,7 +403,7 @@
       "desc": "год: до 68. Паспорт: любой",
       "image": "/img/34721557_1920_q70.jpg",
       "unit": "шт",
-      "price": 367.68
+      "price": 436.69
     },
     {
       "id": "rele-rps18-god-do-79-pasport-lyuboj",
@@ -425,7 +425,7 @@
       "desc": "год: до 12.66. Паспорт: любой",
       "image": "/img/43633113_1920_q70.jpg",
       "unit": "шт",
-      "price": 290.94
+      "price": 300.56
     },
     {
       "id": "rele-rps20-god-lyuboj-pasport-756-760-763",
@@ -441,7 +441,7 @@
       "desc": "год: до 91. Паспорт: 209-216",
       "image": "/img/34721564_1920_q70.jpg",
       "unit": "шт",
-      "price": 1035.01
+      "price": 1050.29
     },
     {
       "id": "rele-rps32-god-do-92-pasport-201-208",
@@ -449,7 +449,7 @@
       "desc": "год: до 92. Паспорт: 201-208",
       "image": "/img/34721564_1920_q70.jpg",
       "unit": "шт",
-      "price": 289.99
+      "price": 350.67
     },
     {
       "id": "rele-rps34-god-do-91-pasport-231-232-233",
@@ -457,7 +457,7 @@
       "desc": "год: до 91. Паспорт: 231, 232, 233",
       "image": "/img/34721566_1920_q70.jpg",
       "unit": "шт",
-      "price": 664.95
+      "price": 895.59
     },
     {
       "id": "rele-rps34-god-do-12-79-pasport-234-235-236",
@@ -465,7 +465,7 @@
       "desc": "год: до 12.79. Паспорт: 234, 235, 236",
       "image": "/img/34721566_1920_q70.jpg",
       "unit": "шт",
-      "price": 416.33
+      "price": 450.45
     },
     {
       "id": "rele-rps36-god-do-91-pasport-251-252-253",
@@ -473,7 +473,7 @@
       "desc": "год: до 91. Паспорт: 251, 252, 253",
       "image": "/img/34721567_1920_q70.jpg",
       "unit": "шт",
-      "price": 1096.67
+      "price": 1491.79
     },
     {
       "id": "rele-rps36-god-do-12-79-pasport-254-255-256-264",
@@ -481,7 +481,7 @@
       "desc": "год: до 12.79. Паспорт: 254, 255, 256, 264",
       "image": "/img/34721567_1920_q70.jpg",
       "unit": "шт",
-      "price": 1642.67
+      "price": 2232.67
     },
     {
       "id": "rele-rpv-2-7-god-lyuboj-pasport-lyuboj",
@@ -489,7 +489,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721569_1920_q70.jpg",
       "unit": "шт",
-      "price": 88.37
+      "price": 80.34
     },
     {
       "id": "rele-dp12-god-do-90-pasport-902-903-906",
@@ -505,7 +505,7 @@
       "desc": "год: любой. Паспорт: любой",
       "image": "/img/34721570_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "trm-rdo-god-lyuboj-028-525-003-p-579",
@@ -513,7 +513,7 @@
       "desc": "год любой 028, 525, 003, П-579",
       "image": "/img/34721571_1920_q70.jpg",
       "unit": "шт",
-      "price": 284.56
+      "price": 440.56
     },
     {
       "id": "rkm-1s-pli-10",
@@ -527,7 +527,7 @@
       "desc": "год любой. Паспорт: любой",
       "image": "/img/34721572_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rkpm-s-nadpisyu-platiny",
@@ -555,7 +555,7 @@
       "desc": "только со схемой",
       "image": "/img/34721577_1920_q70.jpg",
       "unit": "шт",
-      "price": 188.76
+      "price": 214.45
     },
     {
       "id": "rme-2",
@@ -596,7 +596,7 @@
       "desc": "год любой",
       "image": "/img/34721609_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rgk-15-dlinnye-zheltye-vyvody",
@@ -610,7 +610,7 @@
       "name": "Любые реле отечественного производства с содeржанием серебра",
       "image": "/img/34721616_1920_q70.jpg",
       "unit": "кг",
-      "price": 212.0
+      "price": 275.31
     },
     {
       "id": "rele-vpm",
@@ -623,14 +623,14 @@
       "name": "УВПМ-1 устройство программно-временное микроэлектронное",
       "image": "/img/34721623_1920_q70.jpg",
       "unit": "шт",
-      "price": 235.4
+      "price": 335.89
     },
     {
       "id": "emrv-27b-elektromashinnoe-motornoe-rele-vremeni",
       "name": "ЭМРВ-27Б Электромашинное (моторное) реле времени",
       "image": "/img/34721625_1920_q70.jpg",
       "unit": "шт",
-      "price": 341.33
+      "price": 410.23
     }
   ]
 }

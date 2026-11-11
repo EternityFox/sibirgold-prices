@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "razemy",
-  "updated": "2026-11-10T12:59:09+10:00",
+  "updated": "2026-11-11T10:56:16+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -451,8 +451,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685044_1920_q70.jpg",
       "unit": "шт",
-      "new": 9226.81,
-      "used": 7908.69
+      "new": 9670.83,
+      "used": 8289.28
     },
     {
       "id": "rppm-16-288-rozetka-s-1990-goda-zheltye-kontakty",
@@ -630,8 +630,8 @@
       "desc": "Желтые контакты",
       "image": "/img/34685581_1920_q70.jpg",
       "unit": "контакт",
-      "new": 6.6,
-      "used": 5.28
+      "new": 7.78,
+      "used": 6.22
     },
     {
       "id": "rs-kolodka-ligatura-zheltye-kontakty",
