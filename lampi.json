@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "lampi",
-  "updated": "2026-11-16T10:25:41+10:00",
+  "updated": "2026-11-17T08:26:25+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -9,77 +9,77 @@
       "name": "ГИ-19Б",
       "image": "/img/34721719_1920_q70.jpg",
       "unit": "шт",
-      "price": 1553.73
+      "price": 1522.65
     },
     {
       "id": "gmi-2b",
       "name": "ГМИ-2Б",
       "image": "/img/34721720_1920_q70.jpg",
       "unit": "шт",
-      "price": 9016.46
+      "price": 8836.13
     },
     {
       "id": "gmi-4b",
       "name": "ГМИ-4Б",
       "image": "/img/34721722_1920_q70.jpg",
       "unit": "шт",
-      "price": 6088.79
+      "price": 5967.02
     },
     {
       "id": "gmi-5",
       "name": "ГМИ-5",
       "image": "/img/34721724_1920_q70.jpg",
       "unit": "шт",
-      "price": 4003.74
+      "price": 3923.66
     },
     {
       "id": "gmi-7",
       "name": "ГМИ-7",
       "image": "/img/34721726_1920_q70.jpg",
       "unit": "шт",
-      "price": 9955.68
+      "price": 9756.56
     },
     {
       "id": "gmi-7-1",
       "name": "ГМИ-7-1",
       "image": "/img/34721727_1920_q70.jpg",
       "unit": "шт",
-      "price": 10194.5
+      "price": 9990.61
     },
     {
       "id": "gmi-10",
       "name": "ГМИ-10",
       "image": "/img/34721728_1920_q70.jpg",
       "unit": "шт",
-      "price": 1340.39
+      "price": 1313.59
     },
     {
       "id": "gmi-11",
       "name": "ГМИ-11",
       "image": "/img/34721742_1920_q70.jpg",
       "unit": "шт",
-      "price": 4021.18
+      "price": 3940.76
     },
     {
       "id": "gmi-14b",
       "name": "ГМИ-14Б",
       "image": "/img/34721743_1920_q70.jpg",
       "unit": "шт",
-      "price": 12250.04
+      "price": 12005.04
     },
     {
       "id": "gmi-20",
       "name": "ГМИ-20",
       "image": "/img/34721746_1920_q70.jpg",
       "unit": "шт",
-      "price": 3434.84
+      "price": 3366.15
     },
     {
       "id": "gmi-21-1",
       "name": "ГМИ-21-1",
       "image": "/img/34721752_1920_q70.jpg",
       "unit": "шт",
-      "price": 1449.07
+      "price": 1420.09
     },
     {
       "id": "gmi-24b-5",
@@ -92,105 +92,105 @@
       "name": "ГМИ-26 УХВ 3в",
       "image": "/img/34721760_1920_q70.jpg",
       "unit": "шт",
-      "price": 4493.47
+      "price": 4403.6
     },
     {
       "id": "gmi-27b",
       "name": "ГМИ-27Б",
       "image": "/img/34721764_1920_q70.jpg",
       "unit": "шт",
-      "price": 4919.28
+      "price": 4820.89
     },
     {
       "id": "gmi-29a-1",
       "name": "ГМИ-29А-1",
       "image": "/img/34721772_1920_q70.jpg",
       "unit": "шт",
-      "price": 31292.81
+      "price": 30666.95
     },
     {
       "id": "gmi-29b-1",
       "name": "ГМИ-29Б-1",
       "image": "/img/34721772_1920_q70.jpg",
       "unit": "шт",
-      "price": 31292.81
+      "price": 30666.95
     },
     {
       "id": "gmi-32b",
       "name": "ГМИ-32Б",
       "image": "/img/34721774_1920_q70.jpg",
       "unit": "шт",
-      "price": 10908.31
+      "price": 10690.14
     },
     {
       "id": "gmi-32b-1",
       "name": "ГМИ-32Б-1",
       "image": "/img/34721777_1920_q70.jpg",
       "unit": "шт",
-      "price": 11002.23
+      "price": 10782.18
     },
     {
       "id": "gmi-38",
       "name": "ГМИ-38",
       "image": "/img/34721779_1920_q70.jpg",
       "unit": "шт",
-      "price": 4481.4
+      "price": 4391.77
     },
     {
       "id": "gmi-42b",
       "name": "ГМИ-42Б",
       "image": "/img/34721784_1920_q70.jpg",
       "unit": "шт",
-      "price": 6373.24
+      "price": 6245.78
     },
     {
       "id": "gmi-46b",
       "name": "ГМИ-46Б",
       "image": "/img/34721785_1920_q70.jpg",
       "unit": "шт",
-      "price": 18314.69
+      "price": 17948.39
     },
     {
       "id": "gmi-83",
       "name": "ГМИ-83",
       "image": "/img/54776739_1920_q70.jpg",
       "unit": "шт",
-      "price": 555.08
+      "price": 543.97
     },
     {
       "id": "gmi-83v",
       "name": "ГМИ-83В",
       "image": "/img/34721787_1920_q70.jpg",
       "unit": "шт",
-      "price": 2817.64
+      "price": 2761.29
     },
     {
       "id": "gmi-89",
       "name": "ГМИ-89",
       "image": "/img/34721790_1920_q70.jpg",
       "unit": "шт",
-      "price": 1878.43
+      "price": 1840.86
     },
     {
       "id": "gmi-90",
       "name": "ГМИ-90",
       "image": "/img/34721796_1920_q70.jpg",
       "unit": "шт",
-      "price": 3582.43
+      "price": 3510.78
     },
     {
       "id": "gs-23b",
       "name": "ГС-23Б",
       "image": "/img/34721792_1920_q70.jpg",
       "unit": "шт",
-      "price": 4280.14
+      "price": 4194.53
     },
     {
       "id": "gs-36b",
       "name": "ГС-36Б",
       "image": "/img/34721801_1920_q70.jpg",
       "unit": "шт",
-      "price": 939.21
+      "price": 920.43
     },
     {
       "id": "gu-34b",
@@ -203,98 +203,98 @@
       "name": "ГУ-34Б-1",
       "image": "/img/34721812_1920_q70.jpg",
       "unit": "шт",
-      "price": 3688.43
+      "price": 3614.66
     },
     {
       "id": "gu-43a",
       "name": "ГУ-43А",
       "image": "/img/34721813_1920_q70.jpg",
       "unit": "шт",
-      "price": 3247.0
+      "price": 3182.06
     },
     {
       "id": "gu-43b",
       "name": "ГУ-43Б",
       "image": "/img/34721814_1920_q70.jpg",
       "unit": "шт",
-      "price": 3877.61
+      "price": 3800.06
     },
     {
       "id": "gu-50",
       "name": "ГУ-50",
       "image": "/img/34721823_1920_q70.jpg",
       "unit": "шт",
-      "price": 109.46
+      "price": 107.27
     },
     {
       "id": "gu-70b",
       "name": "ГУ-70Б",
       "image": "/img/34721824_1920_q70.jpg",
       "unit": "шт",
-      "price": 939.21
+      "price": 920.43
     },
     {
       "id": "gu-71b",
       "name": "ГУ-71Б",
       "image": "/img/34721825_1920_q70.jpg",
       "unit": "шт",
-      "price": 7500.3
+      "price": 7350.29
     },
     {
       "id": "gu-72",
       "name": "ГУ-72",
       "image": "/img/34721828_1920_q70.jpg",
       "unit": "шт",
-      "price": 1326.98
+      "price": 1300.44
     },
     {
       "id": "gu-73b",
       "name": "ГУ-73Б",
       "image": "/img/34721829_1920_q70.jpg",
       "unit": "шт",
-      "price": 8815.2
+      "price": 8638.9
     },
     {
       "id": "gu-73p",
       "name": "ГУ-73П",
       "image": "/img/34721830_1920_q70.jpg",
       "unit": "шт",
-      "price": 8654.19
+      "price": 8481.11
     },
     {
       "id": "gu-74b",
       "name": "ГУ-74Б",
       "image": "/img/34721833_1920_q70.jpg",
       "unit": "шт",
-      "price": 2213.86
+      "price": 2169.59
     },
     {
       "id": "gu-78b",
       "name": "ГУ-78Б",
       "image": "/img/34721834_1920_q70.jpg",
       "unit": "шт",
-      "price": 7835.73
+      "price": 7679.02
     },
     {
       "id": "gu-84b",
       "name": "ГУ-84Б",
       "image": "/img/34721837_1920_q70.jpg",
       "unit": "шт",
-      "price": 6145.15
+      "price": 6022.24
     },
     {
       "id": "k-351",
       "name": "К-351",
       "image": "/img/34721840_1920_q70.jpg",
       "unit": "шт",
-      "price": 1207.56
+      "price": 1183.41
     },
     {
       "id": "k-352",
       "name": "К-352",
       "image": "/img/34721841_1920_q70.jpg",
       "unit": "шт",
-      "price": 872.13
+      "price": 854.69
     }
   ]
 }
