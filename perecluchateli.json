@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "perecluchateli",
-  "updated": "2026-11-18T12:37:40+10:00",
+  "updated": "2026-11-19T09:06:22+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -9,7 +9,7 @@
       "name": "ПГ2-5-12-П1Н",
       "image": "/img/34721126_1920_q70.jpg",
       "unit": "кольцо",
-      "price": 984.26
+      "price": 963.79
     },
     {
       "id": "pg2-pg7-do-1990-goda",
@@ -17,7 +17,7 @@
       "desc": "до 1990 года",
       "image": "/img/34721134_1920_q70.jpg",
       "unit": "кольцо",
-      "price": 885.55
+      "price": 867.13
     },
     {
       "id": "pg2-pg7-s-1990-do-dekabrya1991-g-plastmassovyj-korpus",
@@ -25,14 +25,14 @@
       "desc": "с 1990 до декабря 1991 г. пластмассовый корпус",
       "image": "/img/42308207_1920_q70.jpg",
       "unit": "кольцо",
-      "price": 722.53
+      "price": 707.5
     },
     {
       "id": "p2g3",
       "name": "П2Г3",
       "image": "/img/34721170_1920_q70.jpg",
       "unit": "секция",
-      "price": 26.05
+      "price": 24.8
     },
     {
       "id": "pr-2-2-do-1990-goda",
@@ -116,7 +116,7 @@
       "desc": "только со схемой",
       "image": "/img/34721191_1920_q70.jpg",
       "unit": "шт",
-      "price": 260.27
+      "price": 247.73
     },
     {
       "id": "p2knt-zhltaya-knopka",
@@ -139,14 +139,14 @@
       "name": "ПТ3-40В",
       "image": "/img/34721193_1920_q70.jpg",
       "unit": "шт",
-      "price": 51.06
+      "price": 48.6
     },
     {
       "id": "p3p1ta-2-3v",
       "name": "П3П1ТА-2 3В",
       "image": "/img/34721194_1920_q70.jpg",
       "unit": "шт",
-      "price": 6.81
+      "price": 6.48
     },
     {
       "id": "shiv-25s-kontaktami-pli10",
@@ -154,7 +154,7 @@
       "desc": "с контактами Пли10",
       "image": "/img/34721212_1920_q70.jpg",
       "unit": "шт",
-      "price": 1293.67
+      "price": 1267.8
     },
     {
       "id": "shiv-50s-kontaktami-pli10",
@@ -162,14 +162,14 @@
       "desc": "с контактами Пли10",
       "image": "/img/34721214_1920_q70.jpg",
       "unit": "шт",
-      "price": 2029.16
+      "price": 1988.58
     },
     {
       "id": "ksp",
       "name": "КСП",
       "image": "/img/34721215_1920_q70.jpg",
       "unit": "шт",
-      "price": 4186.9
+      "price": 4099.81
     },
     {
       "id": "kontakty-ot-pereklyuchatelej-500-proba",
