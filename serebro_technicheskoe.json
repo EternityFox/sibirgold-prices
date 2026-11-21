@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "serebro_technicheskoe",
-  "updated": "2026-11-20T11:55:05+10:00",
+  "updated": "2026-11-21T11:49:42+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,7 +10,7 @@
       "desc": "Чашка из конденсатора К52-2",
       "image": "/img/34721652_1920_q70.jpg",
       "unit": "г",
-      "price": 93.03
+      "price": 84.65
     },
     {
       "id": "serebro-97-kontakty-rele",
@@ -18,7 +18,7 @@
       "desc": "Контакты реле",
       "image": "/img/34721654_1920_q70.webp",
       "unit": "г",
-      "price": 90.21
+      "price": 82.09
     },
     {
       "id": "serebro-85-kontakty-posle-proverki",
@@ -33,7 +33,7 @@
       "desc": "Немагнитное",
       "image": "/img/34721671_1920_q70.jpg",
       "unit": "г",
-      "price": 74.08
+      "price": 67.41
     },
     {
       "id": "serebro-60-magnitnoe",
@@ -41,7 +41,7 @@
       "desc": "Магнитное",
       "image": "/img/34721672_1920_q70.jpg",
       "unit": "г",
-      "price": 55.67
+      "price": 50.66
     },
     {
       "id": "serebro-25-na-medi",
@@ -49,7 +49,7 @@
       "desc": "На меди",
       "image": "/img/34721674_1920_q70.jpg",
       "unit": "г",
-      "price": 22.6
+      "price": 20.57
     },
     {
       "id": "serebros-mks",
@@ -63,7 +63,7 @@
       "desc": "Контакты на подложке",
       "image": "/img/34721691_1920_q70.jpg",
       "unit": "кг",
-      "price": 5029.12
+      "price": 4576.51
     },
     {
       "id": "serebro-ligatura-s-razemov",
@@ -71,7 +71,7 @@
       "desc": "Лигатура с разъемов",
       "image": "/img/34721701_1920_q70.jpg",
       "unit": "кг",
-      "price": 691.83
+      "price": 629.57
     }
   ]
 }
