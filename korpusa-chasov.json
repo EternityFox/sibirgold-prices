@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "korpusa-chasov",
-  "updated": "2026-11-23T11:09:46+10:00",
+  "updated": "2026-11-24T08:37:12+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -17,7 +17,7 @@
       "desc": "без механизма",
       "image": "/img/34740322_1920_q70.jpg",
       "unit": "кг",
-      "price": 72609.02
+      "price": 74061.2
     },
     {
       "id": "korpusa-chasov-so-znakom-au-bez-mehanizma",
@@ -25,7 +25,7 @@
       "desc": "без механизма",
       "image": "/img/44102307_1920_q70.jpg",
       "unit": "кг",
-      "price": 54623.42
+      "price": 55715.89
     }
   ]
 }
