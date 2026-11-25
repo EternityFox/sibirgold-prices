@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "condensatory",
-  "updated": "2026-11-25T08:24:21+10:00",
+  "updated": "2026-11-25T13:49:00+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -18,7 +18,7 @@
       "desc": "Размер: мелкий, средний, крупный",
       "image": "/img/34669756_1920_q70.jpg",
       "unit": "кг",
-      "price": 98244.95
+      "price": 97324.0
     },
     {
       "id": "kondensatory-km-zelenye-gruppy-n30-razmer-melkij-srednij-krupnyjkm-zelenye-n30",
