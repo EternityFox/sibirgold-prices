@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "razemy",
-  "updated": "2026-11-26T13:14:11+10:00",
+  "updated": "2026-11-27T08:30:10+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -496,8 +496,8 @@
       "desc": "стального цвета, длинные ноги",
       "image": "/img/21246137_1920_q70.jpg",
       "unit": "шт",
-      "new": 177.5,
-      "used": 102.95
+      "new": 179.27,
+      "used": 103.98
     },
     {
       "id": "rppg-2-48-rozetka-stalnogo-czveta-korotkie-nogi",
@@ -505,8 +505,8 @@
       "desc": "стального цвета, короткие ноги",
       "image": "/img/9619983_1920_q70.jpg",
       "unit": "шт",
-      "new": 77.52,
-      "used": 77.52
+      "new": 78.3,
+      "used": 78.3
     },
     {
       "id": "rppg-2-48-rozetka-zheltogo-czveta",
@@ -762,8 +762,8 @@
       "name": "Ламель белая",
       "image": "/img/34685739_1920_q70.jpg",
       "unit": "кг",
-      "new": 2078.89,
-      "used": 2078.89
+      "new": 2099.68,
+      "used": 2099.68
     },
     {
       "id": "importnye-razemy-zheltogo-czveta-ligatura",
