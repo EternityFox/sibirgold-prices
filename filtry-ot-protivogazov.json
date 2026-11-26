@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "filtry-ot-protivogazov",
-  "updated": "2026-11-25T13:49:00+10:00",
+  "updated": "2026-11-26T10:28:05+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -9,21 +9,21 @@
       "name": "Фильтр противогаза ДП-2",
       "image": "/img/44108423_1920_q70.jpg",
       "unit": "шт",
-      "price": 2187.8
+      "price": 2144.05
     },
     {
       "id": "filtr-protivogaza-dp-4",
       "name": "Фильтр противогаза ДП-4",
       "image": "/img/44108427_1920_q70.jpg",
       "unit": "шт",
-      "price": 2187.8
+      "price": 2144.05
     },
     {
       "id": "filtr-protivogaza-fg-120",
       "name": "Фильтр противогаза ФГ-120",
       "image": "/img/44108431_1920_q70.jpg",
       "unit": "шт",
-      "price": 2187.8
+      "price": 2144.05
     }
   ]
 }

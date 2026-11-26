@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "microshemi",
-  "updated": "2026-11-25T13:49:00+10:00",
+  "updated": "2026-11-26T10:28:05+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -10,8 +10,8 @@
       "desc": "14 ног 0 подложек",
       "image": "/img/19839679_1920_q70.jpg",
       "unit": "шт",
-      "new": 46.62,
-      "used": 38.76
+      "new": 45.69,
+      "used": 37.98
     },
     {
       "id": "130133-i-podobnye-14-nog-1-podlozhka",
@@ -19,8 +19,8 @@
       "desc": "14 ног 1 подложка",
       "image": "/img/34681339_1920_q70.jpg",
       "unit": "шт",
-      "new": 70.07,
-      "used": 55.09
+      "new": 68.67,
+      "used": 53.99
     },
     {
       "id": "130133-i-podobnye-14-nog-2-podlozhki",
@@ -28,8 +28,8 @@
       "desc": "14 ног 2 подложки",
       "image": "/img/34681341_1920_q70.jpg",
       "unit": "шт",
-      "new": 144.47,
-      "used": 106.76
+      "new": 141.58,
+      "used": 104.63
     },
     {
       "id": "130133-i-podobnye-16-nog-0-podlozhek",
@@ -37,8 +37,8 @@
       "desc": "16 ног 0 подложек",
       "image": "/img/34681343_1920_q70.jpg",
       "unit": "шт",
-      "new": 100.45,
-      "used": 75.33
+      "new": 98.44,
+      "used": 73.83
     },
     {
       "id": "130133-i-podobnye-16-nog-1-podlozhka-ploskaya",
@@ -46,8 +46,8 @@
       "desc": "16 ног 1 подложка (плоская)",
       "image": "/img/34681353_1920_q70.jpg",
       "unit": "шт",
-      "new": 150.68,
-      "used": 113.01
+      "new": 147.67,
+      "used": 110.75
     },
     {
       "id": "130133-i-podobnye-16-nog-1-podlozhka-vypuklaya",
@@ -55,8 +55,8 @@
       "desc": "16 ног 1 подложка (выпуклая)",
       "image": "/img/34681354_1920_q70.jpg",
       "unit": "шт",
-      "new": 80.71,
-      "used": 60.53
+      "new": 79.1,
+      "used": 59.32
     },
     {
       "id": "134-im4-i-podobnye-16-nog-1-podlozhka-vypuklaya",
@@ -64,8 +64,8 @@
       "desc": "16 ног 1 подложка (выпуклая)",
       "image": "/img/34681354_1920_q70.jpg",
       "unit": "шт",
-      "new": 75.5,
-      "used": 64.18
+      "new": 73.99,
+      "used": 62.89
     },
     {
       "id": "133-id3-556-rt7-1-i-podobnye-24-nogi-1-podlozhka",
@@ -73,8 +73,8 @@
       "desc": "24 ноги 1 подложка",
       "image": "/img/34681361_1920_q70.jpg",
       "unit": "шт",
-      "new": 219.28,
-      "used": 171.91
+      "new": 214.89,
+      "used": 168.47
     },
     {
       "id": "140-i-podobnye-12-nog",
@@ -82,8 +82,8 @@
       "desc": "12 ног",
       "image": "/img/34681363_1920_q70.jpg",
       "unit": "шт",
-      "new": 186.55,
-      "used": 97.0
+      "new": 182.82,
+      "used": 95.06
     },
     {
       "id": "140-i-podobnye-8-nog",
@@ -91,32 +91,32 @@
       "desc": "8 ног",
       "image": "/img/34681365_1920_q70.jpg",
       "unit": "шт",
-      "new": 157.81,
-      "used": 91.14
+      "new": 154.65,
+      "used": 89.32
     },
     {
       "id": "142-en-12-nd1-5",
       "name": "142 ЕН 1,2 НД1-5",
       "image": "/img/34681368_1920_q70.jpg",
       "unit": "шт",
-      "new": 107.62,
-      "used": 80.71
+      "new": 105.47,
+      "used": 79.1
     },
     {
       "id": "142-en-3589",
       "name": "142 ЕН 3,5,8,9",
       "image": "/img/34681371_1920_q70.jpg",
       "unit": "шт",
-      "new": 172.2,
-      "used": 129.15
+      "new": 168.76,
+      "used": 126.57
     },
     {
       "id": "537ru3b",
       "name": "537РУ3Б",
       "image": "/img/34681375_1920_q70.jpg",
       "unit": "шт",
-      "new": 72.14,
-      "used": 54.1
+      "new": 70.7,
+      "used": 53.02
     },
     {
       "id": "550up1-i-podobnye-16-nog-zheltyj-niz",
@@ -124,8 +124,8 @@
       "desc": "16 ног желтый низ",
       "image": "/img/34681378_1920_q70.jpg",
       "unit": "шт",
-      "new": 123.83,
-      "used": 92.87
+      "new": 121.36,
+      "used": 91.02
     },
     {
       "id": "556-rt-5-i-podobnye-24-nogi-0-podlozhek",
@@ -133,8 +133,8 @@
       "desc": "24 ноги 0 подложек",
       "image": "/img/34681390_1920_q70.jpg",
       "unit": "шт",
-      "new": 136.31,
-      "used": 102.23
+      "new": 133.58,
+      "used": 100.19
     },
     {
       "id": "564-i-podobnye-14-nog-torecz",
@@ -142,8 +142,8 @@
       "desc": "14 ног (торец)",
       "image": "/img/34681394_1920_q70.jpg",
       "unit": "шт",
-      "new": 100.45,
-      "used": 75.33
+      "new": 98.44,
+      "used": 73.83
     },
     {
       "id": "564-i-podobnye-14-nog-toreczs-1990-goda",
@@ -151,8 +151,8 @@
       "desc": "14 ног (торец) с 1990 года",
       "image": "/img/34681395_1920_q70.jpg",
       "unit": "шт",
-      "new": 60.27,
-      "used": 45.2
+      "new": 59.06,
+      "used": 44.3
     },
     {
       "id": "565-ru-3-keram-korpus",
@@ -160,8 +160,8 @@
       "desc": "керам. корпус",
       "image": "/img/34681398_1920_q70.jpg",
       "unit": "шт",
-      "new": 115.26,
-      "used": 92.21
+      "new": 112.95,
+      "used": 90.36
     },
     {
       "id": "580gf24-i-podobnye-16-nog",
@@ -169,48 +169,48 @@
       "desc": "16 ног",
       "image": "/img/34681404_1920_q70.jpg",
       "unit": "шт",
-      "new": 116.11,
-      "used": 92.89
+      "new": 113.79,
+      "used": 91.03
     },
     {
       "id": "588vs2b",
       "name": "588ВС2Б",
       "image": "/img/34681430_1920_q70.webp",
       "unit": "шт",
-      "new": 267.51,
-      "used": 214.01
+      "new": 262.16,
+      "used": 209.73
     },
     {
       "id": "aoty-aody",
       "name": "АОТы, АОДы",
       "image": "/img/34681463_1920_q70.jpg",
       "unit": "шт",
-      "new": 99.82,
-      "used": 77.86
+      "new": 97.82,
+      "used": 76.3
     },
     {
       "id": "k1zhg",
       "name": "К1ЖГ",
       "image": "/img/34681464_1920_q70.jpg",
       "unit": "шт",
-      "new": 191.6,
-      "used": 143.7
+      "new": 187.77,
+      "used": 140.83
     },
     {
       "id": "k142eh5b",
       "name": "K142EH5B",
       "image": "/img/34681470_1920_q70.jpg",
       "unit": "шт",
-      "new": 146.85,
-      "used": 104.92
+      "new": 143.91,
+      "used": 102.82
     },
     {
       "id": "mikroshemy-importnye",
       "name": "Микросхемы импортные",
       "image": "/img/34681510_1920_q70.jpg",
       "unit": "кг",
-      "new": 23918.52,
-      "used": 23918.52
+      "new": 23440.16,
+      "used": 23440.16
     },
     {
       "id": "1801-i-podobnye-48-nog",
@@ -218,8 +218,8 @@
       "desc": "48 ног",
       "image": "/img/34681517_1920_q70.jpg",
       "unit": "шт",
-      "new": 287.02,
-      "used": 215.27
+      "new": 281.28,
+      "used": 210.96
     },
     {
       "id": "1801-i-podobnye-68-nog",
@@ -227,24 +227,24 @@
       "desc": "68 ног",
       "image": "/img/34681519_1920_q70.jpg",
       "unit": "шт",
-      "new": 380.32,
-      "used": 285.23
+      "new": 372.71,
+      "used": 279.53
     },
     {
       "id": "217-nt",
       "name": "217 НТ",
       "image": "/img/34681522_1920_q70.jpg",
       "unit": "шт",
-      "new": 78.9,
-      "used": 78.9
+      "new": 77.32,
+      "used": 77.32
     },
     {
       "id": "2lp211",
       "name": "2ЛП211",
       "image": "/img/40064970_1920_q70.jpg",
       "unit": "шт",
-      "new": 266.57,
-      "used": 218.58
+      "new": 261.24,
+      "used": 214.21
     },
     {
       "id": "218-i-podobnye-zalitaya-podlozhka",
@@ -252,24 +252,24 @@
       "desc": "залитая подложка",
       "image": "/img/34681530_1920_q70.jpg",
       "unit": "шт",
-      "new": 172.2,
-      "used": 129.14
+      "new": 168.76,
+      "used": 126.55
     },
     {
       "id": "286-ep3",
       "name": "286 ЕП3",
       "image": "/img/34681534_1920_q70.jpg",
       "unit": "шт",
-      "new": 100.45,
-      "used": 75.36
+      "new": 98.44,
+      "used": 73.85
     },
     {
       "id": "435uv",
       "name": "435УВ",
       "image": "/img/34681536_1920_q70.jpg",
       "unit": "шт",
-      "new": 35.86,
-      "used": 26.88
+      "new": 35.15,
+      "used": 26.34
     },
     {
       "id": "565ru-i-podobnye-22-nogi",
@@ -277,8 +277,8 @@
       "desc": "22 ноги",
       "image": "/img/34681544_1920_q70.jpg",
       "unit": "шт",
-      "new": 137.77,
-      "used": 123.97
+      "new": 135.01,
+      "used": 121.49
     },
     {
       "id": "565ru3-i-podobnye-16-nog-bez-podlozhek",
@@ -286,8 +286,8 @@
       "desc": "16 ног без подложек",
       "image": "/img/34681398_1920_q70.jpg",
       "unit": "шт",
-      "new": 117.62,
-      "used": 111.74
+      "new": 115.27,
+      "used": 109.51
     },
     {
       "id": "580-i-podobnye-40-nog",
@@ -295,8 +295,8 @@
       "desc": "40 ног",
       "image": "/img/34681549_1920_q70.jpg",
       "unit": "шт",
-      "new": 264.16,
-      "used": 250.94
+      "new": 258.87,
+      "used": 245.92
     },
     {
       "id": "580va86-i-podobnye-20-nog",
@@ -304,8 +304,8 @@
       "desc": "20 ног",
       "image": "/img/34681551_1920_q70.jpg",
       "unit": "шт",
-      "new": 125.45,
-      "used": 125.45
+      "new": 122.95,
+      "used": 122.95
     },
     {
       "id": "vdm-za-2-sekczii-8-nog",
@@ -313,8 +313,8 @@
       "desc": "(8 ног)",
       "image": "/img/34681558_1920_q70.jpg",
       "unit": "шт",
-      "new": 32.61,
-      "used": 24.45
+      "new": 31.95,
+      "used": 23.97
     },
     {
       "id": "k-155-170-172-i-podobnye-plastmass-korpus",
@@ -322,8 +322,8 @@
       "desc": "пластмасс.корпус",
       "image": "/img/34681567_1920_q70.jpg",
       "unit": "кг",
-      "new": 7953.18,
-      "used": 7953.18
+      "new": 7794.12,
+      "used": 7794.12
     },
     {
       "id": "k-573-rf-5-i-podobnyekorichnevyj-korpus",
@@ -331,8 +331,8 @@
       "desc": "коричневый корпус",
       "image": "/img/9614585_1920_q70.jpg",
       "unit": "шт",
-      "new": 37.51,
-      "used": 35.86
+      "new": 36.76,
+      "used": 35.15
     },
     {
       "id": "k-573-rf5-i-podobnye-belyj-korpus",
@@ -340,16 +340,16 @@
       "desc": "белый корпус",
       "image": "/img/9614592_1920_q70.jpg",
       "unit": "шт",
-      "new": 215.27,
-      "used": 161.43
+      "new": 210.96,
+      "used": 158.2
     },
     {
       "id": "k519re",
       "name": "К519РЕ",
       "image": "/img/34681659_1920_q70.jpg",
       "unit": "шт",
-      "new": 143.48,
-      "used": 107.59
+      "new": 140.61,
+      "used": 105.44
     },
     {
       "id": "k565-ru-12-keram-korpus",
@@ -357,8 +357,8 @@
       "desc": "керам. корпус",
       "image": "/img/34681665_1920_q70.jpg",
       "unit": "шт",
-      "new": 127.3,
-      "used": 101.85
+      "new": 124.75,
+      "used": 99.81
     },
     {
       "id": "km1816-40-nog-s-zerkalom",
@@ -366,8 +366,8 @@
       "desc": "40 ног, с зеркалом",
       "image": "/img/34681670_1920_q70.jpg",
       "unit": "шт",
-      "new": 270.92,
-      "used": 216.72
+      "new": 265.5,
+      "used": 212.39
     },
     {
       "id": "km1816ve35-i-podobnye-40-nog",
@@ -375,8 +375,8 @@
       "desc": "40 ног",
       "image": "/img/34681697_1920_q70.jpg",
       "unit": "шт",
-      "new": 287.02,
-      "used": 215.27
+      "new": 281.28,
+      "used": 210.96
     },
     {
       "id": "kts-613-zheltoe-dno",
@@ -384,8 +384,8 @@
       "desc": "желтое дно",
       "image": "/img/34681702_1920_q70.jpg",
       "unit": "шт",
-      "new": 445.21,
-      "used": 356.16
+      "new": 436.3,
+      "used": 349.04
     },
     {
       "id": "otechestvennye-mikroshemy-zheltye-raznye-miks",
@@ -393,8 +393,8 @@
       "desc": "желтые разные (МИКС)",
       "image": "/img/54776745_1920_q70.jpg",
       "unit": "кг",
-      "new": 78733.21,
-      "used": 66450.83
+      "new": 77158.58,
+      "used": 65121.84
     },
     {
       "id": "otechestvennye-chipovye-mikroshemy-v-plast-korpuse-lyubyh-nominalov-na-izlome-belaya-podlozhka",
@@ -402,8 +402,8 @@
       "desc": "любых номиналов на изломе белая подложка",
       "image": "/img/34681721_1920_q70.jpg",
       "unit": "кг",
-      "new": 559.65,
-      "used": 559.65
+      "new": 548.46,
+      "used": 548.46
     },
     {
       "id": "252pa-i-podobnye-zheltye-nogi",
@@ -411,8 +411,8 @@
       "desc": "желтые ноги",
       "image": "/img/40065209_1920_q70.jpg",
       "unit": "шт",
-      "new": 63.18,
-      "used": 50.54
+      "new": 61.91,
+      "used": 49.53
     },
     {
       "id": "277kt1-i-podobnye-zhltye-nogi-zhltoe-dno",
@@ -420,32 +420,32 @@
       "desc": "желтые ноги, желтое дно",
       "image": "/img/40064987_1920_q70.jpg",
       "unit": "шт",
-      "new": 287.84,
-      "used": 230.27
+      "new": 282.09,
+      "used": 225.67
     },
     {
       "id": "1200czl1-i-podobnye-indikatory",
       "name": "1200ЦЛ1 и подобные индикаторы",
       "image": "/img/40065127_1920_q70.jpg",
       "unit": "шт",
-      "new": 133.39,
-      "used": 106.72
+      "new": 130.73,
+      "used": 104.58
     },
     {
       "id": "1802vr5-i-podobnye",
       "name": "1802ВР5 и подобные",
       "image": "/img/40065158_1920_q70.jpg",
       "unit": "шт",
-      "new": 210.62,
-      "used": 168.49
+      "new": 206.41,
+      "used": 165.12
     },
     {
       "id": "a1146g-i-podobnye-indikatory",
       "name": "А1146Г и подобные индикаторы",
       "image": "/img/40065176_1920_q70.jpg",
       "unit": "шт",
-      "new": 126.37,
-      "used": 101.1
+      "new": 123.84,
+      "used": 99.07
     },
     {
       "id": "k1108pa1-24-nogi",
@@ -453,8 +453,8 @@
       "desc": "24 ноги",
       "image": "/img/40065192_1920_q70.jpg",
       "unit": "шт",
-      "new": 198.68,
-      "used": 176.43
+      "new": 194.71,
+      "used": 172.9
     }
   ]
 }
