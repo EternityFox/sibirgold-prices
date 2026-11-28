@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "category": "diody",
-  "updated": "2026-11-27T13:18:55+10:00",
+  "updated": "2026-11-28T10:43:36+10:00",
   "currency": "RUB",
   "items": [
     {
@@ -9,8 +9,8 @@
       "name": "2А510Б и подобные",
       "image": "/img/47361003_1920_q70.jpg",
       "unit": "шт",
-      "new": 31.91,
-      "used": 25.53
+      "new": 33.85,
+      "used": 27.08
     },
     {
       "id": "2v104-kd104-zheltye-nogi",
@@ -18,8 +18,8 @@
       "desc": "Желтые ноги",
       "image": "/img/47361101_1920_q70.jpg",
       "unit": "шт",
-      "new": 10.07,
-      "used": 7.56
+      "new": 10.69,
+      "used": 8.02
     },
     {
       "id": "al304v-zheltye-vyvody",
@@ -27,8 +27,8 @@
       "desc": "Желтые выводы",
       "image": "/img/47361115_1920_q70.webp",
       "unit": "шт",
-      "new": 32.05,
-      "used": 24.04
+      "new": 34.0,
+      "used": 25.5
     },
     {
       "id": "al307-i-podobnye-zheltye-vnutri",
@@ -36,8 +36,8 @@
       "desc": "Желтые внутри",
       "image": "/img/47361123_1920_q70.jpg",
       "unit": "кг",
-      "new": 6311.5,
-      "used": 4733.63
+      "new": 6695.13,
+      "used": 5021.35
     },
     {
       "id": "als-krupnye-14-nog",
@@ -45,8 +45,8 @@
       "desc": "14 ног",
       "image": "/img/47361133_1920_q70.jpg",
       "unit": "шт",
-      "new": 62.36,
-      "used": 46.77
+      "new": 66.15,
+      "used": 49.61
     },
     {
       "id": "als-melkie-8-10-nog",
@@ -54,16 +54,16 @@
       "desc": "8, 10 ног",
       "image": "/img/34681452_1920_q70.jpg",
       "unit": "шт",
-      "new": 32.18,
-      "used": 24.13
+      "new": 34.13,
+      "used": 25.6
     },
     {
       "id": "als314-av-i-podobnye",
       "name": "АЛС314 (а,в) и подобные",
       "image": "/img/47361145_1920_q70.webp",
       "unit": "шт",
-      "new": 32.18,
-      "used": 24.13
+      "new": 34.13,
+      "used": 25.6
     },
     {
       "id": "als340a-i-podobnye-14-zheltyh-nog",
@@ -71,8 +71,8 @@
       "desc": "14 желтых ног",
       "image": "/img/47361147_1920_q70.jpg",
       "unit": "шт",
-      "new": 63.46,
-      "used": 47.59
+      "new": 67.32,
+      "used": 50.49
     },
     {
       "id": "als350-i-podobnye-14-zheltyh-nog",
@@ -80,16 +80,16 @@
       "desc": "14 желтых ног",
       "image": "/img/47361151_1920_q70.jpg",
       "unit": "шт",
-      "new": 54.52,
-      "used": 40.89
+      "new": 57.84,
+      "used": 43.38
     },
     {
       "id": "gi401a-i-podobnye",
       "name": "ГИ401А и подобные",
       "image": "/img/47361157_1920_q70.jpg",
       "unit": "шт",
-      "new": 32.37,
-      "used": 24.28
+      "new": 34.34,
+      "used": 25.75
     },
     {
       "id": "diod-d229-massa-35-g",
@@ -105,8 +105,8 @@
       "desc": "Масса: 2,5г.",
       "image": "/img/47361175_1920_q70.jpg",
       "unit": "шт",
-      "new": 106.18,
-      "used": 79.64
+      "new": 112.64,
+      "used": 84.48
     },
     {
       "id": "diody-2d212-kd212-2d213-kd213-i-t-p-massa-4-g",
@@ -122,8 +122,8 @@
       "desc": "Желтая нога",
       "image": "/img/34682023_1920_q70.jpg",
       "unit": "шт",
-      "new": 12.86,
-      "used": 8.03
+      "new": 13.64,
+      "used": 8.51
     },
     {
       "id": "diody-d206-d207-d208-d209-d210-kd202a-i-t-p-massa-52-g",
@@ -139,8 +139,8 @@
       "name": "ЗЛ102 и подобные",
       "image": "/img/47361209_1920_q70.jpg",
       "unit": "шт",
-      "new": 20.86,
-      "used": 15.65
+      "new": 22.13,
+      "used": 16.6
     },
     {
       "id": "indikatory-sovetskie-10-nog-zheltogo-czveta",
@@ -148,16 +148,16 @@
       "desc": "10 ног желтого цвета",
       "image": "/img/47361247_1920_q70.webp",
       "unit": "шт",
-      "new": 32.37,
-      "used": 24.28
+      "new": 34.34,
+      "used": 25.75
     },
     {
       "id": "kd906",
       "name": "КД906",
       "image": "/img/34682030_1920_q70.jpg",
       "unit": "шт",
-      "new": 14.25,
-      "used": 11.4
+      "new": 15.12,
+      "used": 12.09
     },
     {
       "id": "kd908-kd917-i-podobnye-0-podlozhka",
@@ -165,8 +165,8 @@
       "desc": "0 подложка",
       "image": "/img/47361271_1920_q70.jpg",
       "unit": "шт",
-      "new": 54.37,
-      "used": 40.78
+      "new": 57.67,
+      "used": 43.25
     },
     {
       "id": "kd908-kd917-i-podobnye-1-podlozhka",
@@ -174,8 +174,8 @@
       "desc": "1 подложка",
       "image": "/img/47361275_1920_q70.jpg",
       "unit": "шт",
-      "new": 74.7,
-      "used": 56.02
+      "new": 79.24,
+      "used": 59.43
     },
     {
       "id": "kd917a-2-podlozhki",
@@ -183,8 +183,8 @@
       "desc": "2 подложки",
       "image": "/img/47361281_1920_q70.jpg",
       "unit": "шт",
-      "new": 121.16,
-      "used": 90.87
+      "new": 128.53,
+      "used": 96.39
     },
     {
       "id": "kds523-8-nog-i-podobnye",
@@ -192,8 +192,8 @@
       "desc": "8 ног",
       "image": "/img/47361293_1920_q70.webp",
       "unit": "шт",
-      "new": 22.66,
-      "used": 17.0
+      "new": 24.04,
+      "used": 18.03
     },
     {
       "id": "kds628a-i-podobnye-krasnyj-korpus",
@@ -201,16 +201,16 @@
       "desc": "Красный корпус",
       "image": "/img/47361307_1920_q70.jpg",
       "unit": "шт",
-      "new": 51.6,
-      "used": 38.7
+      "new": 54.73,
+      "used": 41.05
     },
     {
       "id": "klcz402b-i-podobnye",
       "name": "КЛЦ402Б и подобные",
       "image": "/img/47361321_1920_q70.jpg",
       "unit": "шт",
-      "new": 63.82,
-      "used": 47.86
+      "new": 67.7,
+      "used": 50.77
     },
     {
       "id": "krupnye-fotodiody",
@@ -224,16 +224,16 @@
       "desc": "Желтые контакты внутри",
       "image": "/img/47361357_1920_q70.jpg",
       "unit": "кг",
-      "new": 6311.5,
-      "used": 4733.63
+      "new": 6695.13,
+      "used": 5021.35
     },
     {
       "id": "svetodiody-s-zheltymi-vyvodami",
       "name": "Светодиоды с желтыми выводами",
       "image": "/img/47361363_1920_q70.jpg",
       "unit": "кг",
-      "new": 6311.5,
-      "used": 4733.63
+      "new": 6695.13,
+      "used": 5021.35
     }
   ]
 }
